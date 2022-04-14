@@ -1,4 +1,4 @@
-baseURL = 'https://chaoruan.xyz/'
+baseURL = 'https://chaoruan.xyz'
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
@@ -11,7 +11,7 @@ defaultContentLanguage = "zh-CN"
   version = "0.2.X"
   defaultTheme = "auto"
   # 网站图片, 用于 Open Graph 和 Twitter Cards
-  images = ["/logo.png"]
+  # images = ["/logo.png"]
 
   [params.cdn]
     # CDN 数据文件名称, 默认不启用
@@ -45,28 +45,24 @@ defaultContentLanguage = "zh-CN"
     fraction = true
     fontawesome = true
     [params.page.share]
-        enable = true
-        Twitter = true
-        Facebook = true
-        Linkedin = false
-        Whatsapp = true
-        HackerNews = false
-        Reddit = false
-        Weibo = true
-        Renren = false
+      enable = true
+      Twitter = true
+      Facebook = true
+      HackerNews = false
     [params.page.comment]
-        enable = true
-        # Disqus 评论系统设置
-        [params.page.comment.disqus]
-          # LoveIt 新增 | 0.1.1
-          enable = false
-          # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-          shortname = "chaos-blog-1"
+      enable = true
+      # Disqus 评论系统设置
+      [params.page.comment.disqus]
+        # LoveIt 新增 | 0.1.1
+        enable = false
+        # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
+        shortname = "chaos-blog-1"
   [params.analytics]
     enable = false
     # Google Analytics
     [params.analytics.google]
       id = "UA-52161528-1"
+
 [languages]
   [languages.en]
     weight = 1
