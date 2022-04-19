@@ -1,0 +1,18 @@
+#+hugo_base_dir: ../
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+#+options: author:nil
+
+* Blog ideas
+** DONE 建设中...
+:PROPERTIES:
+:EXPORT_FILE_NAME: in-prograss.zh-cn.md
+:END:
+建设中,敬请期待!
+
+* Footnotes
+* COMMENT Local Variables                          :ARCHIVE:
+  # Local Variables:
+  # eval: (org-hugo-auto-export-mode)
+  # End:

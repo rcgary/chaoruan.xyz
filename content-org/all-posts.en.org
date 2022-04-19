@@ -1,0 +1,159 @@
+#+hugo_base_dir: ../
+
+#+hugo_weight: auto
+#+hugo_auto_set_lastmod: t
+#+options: author:nil
+
+* Blog ideas
+** DONE Notes for SwiftUI and Combine Programming (1) :@programming:swift:iOS:swiftUI:
+   CLOSED: [2019-11-08 Fri 22:54]
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: notes-for-swiftui-and-combine-programming.en.md
+   :EXPORT_DATE: [2019-11-07 Thu 21:34]
+   :END:
+   I start reading [[https://onevcat.com/][onevcat]] new book [[https://objccn.io/products/swift-ui][/SwiftUI and Combine Programming/]] (a great
+   book to learning SwiftUI if you can read Chinese). I decided to put all the
+   interest parts and notes in here.
+   #+hugo: more
+*** First things First
+    We always need to ~import~ the dependency first
+    #+begin_src swift
+      import SwiftUI
+      import Combine
+    #+end_src
+*** Layout all the views in the body
+    #+begin_src swift
+      var body: some View {
+          /// Layout your view here
+      }
+    #+end_src
+    ~some View~ is a new concept introduced in Swift 5.1, which called [[https://docs.swift.org/swift-book/LanguageGuide/OpaqueTypes.html][Opaque
+    Types]]. Maybe someday I will write a more detail post for opaque types, in
+    short, opaque types kind like ~protocol~ but more powerful.
+*** Enable Canvas in Xcode
+    You can preview the UI layouts using /Canvas/, which is convincing by
+    ~PreviewProvider~. As long as your swift file have a ~struct~ confirm it, you
+    will able to work with SwiftUI and preview changes using /Canvas/ support (Xcode 11+ and OS X
+    10.15 + Only)
+    #+begin_src swift
+      struct MyView_Previews: PreviewProvider {
+          static var previews: some View {
+              MyView()
+          }
+      }
+    #+end_src
+**** Canvas is not fast
+     *At least not fast as I wish*, we still need to build the whole project
+     first, then it starts working as we hope. But sometimes I found I may
+     easier break the UI, then Xcode start not happy anymore, showing this on canvas
+     #+DOWNLOADED: Xcode not happy
+     [[file:images/Blog_ideas/Screen%20Shot%202019-11-07%20at%2010.11.58%20pm_2019-11-07_22-15-44.png]]
+
+     In this case, we have to *resume* the canvas which *rebuilds* the project again 😢
+**** Preview with multiple devices
+     Canvas support preview with all devices, so we can work on different size
+     of screens:
+     #+begin_src swift
+       struct ContentView_Previews : PreviewProvider {
+           static var previews: some View {
+               Group {
+                   ContentView()
+                   ContentView().previewDevice("iPhone SE")
+                   ContentView().previewDevice("iPad Air 2")
+               }
+           }
+       }
+     #+end_src
+
+     After some loading 😫, we should see something like this:
+     #+DOWNLOADED: preview mutiple devices
+     [[file:images/Blog_ideas/Screen%20Shot%202019-11-07%20at%2010.26.51%20pm_2019-11-07_22-28-54.png]]
+
+** DONE Running Oh-My-Zsh inside Spacemacs           :emacs:@programming:zsh:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: running-oh-my-zsh-inside-spacemacs.en.md
+   :EXPORT_DATE: [2019-10-26 Sat 10:58]
+   :END:
+   When I start using [[http://spacemacs.org/][Spacemacs]], I was hoping there is a way to using my own configured [[https://ohmyz.sh/][zsh]]
+   inside the Spacemacs workflow, after a look through the documentation, of
+   course we can do it
+   #+hugo: more
+   First, we need to let Spacemacs load zsh when it setup ~shell~, and I found
+   you can do a pop-up buffer style with 30% of the current height from the
+   bottom.
+
+   So in ~.spacemacs~ we can set this in ~dotspacemacs-configure-layers~:
+   #+begin_src emacs-lisp
+     (shell :variables
+            shell-default-term-shell "/bin/zsh" ;; find your zsh path using `$ whereis zsh`
+            shell-default-height 30
+            shell-default-position 'bottom)
+   #+end_src
+   This change is the basic setup, *but since I enabled ~vi~ key bindings in my
+   zsh, it starts conflicts with Spacemacs [[https://github.com/emacs-evil/evil][evil-mode]].* after a play around with different
+   settings, I found the best option for me is to disable the evil-mode inside
+   [[https://www.emacswiki.org/emacs/AnsiTerm][ansi-term]].
+
+   Add following code in ~dotspacemacs/user-config~:
+   #+begin_src emacs-lisp
+     (evil-set-initial-state 'term-mode 'emacs)
+   #+end_src
+   This change allows us navigation in ansi-term, but we can not editing
+   anything in the input line. We need to do *one more change*:
+   #+begin_src emacs-lisp
+     (evil-set-initial-state 'term-mode 'emacs) ;; turn off evil-mode for ansi-term
+     (setq term-char-mode-point-at-process-mark nil) ;; allow editing in normal mode
+   #+end_src
+   After ~SPC f e R~, we can now using zsh inside Spacemacs
+**** Reference
+    - [[https://github.com/syl20bnr/spacemacs/issues/8642][syl20bnr/spacemacs#8642 Cannot edit shell commands in normal mode.]]
+    - [[https://github.com/syl20bnr/spacemacs/tree/develop/layers/+tools/shell][spacemacs/layers/+tools/shell at develop · syl20bnr/spacemacs · GitHub]]
+** DONE ox-hugo Install Issue with Spacemacs         :emacs:org:@programming:
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: ox-hugo-install-issue-with-spacemacs.en.md
+   :EXPORT_DATE: [2019-10-23 Wed 18:42]
+   :END:
+
+   While I try to install [[https://ox-hugo.scripter.co/][ox-hugo]] on my [[http://spacemacs.org/][Spacemacs]], I found an issue:
+   #+hugo: more
+
+   After reading the install and [[https://ox-hugo.scripter.co/#usage][usage guide]]. I added ~ox-hugo~
+   to ~dotspacemacs-additional-packages~ and also did this:
+   #+begin_src emacs-lisp
+     (defun dotspacemacs/user-config ()
+       ;; Other stuff
+       ;; ..
+
+       ;; ox-hugo config
+       (use-package ox-hugo
+         :ensure t          ;Auto-install the package from Melpa (optional)
+         :after ox))
+   #+end_src
+
+   *Everything works fine until I restart emacs*:
+
+   ~ox-hugo~ been marked as *an orphan package* and got removed first then
+   reinstalled back immediately.
+
+   By searching and digging around the Spacemacs documentation, I found the
+   Spacemacs ~org layer~ already has [[http://develop.spacemacs.org/layers/+emacs/org/README.html#hugo-support][org-hugo support by default]] (~development~
+   branch only). So we *don't need to follow* the [[https://ox-hugo.scripter.co/][ox-hugo]] usage guide.
+   we can do this in ~.spacemacs~
+   #+begin_src emacs-lisp
+     (setq-default
+      dotspacemacs-configuration-layers
+      '((org :variables
+             org-enable-hugo-support t)))
+   #+end_src
+
+   Orphan package and reinstall issue should be fixed now.
+** TODO Using Group in SwiftUI
+   :PROPERTIES:
+   :EXPORT_FILE_NAME: using-group-in-swiftui
+   :EXPORT_DATE: [2019-11-13 Wed 20:24]
+   :END:
+** Footnotes
+* COMMENT Local Variables                          :ARCHIVE:
+  # Local Variables:
+  # eval: (org-hugo-auto-export-mode)
+  # End:
