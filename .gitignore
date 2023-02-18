@@ -2,3 +2,4 @@
 .idea
 *.log
 tmp/
+resources/_gen/
