@@ -11,6 +11,13 @@
 :END:
 建设中,敬请期待!
 
+** TODO 关于我
+   :PROPERTIES:
+   :EXPORT_HUGO_SECTION: /
+   :EXPORT_FILE_NAME: about.zh-cn.md
+   :EXPORT_DATE: <2023-02-19 Sun>
+   :END:
+   还没想好怎么介绍自己
 * Footnotes
 * COMMENT Local Variables                          :ARCHIVE:
   # Local Variables:

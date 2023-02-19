@@ -158,6 +158,14 @@ defaultContentLanguage = "en"
       url = "/categories/"
       title = ""
       weight = 3
+    [[languages.en.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "About"
+      url = "/about/"
+      title = ""
+      weight = 4
     [languages.en.params.app]
       # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
       title = "Chaos Talk"
@@ -206,6 +214,14 @@ defaultContentLanguage = "en"
       url = "/categories/"
       title = ""
       weight = 3
+    [[languages.zh-cn.menu.main]]
+      identifier = "about"
+      pre = ""
+      post = ""
+      name = "关于"
+      url = "/about/"
+      title = ""
+      weight = 4
     [languages.zh-cn.params.app]
       # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
       title = "炒碗软饭"

@@ -152,6 +152,13 @@
    :EXPORT_FILE_NAME: using-group-in-swiftui
    :EXPORT_DATE: [2019-11-13 Wed 20:24]
    :END:
+** TODO About
+   :PROPERTIES:
+   :EXPORT_HUGO_SECTION: /
+   :EXPORT_FILE_NAME: about.en.md
+   :EXPORT_DATE: <2023-02-19 Sun>
+   :END:
+   This is about me page
 ** Footnotes
 * COMMENT Local Variables                          :ARCHIVE:
   # Local Variables:
