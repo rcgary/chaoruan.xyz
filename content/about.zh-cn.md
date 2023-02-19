@@ -1,7 +1,7 @@
 +++
 title = "关于我"
 date = 2023-02-19T15:33:00+11:00
-lastmod = 2023-02-19T15:33:46+11:00
+lastmod = 2023-02-19T15:56:28+11:00
 draft = false
 weight = 2002
 +++
@@ -23,7 +23,7 @@ weight = 2002
 
 ## 🤝 联系我 {#联系我}
 
-最好练习我的方式是[这里](<mailto:blog@chaoruan.dev>)。 你当然可以在 [twitter](https://twitter.com/chaoruan) 直接 DM 我。
+联系我的最好方式是[这里](<mailto:blog@chaoruan.dev>)。 你当然可以在 [twitter](https://twitter.com/chaoruan) 直接 DM 我。
 
 
 ## 🛠️ 工具 {#️-工具}
