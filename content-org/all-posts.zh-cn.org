@@ -8,6 +8,7 @@
 ** DONE 建设中...
 :PROPERTIES:
 :EXPORT_FILE_NAME: in-prograss.zh-cn.md
+:EXPORT_DATE: <2022-10-19 Sun>
 :END:
 建设中,敬请期待!
 
