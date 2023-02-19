@@ -12,13 +12,31 @@
 :END:
 建设中,敬请期待!
 
-** TODO 关于我
+** DONE 关于我
+CLOSED: [2023-02-19 Sun 15:33]
    :PROPERTIES:
    :EXPORT_HUGO_SECTION: /
    :EXPORT_FILE_NAME: about.zh-cn.md
    :EXPORT_DATE: <2023-02-19 Sun>
    :END:
-   还没想好怎么介绍自己
+   *** 👋 吃了没?
+   我叫阮超，一位有将近十年 iOS 应用开发经验的软件工程师。我 2008 年来到墨尔本学习，从此就一直生活在这里。
+
+ *** 🖥 技术与生活
+ ️我是一个爱折腾的人， 从软件开发到主机游戏， 从智能家居到旅游美食， 从 [[wikipedia:Getting Things Done][GTD]] 到动漫音乐， 我享受花心思的研究的经历和结果。
+
+   *** 🏠 远程工作
+   从 2020 年开始，我一直在远程工作， 痛苦并快乐着， 这几年的磨合已经让我更加习惯这样的工作和生活。
+
+   *** 🤝 联系我
+   最好练习我的方式是[这里](mailto:blog@chaoruan.dev)。 你当然可以在 [[https://twitter.com/chaoruan][twitter]] 直接 DM 我。
+
+  *** 🛠️ 工具
+   - [org-roam](https://www.orgroam.com/)
+   - [Fantastical](https://flexibits.com/fantastical)
+   - [Things 3](https://culturedcode.com/things/)
+   - [Spark](https://sparkmailapp.com/)
+
 * Footnotes
 * COMMENT Local Variables                          :ARCHIVE:
   # Local Variables:
