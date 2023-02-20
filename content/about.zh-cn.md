@@ -1,9 +1,10 @@
 +++
 title = "关于我"
 date = 2023-02-19T15:33:00+11:00
-lastmod = 2023-02-19T16:02:33+11:00
+lastmod = 2023-02-20T15:26:45+11:00
 draft = false
 weight = 2002
+image = "/content-org/why-i-start-blog-in-2023-cn-001.jpeg"
 +++
 
 ## 👋 吃了没? {#吃了没}

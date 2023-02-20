@@ -5,13 +5,29 @@
 #+options: author:nil
 
 * Blog ideas
-** DONE 建设中...
+** DONE 我为什么要在2023年开始写博客
+CLOSED: [2023-02-20 Mon 15:29]
 :PROPERTIES:
-:EXPORT_FILE_NAME: in-prograss.zh-cn.md
-:EXPORT_DATE: <2022-10-19 Sun>
+:EXPORT_FILE_NAME: why-i-start-blog-in-2023.zh-cn.md
+:EXPORT_DATE: <2023-02-19 Sun>
 :END:
-建设中,敬请期待!
+#+HUGO_CUSTOM_FRONT_MATTER: :image /content-org/why-i-start-blog-in-2023-cn-001.jpeg
+#+caption: 清水寺的茶点
+[[file:why-i-start-blog-in-2023-cn-001.jpeg]]
+*** 前言
+写博客一直以来都有一些技术门槛，比如购买域名、搭建网站等，这些让很多人望而生畏。但对于程序员来说，这些并不算难事。当然，现在有很多更方便的替代品，比如微博、Twitter，甚至微信朋友圈。随手即用，一键分享，对于“懒人”来说，这些似乎是更好的选择。那么，在到处都在谈论 web 3.0 的 2023 年，为什么我还要开始写博客呢？
+*** 我的互联网记忆
+还记得最早在网络上记录自己的生活和想法是在高中时的 QQ 空间，之后便是百度贴吧、微博，在出国后开始接触 Facebook、Twitter、Instagram 等社交平台。但自己从未是一个积极的网络记录者，最多也只是发发朋友圈。然而，最近几年分享欲减弱，慢慢地好像也不再记录生活中的点点滴滴了。
 
+毕业后开始工作后，尝试着折腾博客，从 Ghost、Jekyll 到 Hugo，断断续续地写了一些技术文章。但由于属于维护类文章，这些文字和记忆也只是被封存在了互联网记忆的缝隙中。
+*** 记录的意义
+尽管我不再积极参与社交网站，但我始终珍视生活中的点点滴滴和变化。随着疫情席卷全球，我也开始思考更多的问题。在这个纷繁复杂的世界中，我渴望保留自己的思考和感悟，因此我决定记录下这些变化和思考。将分享的初衷从当初的炫耀变成经过深思熟虑的沉淀。
+
+此外，我也期望重拾写作的快乐。这些年，我很少写东西，更很少用中文。除了提笔忘字之外，我的写作还被妻子嘲笑透着译制腔。这些给了我更多动力和决心，去开始写博客。
+*** 为什么选博客
+[[https://startafuckingblog.com/][Start a Fucking Blog]] 这篇文章启示了我很多。对我而言，博客意味着拥有自己的内容，并将其存储在自己的 NAS 上，从而避免被第三方平台所限制和删除(当然，我也难以忍受 Elon Musk)。 我也对微博上“抱歉，此微博已被删除”或微信上“内容无法查看”的提示感到厌恶，这让我意识到不能仅仅依赖第三方平台来保护自己的数据。因此，我开始写博客来记录生活和思考。
+*** 中文还是英文
+我会优先使用中文来记录生活中的点滴和感悟，因为用中文表达可能更加贴切。对于技术类文章，我会倾向于使用英文，但这并不是绝对的。具体的语言选择还取决于我的心情和灵感。在我的博客中，默认语言是英文，但当你选择简体中文时，你可能会发现这样的文章，给你带来小小的惊喜。
 ** DONE 关于我
 CLOSED: [2023-02-19 Sun 15:33]
    :PROPERTIES:
@@ -36,7 +52,6 @@ CLOSED: [2023-02-19 Sun 15:33]
    - [Fantastical](https://flexibits.com/fantastical)
    - [Things 3](https://culturedcode.com/things/)
    - [Spark](https://sparkmailapp.com/)
-
 * Footnotes
 * COMMENT Local Variables                          :ARCHIVE:
   # Local Variables:
