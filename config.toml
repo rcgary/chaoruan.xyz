@@ -109,6 +109,7 @@ defaultContentLanguage = "en"
     hiddenFromHomePage = false
     fraction = true
     fontawesome = true
+    rssFullText = true
     [params.page.share]
       enable = true
       Twitter = true
