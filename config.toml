@@ -240,6 +240,8 @@ defaultContentLanguage = "en"
       subtitle = "分享我的生活经验、技术见解以及随性的思考"
     [languages.zh-cn.params.header.title]
       name = "炒碗软饭"
+    [languages.zh-cn.params.page]
+      rssFullText = true
     [languages.zh-cn.params.page.share]
       enable = true
       Twitter = true
