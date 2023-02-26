@@ -1,7 +1,7 @@
 +++
 title = "我为什么要在2023年开始写博客"
 date = 2023-02-20T15:29:00+11:00
-lastmod = 2023-02-21T12:08:20+11:00
+lastmod = 2023-02-26T16:44:00+11:00
 draft = false
 weight = 2001
 image = "/content-org/why-i-start-blog-in-2023-cn-001.jpeg"
