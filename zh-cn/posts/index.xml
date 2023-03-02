@@ -1,28 +1,11 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 炒碗软饭</title><link>https://chaoruan.xyz/zh-cn/posts/</link><description>所有文章 | 炒碗软饭</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Wed, 01 Mar 2023 21:49:00 +1100</lastBuildDate><atom:link href="https://chaoruan.xyz/zh-cn/posts/" rel="self" type="application/rss+xml"/><item><title>我为什么要在2023年开始写博客</title><link>https://chaoruan.xyz/zh-cn/posts/why-i-start-blog-in-2023/</link><pubDate>Mon, 20 Feb 2023 15:29:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/why-i-start-blog-in-2023/</guid><description><![CDATA[<figure><figcaption>
-            <p><span class="figure-number">Figure 1: </span>清水寺的茶点</p>
-        </figcaption>
-</figure>
-
-<h2 id="前言">前言</h2>
-<p>写博客一直以来都有一些技术门槛，比如购买域名、搭建网站等，这些让很多人望而生畏。但对于程序员来说，这些并不算难事。当然，现在有很多更方便的替代品，比如微博、Twitter，甚至微信朋友圈。随手即用，一键分享，对于“懒人”来说，这些似乎是更好的选择。那么，在到处都在谈论 web 3.0 的 2023 年，为什么我还要开始写博客呢？</p>
-<h2 id="我的互联网记忆">我的互联网记忆</h2>
-<p>还记得最早在网络上记录自己的生活和想法是在高中时的 QQ 空间，之后便是百度贴吧、微博，在出国后开始接触 Facebook、Twitter、Instagram 等社交平台。但自己从未是一个积极的网络记录者，最多也只是发发朋友圈。然而，最近几年分享欲减弱，慢慢地好像也不再记录生活中的点点滴滴了。</p>
-<p>毕业后开始工作后，尝试着折腾博客，从 Ghost、Jekyll 到 Hugo，断断续续地写了一些技术文章。但由于疏于维护，这些文字和记忆也只是被封存在了互联网记忆的缝隙中。</p>
-<h2 id="记录的意义">记录的意义</h2>
-<p>尽管我不再积极参与社交网站，但我始终珍视生活中的点点滴滴和变化。随着疫情席卷全球，我也开始思考更多的问题。在这个纷繁复杂的世界中，我渴望保留自己的思考和感悟，因此我决定记录下这些变化和思考。将分享的初衷从当初的炫耀变成经过深思熟虑的沉淀。</p>
-<p>此外，我也期望重拾写作的快乐。这些年，我很少写东西，更很少用中文。除了提笔忘字之外，我的写作还被妻子嘲笑透着译制腔。这些给了我更多动力和决心，去开始写博客。</p>
-<h2 id="为什么选博客">为什么选博客</h2>
-<p><a href="https://startafuckingblog.com/" target="_blank" rel="noopener noreffer ">Start a Fucking Blog</a> 这篇文章启示了我很多。对我而言，博客意味着拥有自己的内容，并将其存储在自己的 NAS 上，从而避免被第三方平台所限制和删除(当然，我也难以忍受 Elon Musk)。 我也对微博上“抱歉，此微博已被删除”或微信上“内容无法查看”的提示感到厌恶，这让我意识到不能仅仅依赖第三方平台来保护自己的数据。因此，我开始写博客来记录生活和思考。</p>
-<h2 id="中文还是英文">中文还是英文</h2>
-<p>我会优先使用中文来记录生活中的点滴和感悟，因为用中文表达可能更加贴切。对于技术类文章，我会倾向于使用英文，但这并不是绝对的。具体的语言选择还取决于我的心情和灵感。在我的博客中，默认语言是英文，但当你选择简体中文时，你可能会发现这样的文章，给你带来小小的惊喜。</p>
-]]></description></item><item><title>初识日本</title><link>https://chaoruan.xyz/zh-cn/posts/a-taste-of-japan/</link><pubDate>Wed, 01 Mar 2023 21:49:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/a-taste-of-japan/</guid><description><![CDATA[<h2 id="前言">🛫前言</h2>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 炒碗软饭</title><link>https://chaoruan.xyz/zh-cn/posts/</link><description>所有文章 | 炒碗软饭</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Wed, 01 Mar 2023 21:49:00 +1100</lastBuildDate><atom:link href="https://chaoruan.xyz/zh-cn/posts/" rel="self" type="application/rss+xml"/><item><title>初识日本</title><link>https://chaoruan.xyz/zh-cn/posts/a-taste-of-japan/</link><pubDate>Wed, 01 Mar 2023 21:49:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/a-taste-of-japan/</guid><description><![CDATA[<h2 id="前言">🛫 前言</h2>
 <p>自2020年疫情爆发以来，我和妻子一直没有机会出门旅行。然而，在2022年8月得知日本重新开放自由行后，我们终于决定前往日本旅游。虽然我们很想赶上11月的日本红叶季，但由于工作安排，我们只能选择在12月初进行旅行。除了决定了两周的旅行时间，其他的行程安排都由我妻子精心策划。</p>
 <p>幸好，我太太非常能干，她为我们安排了住宿、各种游玩行程，并提前预订了大阪的环球影城和迪士尼乐园门票。在我的强烈建议下，她还咬牙预订了箱根豪华温泉酒店。最终，在12月初，我们终于搭上了从墨尔本飞往东京的飞机，开始了我们的日本之旅。</p>
 <hr>
 <figure>
 </figure>
 
-<h2 id="初识东京">👀初识东京</h2>
+<h2 id="初识东京">👀 初识东京</h2>
 <p>我们的第一站是东京。虽然我之前已经对这座城市的规模有所了解，但实际置身其中时，我才深刻地感受到东京的繁华和热闹。</p>
 <p>尽管东京之行的行程非常紧张，但我们还是去了很多地方，包括参拜了浅草寺、逛了我们心心念念的秋叶原和银座。由于后面的行程还很长，我们本来打算控制一下消费，结果在迪士尼乐园完全失控了。</p>
 <p>有趣的是，我和妻子从来没有去过迪士尼乐园，甚至主题公园也是我们第一次去。尽管新鲜感让人兴奋，但那种纯粹的开心感受真的是久违了。我们在迪士尼玩了整整一天，还买了很多纪念品。虽然因为行程的安排我们没有时间去迪士尼海洋乐园，但留下一些遗憾也是不错的，这也成为我们再次前往东京的理由。</p>
@@ -30,7 +13,7 @@
 <figure>
 </figure>
 
-<h2 id="古都韵味">🏯古都韵味</h2>
+<h2 id="古都韵味">🏯 古都韵味</h2>
 <p>我们告别东京，前往了京都。尽管我们早就知道京都和东京完全不同，但当我们真正漫步在京都街头小巷时，我们还是被这座古都征服了。不同于东京的繁华，京都的美是精致的、典雅的，就像处处都能看到穿着和服的女子一样。</p>
 <p>除了参拜大名鼎鼎的稻荷神社和清水寺，我们还细细品味了它们的历史和文化内涵。稻荷神社以千本鸟居闻名，浓郁的神秘氛围让人不禁感叹它的神奇与美丽。而清水寺则展现了日本传统建筑和园林的精髓，让人沉醉于它的静谧和神圣。</p>
 <p>除了这些寺庙，我更喜欢漫步于京都的街道，逛遍了繁华的衹园四条。特别是在夜深人静的时候漫步于充满古韵的先斗町，仿佛自己穿越千年，走在长乐坊的酒肆小巷。这种美妙的感觉是无法用言语来形容的。</p>
@@ -39,21 +22,21 @@
 <figure>
 </figure>
 
-<h2 id="小鹿静谧">🦌小鹿静谧</h2>
+<h2 id="小鹿静谧">🦌 小鹿静谧</h2>
 <p>我们在前往大阪的路上起了个大早，前往了奈良。之前一位朋友曾说过“奈良就是一个大公园”，因此我们步行游览了东大寺和春日大社。除了古色古香的日式建筑，最特别的就是到处可见的小鹿。这些小鹿静静地躺着、走着或站着，在园子里、马路边和小路旁，带来一种静逸而温暖的氛围。</p>
 <p>和这些可爱的小鹿亲近是一次难忘的经历。它们甚至会在你面前弯下腰，等待你的手掌里伸出食物。当它们用嘴轻轻咬住饼干时，你会被它们天真无邪的眼神深深吸引。</p>
 <hr>
 <figure>
 </figure>
 
-<h2 id="大阪风情">🎎大阪风情</h2>
+<h2 id="大阪风情">🎎 大阪风情</h2>
 <p>来到日本之前，我对大阪并没有太多的印象，甚至连大阪的特点都说不出来。起初只是想去参观世界上唯一的超级马里奥主题公园。然而当我踏入光怪陆离的道顿堀时，我被这里昭和时代的风情所深深吸引。在这个喧嚣的街头，人流如潮，到处弥漫着各种美食的香气，它们让人感受到不同于中国的市井气息。</p>
 <p>很遗憾，我们只在大阪安排了两天的行程，其中还有一整天是在环球影城度过的。下次来大阪，我希望有更多的时间，好好品味这座城市的风情。</p>
 <hr>
 <figure>
 </figure>
 
-<h2 id="箱根温泉">🛀箱根温泉</h2>
+<h2 id="箱根温泉">🛀 箱根温泉</h2>
 <p>因为一直听说箱根的温泉很棒，为了更好的体验，我们决定奢侈入住一家非常昂贵的温泉酒店，选择了一间带有私人风呂的独栋和室。尽管价格不菲，但我们在那里度过的两天一夜真的是完美无缺的体验，无论是料理还是温泉，都充满了日式的精致感受。我非常享受日本服务行业无处不在的周到细致。</p>
 <p>初次体验日式温泉，眼见红叶俯冲池中，悄然飘至眼前。淡淡热气扑鼻，雾气蒙蒙，仿佛置身野外山间温泉之中。红叶舞温汤，清风拂山林。</p>
 <hr>
@@ -70,4 +53,21 @@
 <h2 id="后记">后记</h2>
 <p>这次日本之行实在出人意料，两周行程结束之后，我们竟然如此不舍，对日本的美食和美景念念不忘。几个月过去了，妻子还会时常感叹那些留下的遗憾。记录下这些记忆也让我仿佛重回日本一般。
 这篇只分享记录了日本的游玩行程。 下篇聊聊一路都吃了那些美食吧。</p>
+]]></description></item><item><title>我为什么要在2023年开始写博客</title><link>https://chaoruan.xyz/zh-cn/posts/why-i-start-blog-in-2023/</link><pubDate>Mon, 20 Feb 2023 15:29:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/why-i-start-blog-in-2023/</guid><description><![CDATA[<figure><figcaption>
+            <p><span class="figure-number">Figure 1: </span>清水寺的茶点</p>
+        </figcaption>
+</figure>
+
+<h2 id="前言">前言</h2>
+<p>写博客一直以来都有一些技术门槛，比如购买域名、搭建网站等，这些让很多人望而生畏。但对于程序员来说，这些并不算难事。当然，现在有很多更方便的替代品，比如微博、Twitter，甚至微信朋友圈。随手即用，一键分享，对于“懒人”来说，这些似乎是更好的选择。那么，在到处都在谈论 web 3.0 的 2023 年，为什么我还要开始写博客呢？</p>
+<h2 id="我的互联网记忆">我的互联网记忆</h2>
+<p>还记得最早在网络上记录自己的生活和想法是在高中时的 QQ 空间，之后便是百度贴吧、微博，在出国后开始接触 Facebook、Twitter、Instagram 等社交平台。但自己从未是一个积极的网络记录者，最多也只是发发朋友圈。然而，最近几年分享欲减弱，慢慢地好像也不再记录生活中的点点滴滴了。</p>
+<p>毕业后开始工作后，尝试着折腾博客，从 Ghost、Jekyll 到 Hugo，断断续续地写了一些技术文章。但由于疏于维护，这些文字和记忆也只是被封存在了互联网记忆的缝隙中。</p>
+<h2 id="记录的意义">记录的意义</h2>
+<p>尽管我不再积极参与社交网站，但我始终珍视生活中的点点滴滴和变化。随着疫情席卷全球，我也开始思考更多的问题。在这个纷繁复杂的世界中，我渴望保留自己的思考和感悟，因此我决定记录下这些变化和思考。将分享的初衷从当初的炫耀变成经过深思熟虑的沉淀。</p>
+<p>此外，我也期望重拾写作的快乐。这些年，我很少写东西，更很少用中文。除了提笔忘字之外，我的写作还被妻子嘲笑透着译制腔。这些给了我更多动力和决心，去开始写博客。</p>
+<h2 id="为什么选博客">为什么选博客</h2>
+<p><a href="https://startafuckingblog.com/" target="_blank" rel="noopener noreffer ">Start a Fucking Blog</a> 这篇文章启示了我很多。对我而言，博客意味着拥有自己的内容，并将其存储在自己的 NAS 上，从而避免被第三方平台所限制和删除(当然，我也难以忍受 Elon Musk)。 我也对微博上“抱歉，此微博已被删除”或微信上“内容无法查看”的提示感到厌恶，这让我意识到不能仅仅依赖第三方平台来保护自己的数据。因此，我开始写博客来记录生活和思考。</p>
+<h2 id="中文还是英文">中文还是英文</h2>
+<p>我会优先使用中文来记录生活中的点滴和感悟，因为用中文表达可能更加贴切。对于技术类文章，我会倾向于使用英文，但这并不是绝对的。具体的语言选择还取决于我的心情和灵感。在我的博客中，默认语言是英文，但当你选择简体中文时，你可能会发现这样的文章，给你带来小小的惊喜。</p>
 ]]></description></item></channel></rss>
