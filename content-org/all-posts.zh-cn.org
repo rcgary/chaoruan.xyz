@@ -5,7 +5,8 @@
 #+options: author:nil
 
 * Blog ideas
-** TODO 食在日本
+** DONE 食在日本
+CLOSED: [2023-03-19 Sun 14:59]
 :PROPERTIES:
 :EXPORT_FILE_NAME: feasting-in-japan.zh-cn.md
 :EXPORT_DATE: <2023-03-11 Sat>
