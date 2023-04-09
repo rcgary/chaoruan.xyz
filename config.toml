@@ -6,6 +6,8 @@ theme = "LoveIt"
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
 
+googleAnalytics = "UA-52161528-1"
+
 [params]
   # LoveIt 主题版本
   version = "0.2.X"
@@ -120,9 +122,9 @@ defaultContentLanguage = "en"
       # Disqus 评论系统设置
       [params.page.comment.disqus]
         # LoveIt 新增 | 0.1.1
-        enable = false
+        enable = true
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-        shortname = "chaos-blog-1"
+        shortname = "chaosblog"
   [params.analytics]
     enable = false
     # Google Analytics
@@ -241,7 +243,7 @@ defaultContentLanguage = "en"
     [languages.zh-cn.params.header.title]
       name = "炒碗软饭"
     [languages.zh-cn.params.page]
-      rssFullText = true
+      rssFullText = false
     [languages.zh-cn.params.page.share]
       enable = true
       Twitter = true
