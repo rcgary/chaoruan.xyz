@@ -198,7 +198,7 @@ CLOSED: [2023-02-19 Sun 15:33]
 自 2020 年起，我便开始了远程工作的生活。尽管有苦有乐，但这几年的磨炼让我更适应这种工作与生活方式。
 
 *** 🤝 联系我
-想要联系我的话，请点击这里给我发邮件。当然，你也可以在[[https://twitter.com/chaoruan][twitter]]上直接给我发私信。
+想要联系我的话，请点击[[mailto:blog@chaoruan.dev][这里]]给我发邮件。当然，你也可以在[[https://twitter.com/chaoruan][twitter]]上直接给我发私信。
 
 *** 🛠️ 工具
 - [org-roam](https://www.orgroam.com/)
