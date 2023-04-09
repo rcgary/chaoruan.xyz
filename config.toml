@@ -248,6 +248,15 @@ googleAnalytics = "UA-52161528-1"
       enable = true
       Twitter = true
       Weibo = true
+    [languaes.zh-cn.params.page.comment]
+      enable = true
+      # Disqus 评论系统设置
+      [languaes.zh-cn.params.page.comment.disqus]
+        # LoveIt 新增 | 0.1.1
+        enable = true
+        # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
+        shortname = "chaosblog"
+
 
 # Hugo 解析文档的配置
 [markup]
