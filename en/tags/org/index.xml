@@ -1,0 +1,23 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>org - Tag - Chaos Talk</title><link>https://chaoruan.xyz/en/tags/org/</link><description>org - Tag - Chaos Talk</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Wed, 23 Oct 2019 18:42:00 +1100</lastBuildDate><atom:link href="https://chaoruan.xyz/en/tags/org/" rel="self" type="application/rss+xml"/><item><title>ox-hugo Install Issue with Spacemacs</title><link>https://chaoruan.xyz/en/posts/ox-hugo-install-issue-with-spacemacs/</link><pubDate>Wed, 23 Oct 2019 18:42:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/en/posts/ox-hugo-install-issue-with-spacemacs/</guid><description><![CDATA[<p>While I try to install <a href="https://ox-hugo.scripter.co/" target="_blank" rel="noopener noreffer ">ox-hugo</a> on my <a href="http://spacemacs.org/" target="_blank" rel="noopener noreffer ">Spacemacs</a>, I found an issue:</p>
+<p>After reading the install and <a href="https://ox-hugo.scripter.co/#usage" target="_blank" rel="noopener noreffer ">usage guide</a>. I added <code>ox-hugo</code>
+to <code>dotspacemacs-additional-packages</code> and also did this:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nb">defun</span> <span class="nv">dotspacemacs/user-config</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">;; Other stuff</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">;; ..</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="c1">;; ox-hugo config</span>
+</span></span><span class="line"><span class="cl">  <span class="p">(</span><span class="nb">use-package</span> <span class="nv">ox-hugo</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">:ensure</span> <span class="no">t</span>          <span class="c1">;Auto-install the package from Melpa (optional)</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">:after</span> <span class="nv">ox</span><span class="p">))</span>
+</span></span></code></pre></div><p><strong>Everything works fine until I restart emacs</strong>:</p>
+<p><code>ox-hugo</code> been marked as <strong>an orphan package</strong> and got removed first then
+reinstalled back immediately.</p>
+<p>By searching and digging around the Spacemacs documentation, I found the
+Spacemacs <code>org layer</code> already has <a href="http://develop.spacemacs.org/layers/&#43;emacs/org/README.html#hugo-support" target="_blank" rel="noopener noreffer ">org-hugo support by default</a> (<code>development</code>
+branch only). So we <strong>don&rsquo;t need to follow</strong> the <a href="https://ox-hugo.scripter.co/" target="_blank" rel="noopener noreffer ">ox-hugo</a> usage guide.
+we can do this in <code>.spacemacs</code></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nb">setq-default</span>
+</span></span><span class="line"><span class="cl"> <span class="nv">dotspacemacs-configuration-layers</span>
+</span></span><span class="line"><span class="cl"> <span class="o">&#39;</span><span class="p">((</span><span class="nv">org</span> <span class="nb">:variables</span>
+</span></span><span class="line"><span class="cl">        <span class="nv">org-enable-hugo-support</span> <span class="no">t</span><span class="p">)))</span>
+</span></span></code></pre></div><p>Orphan package and reinstall issue should be fixed now.</p>]]></description></item></channel></rss>

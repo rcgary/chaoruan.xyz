@@ -1,0 +1,95 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All Posts - Chaos Talk</title><link>https://chaoruan.xyz/en/posts/</link><description>All Posts | Chaos Talk</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Fri, 08 Nov 2019 22:54:00 +1100</lastBuildDate><atom:link href="https://chaoruan.xyz/en/posts/" rel="self" type="application/rss+xml"/><item><title>Notes for SwiftUI and Combine Programming (1)</title><link>https://chaoruan.xyz/en/posts/notes-for-swiftui-and-combine-programming/</link><pubDate>Fri, 08 Nov 2019 22:54:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/en/posts/notes-for-swiftui-and-combine-programming/</guid><description><![CDATA[<p>I start reading <a href="https://onevcat.com/" target="_blank" rel="noopener noreffer ">onevcat</a> new book <a href="https://objccn.io/products/swift-ui" target="_blank" rel="noopener noreffer "><em>SwiftUI and Combine Programming</em></a> (a great
+book to learning SwiftUI if you can read Chinese). I decided to put all the
+interest parts and notes in here.</p>
+<h2 id="first-things-first">First things First</h2>
+<p>We always need to <code>import</code> the dependency first</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-swift" data-lang="swift"><span class="line"><span class="cl"><span class="kd">import</span> <span class="nc">SwiftUI</span>
+</span></span><span class="line"><span class="cl"><span class="kd">import</span> <span class="nc">Combine</span>
+</span></span></code></pre></div><h2 id="layout-all-the-views-in-the-body">Layout all the views in the body</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-swift" data-lang="swift"><span class="line"><span class="cl"><span class="kd">var</span> <span class="nv">body</span><span class="p">:</span> <span class="n">some</span> <span class="n">View</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="c1">/// Layout your view here</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><p><code>some View</code> is a new concept introduced in Swift 5.1, which called <a href="https://docs.swift.org/swift-book/LanguageGuide/OpaqueTypes.html" target="_blank" rel="noopener noreffer ">Opaque
+Types</a>. Maybe someday I will write a more detail post for opaque types, in
+short, opaque types kind like <code>protocol</code> but more powerful.</p>
+<h2 id="enable-canvas-in-xcode">Enable Canvas in Xcode</h2>
+<p>You can preview the UI layouts using <em>Canvas</em>, which is convincing by
+<code>PreviewProvider</code>. As long as your swift file have a <code>struct</code> confirm it, you
+will able to work with SwiftUI and preview changes using <em>Canvas</em> support (Xcode 11+ and OS X
+10.15 + Only)</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-swift" data-lang="swift"><span class="line"><span class="cl"><span class="kd">struct</span> <span class="nc">MyView_Previews</span><span class="p">:</span> <span class="n">PreviewProvider</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="kd">static</span> <span class="kd">var</span> <span class="nv">previews</span><span class="p">:</span> <span class="n">some</span> <span class="n">View</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="n">MyView</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><h3 id="canvas-is-not-fast">Canvas is not fast</h3>
+<p><strong>At least not fast as I wish</strong>, we still need to build the whole project
+first, then it starts working as we hope. But sometimes I found I may
+easier break the UI, then Xcode start not happy anymore, showing this on canvas</p>
+<figure>
+</figure>
+
+<p>In this case, we have to <strong>resume</strong> the canvas which <strong>rebuilds</strong> the project again 😢</p>
+<h3 id="preview-with-multiple-devices">Preview with multiple devices</h3>
+<p>Canvas support preview with all devices, so we can work on different size
+of screens:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-swift" data-lang="swift"><span class="line"><span class="cl"><span class="kd">struct</span> <span class="nc">ContentView_Previews</span> <span class="p">:</span> <span class="n">PreviewProvider</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">    <span class="kd">static</span> <span class="kd">var</span> <span class="nv">previews</span><span class="p">:</span> <span class="n">some</span> <span class="n">View</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">        <span class="n">Group</span> <span class="p">{</span>
+</span></span><span class="line"><span class="cl">            <span class="n">ContentView</span><span class="p">()</span>
+</span></span><span class="line"><span class="cl">            <span class="n">ContentView</span><span class="p">().</span><span class="n">previewDevice</span><span class="p">(</span><span class="s">&#34;iPhone SE&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">            <span class="n">ContentView</span><span class="p">().</span><span class="n">previewDevice</span><span class="p">(</span><span class="s">&#34;iPad Air 2&#34;</span><span class="p">)</span>
+</span></span><span class="line"><span class="cl">        <span class="p">}</span>
+</span></span><span class="line"><span class="cl">    <span class="p">}</span>
+</span></span><span class="line"><span class="cl"><span class="p">}</span>
+</span></span></code></pre></div><p>After some loading 😫, we should see something like this:</p>
+<figure>
+</figure>]]></description></item><item><title>Running Oh-My-Zsh inside Spacemacs</title><link>https://chaoruan.xyz/en/posts/running-oh-my-zsh-inside-spacemacs/</link><pubDate>Sat, 26 Oct 2019 10:58:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/en/posts/running-oh-my-zsh-inside-spacemacs/</guid><description><![CDATA[<p>When I start using <a href="http://spacemacs.org/" target="_blank" rel="noopener noreffer ">Spacemacs</a>, I was hoping there is a way to using my own configured <a href="https://ohmyz.sh/" target="_blank" rel="noopener noreffer ">zsh</a>
+inside the Spacemacs workflow, after a look through the documentation, of
+course we can do it</p>
+<p>First, we need to let Spacemacs load zsh when it setup <code>shell</code>, and I found
+you can do a pop-up buffer style with 30% of the current height from the
+bottom.</p>
+<p>So in <code>.spacemacs</code> we can set this in <code>dotspacemacs-configure-layers</code>:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nv">shell</span> <span class="nb">:variables</span>
+</span></span><span class="line"><span class="cl">       <span class="nv">shell-default-term-shell</span> <span class="s">&#34;/bin/zsh&#34;</span> <span class="c1">;; find your zsh path using `$ whereis zsh`</span>
+</span></span><span class="line"><span class="cl">       <span class="nv">shell-default-height</span> <span class="mi">30</span>
+</span></span><span class="line"><span class="cl">       <span class="nv">shell-default-position</span> <span class="ss">&#39;bottom</span><span class="p">)</span>
+</span></span></code></pre></div><p>This change is the basic setup, <strong>but since I enabled <code>vi</code> key bindings in my
+zsh, it starts conflicts with Spacemacs <a href="https://github.com/emacs-evil/evil" target="_blank" rel="noopener noreffer ">evil-mode</a>.</strong> after a play around with different
+settings, I found the best option for me is to disable the evil-mode inside
+<a href="https://www.emacswiki.org/emacs/AnsiTerm" target="_blank" rel="noopener noreffer ">ansi-term</a>.</p>
+<p>Add following code in <code>dotspacemacs/user-config</code>:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nv">evil-set-initial-state</span> <span class="ss">&#39;term-mode</span> <span class="ss">&#39;emacs</span><span class="p">)</span>
+</span></span></code></pre></div><p>This change allows us navigation in ansi-term, but we can not editing
+anything in the input line. We need to do <strong>one more change</strong>:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nv">evil-set-initial-state</span> <span class="ss">&#39;term-mode</span> <span class="ss">&#39;emacs</span><span class="p">)</span> <span class="c1">;; turn off evil-mode for ansi-term</span>
+</span></span><span class="line"><span class="cl"><span class="p">(</span><span class="nb">setq</span> <span class="nv">term-char-mode-point-at-process-mark</span> <span class="no">nil</span><span class="p">)</span> <span class="c1">;; allow editing in normal mode</span>
+</span></span></code></pre></div><p>After <code>SPC f e R</code>, we can now using zsh inside Spacemacs</p>
+<h2 id="reference">Reference</h2>
+<ul>
+<li><a href="https://github.com/syl20bnr/spacemacs/issues/8642" target="_blank" rel="noopener noreffer ">syl20bnr/spacemacs#8642 Cannot edit shell commands in normal mode.</a></li>
+<li><a href="https://github.com/syl20bnr/spacemacs/tree/develop/layers/&#43;tools/shell" target="_blank" rel="noopener noreffer ">spacemacs/layers/+tools/shell at develop · syl20bnr/spacemacs · GitHub</a></li>
+</ul>]]></description></item><item><title>ox-hugo Install Issue with Spacemacs</title><link>https://chaoruan.xyz/en/posts/ox-hugo-install-issue-with-spacemacs/</link><pubDate>Wed, 23 Oct 2019 18:42:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/en/posts/ox-hugo-install-issue-with-spacemacs/</guid><description><![CDATA[<p>While I try to install <a href="https://ox-hugo.scripter.co/" target="_blank" rel="noopener noreffer ">ox-hugo</a> on my <a href="http://spacemacs.org/" target="_blank" rel="noopener noreffer ">Spacemacs</a>, I found an issue:</p>
+<p>After reading the install and <a href="https://ox-hugo.scripter.co/#usage" target="_blank" rel="noopener noreffer ">usage guide</a>. I added <code>ox-hugo</code>
+to <code>dotspacemacs-additional-packages</code> and also did this:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nb">defun</span> <span class="nv">dotspacemacs/user-config</span> <span class="p">()</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">;; Other stuff</span>
+</span></span><span class="line"><span class="cl">  <span class="c1">;; ..</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">  <span class="c1">;; ox-hugo config</span>
+</span></span><span class="line"><span class="cl">  <span class="p">(</span><span class="nb">use-package</span> <span class="nv">ox-hugo</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">:ensure</span> <span class="no">t</span>          <span class="c1">;Auto-install the package from Melpa (optional)</span>
+</span></span><span class="line"><span class="cl">    <span class="nb">:after</span> <span class="nv">ox</span><span class="p">))</span>
+</span></span></code></pre></div><p><strong>Everything works fine until I restart emacs</strong>:</p>
+<p><code>ox-hugo</code> been marked as <strong>an orphan package</strong> and got removed first then
+reinstalled back immediately.</p>
+<p>By searching and digging around the Spacemacs documentation, I found the
+Spacemacs <code>org layer</code> already has <a href="http://develop.spacemacs.org/layers/&#43;emacs/org/README.html#hugo-support" target="_blank" rel="noopener noreffer ">org-hugo support by default</a> (<code>development</code>
+branch only). So we <strong>don&rsquo;t need to follow</strong> the <a href="https://ox-hugo.scripter.co/" target="_blank" rel="noopener noreffer ">ox-hugo</a> usage guide.
+we can do this in <code>.spacemacs</code></p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nb">setq-default</span>
+</span></span><span class="line"><span class="cl"> <span class="nv">dotspacemacs-configuration-layers</span>
+</span></span><span class="line"><span class="cl"> <span class="o">&#39;</span><span class="p">((</span><span class="nv">org</span> <span class="nb">:variables</span>
+</span></span><span class="line"><span class="cl">        <span class="nv">org-enable-hugo-support</span> <span class="no">t</span><span class="p">)))</span>
+</span></span></code></pre></div><p>Orphan package and reinstall issue should be fixed now.</p>]]></description></item></channel></rss>
