@@ -5,6 +5,54 @@
 #+options: author:nil
 
 * Blog ideas
+** DONE Weekly Summary 2023-04-09
+CLOSED: [2023-04-16 Sun 15:10]
+:PROPERTIES:
+:EXPORT_FILE_NAME: weekly-summary-2023-04-09.en.md
+:EXPORT_DATE: <2023-04-16 Sun>
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/weekly-summary-2023-04-09-cover.jpeg
+:END:
+I've decided to start documenting my weekly life by providing a brief summary of what I've read, watched, and done in the past week.
+#+hugo: more
+[[https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-09][中文版]]
+*** What I Read
+**** [[https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/][I worked at Google for -10 days]]
+This Blog post takes me back to when I landed my first job in the US in March 2020. Shortly after selling my house and moving all my possessions to the US, the COVID-19 pandemic struck. My wife and I found ourselves using Airbnb, and the mounting uncertainty left me concerned about the possibility of being laid off. Fun time!
+**** [[https://www.izzy.co/blogs/robo-boys.html][Replacing my best friends with an LLM trained on 500,000 group chat messages]]
+Its like that episode of Black Mirror now - [[https://www.imdb.com/title/tt2290780/][Be Right Back]]
+**** [[https://news.ycombinator.com/item?id=35536042][Ask HN: What are some of the best university courses available online for free?]]
+Perhaps one day, I'll go through the list here, find a class that interests me, and begin learning once more.
+**** [[https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html][Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta]]
+We're all aware that Meta isn't as great as it once was. With the unrealistic version of the metaverse and the ongoing layoffs, it seems that nobody knows what the future holds for Meta, at least for the time being.
+**** [[https://github.com/everythingishacked/Semaphore][everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision]]
+I'm pretty sure that if I use this for programming, I'll lose weight fairly quickly.
+**** [[https://sqrtminusone.xyz/posts/2023-04-13-emacs/][916 days of Emacs]]
+I always enjoy hearing about people's Emacs experiences, but this one is truly next level. I appreciate all the charts illustrating the time and data the author spent in different areas. As usual, if you want to spark a lot of replies on Hacker News, just mention Vim or Emacs!
+**** [[https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/][Do you actually need a vector database?]]
+Vector databases are quite popular nowadays, but whether you need one depends on your specific use case. It seems that having a vector database is essential if you plan to work with machine learning or large language models.
+**** [[https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/][What you give up when moving into engineering management]]
+This prompts me to reflect on my true aspirations as an engineer. I'm interested in the hybrid roles mentioned later in the post, perhaps as a tech lead. But I wonder how that would work in a remote position. I'm not yet convinced that managing a team of engineers remotely is entirely feasible.
+
+**** [[https://sive.rs/asking][Don’t start a business until people are asking you to]]
+It's a one-minute read, but I genuinely appreciate the points the author makes here.
+#+begin_quote
+Don’t announce anything. Don’t choose a name. Don’t make a website or an app. Don’t build a system. You need to be free to completely change or ditch your idea.
+Then you get your first paying customer. Provide a one-on-one personal service. Then you get another paying customer. Prove a real demand.
+#+end_quote
+
+*** What I Watched
+**** [[https://www.youtube.com/watch?v=VpnXyal5HJg][$3K/month PASSIVE INCOME—full strategy for Shutterstock]]
+I'm eager to start generating passive income, and a YouTube video introduced me to the concept of stock video creation. Although I've never tried it before, it might be a fun endeavor to explore.
+#+begin_quote
+Stock footage, also known as stock video or B-roll, is pre-filmed footage that can be purchased and used in a variety of projects and films. Stock footage can be licensed and saves filmmakers the time and money of shooting original material.
+#+end_quote
+[[https://marketing.istockphoto.com/blog/complete-guide-to-stock-video/][Stock Video Guide - What is Stock Footage and How to Use It | iStock]]
+**** [[https://www.youtube.com/watch?v=uHGShqcAHlQ&t=2s][The Legend of Zelda: Tears of the Kingdom – Official Trailer]]
+I can't wait any longer, and I'm pretty sure I'll take a day off on the launch day.
+*** What I Did
+**** [[https://www.keychron.com/pages/keychron-q2-customizable-mechanical-keyboard][Keychron Q2 Customizable Mechanical Keyboard]]
+I purchased this new keyboard as upgrade and am thoroughly enjoying typing each individual character.
+
 ** DONE Notes for SwiftUI and Combine Programming (1) :@programming:swift:iOS:swiftUI:
    CLOSED: [2019-11-08 Fri 22:54]
    :PROPERTIES:
