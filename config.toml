@@ -243,7 +243,7 @@ googleAnalytics = "UA-52161528-1"
     [languages.zh-cn.params.header.title]
       name = "炒碗软饭"
     [languages.zh-cn.params.page]
-      rssFullText = false
+      rssFullText = true
     [languages.zh-cn.params.page.share]
       enable = true
       Twitter = true
