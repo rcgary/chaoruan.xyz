@@ -14,6 +14,7 @@ CLOSED: [2023-04-23 Sun 16:32]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/weekly-summary-2023-04-16-cover.jpeg
 :END:
 封面图是太太的做的咖啡， 几年下来， 太太已经的拉花技术已经十分出众了.
+#+hugo: more
 *** 读了什么
 **** [[https://www.v2ex.com/t/933992][关于成都评价的两极分化 - V2EX]]
 蛮有意思的讨论， 我去过几次成都， 也真的很喜欢那里， 但是如果现在你问我要不要长住在成都， 我很难说声愿意。 原因有很多， 可是都离不开[[https://www.v2ex.com/go/flamewar][水深火热]]。

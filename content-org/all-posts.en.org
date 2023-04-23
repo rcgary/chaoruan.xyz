@@ -14,6 +14,7 @@ CLOSED: [2023-04-23 Sun 16:32]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/weekly-summary-2023-04-16-cover.jpeg
 :END:
 The cover photo is of a coffee made by my wife. Over the past few years, her latte art skills have become quite exceptional.
+#+hugo: more
 *** What I Read
 **** [[https://www.sammobile.com/opinion/by-ditching-search-samsung-may-make-google-get-its-act-together/][By ditching Search, Samsung may make Google get its act together]]
 It comes as no surprise that since the launch of the New Bing, Google hasn't developed any significant products to compete with Microsoft. I've primarily been using DuckDuckGo for the past two years, but I still switch to Google if I feel like I'm missing something. I believe this habit will become less frequent now that we have ChatGPT.

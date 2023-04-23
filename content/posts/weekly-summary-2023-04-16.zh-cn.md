@@ -1,13 +1,15 @@
 +++
 title = "炒饭周摘 2023-04-16"
 date = 2023-04-23T16:32:00+10:00
-lastmod = 2023-04-23T16:33:50+10:00
+lastmod = 2023-04-23T16:36:01+10:00
 draft = false
 weight = 2001
 featuredImage = "/ox-hugo/weekly-summary-2023-04-16-cover.jpeg"
 +++
 
 封面图是太太的做的咖啡， 几年下来， 太太已经的拉花技术已经十分出众了.
+
+<!--more-->
 
 
 ## 读了什么 {#读了什么}
