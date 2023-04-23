@@ -5,6 +5,38 @@
 #+options: author:nil
 
 * Blog ideas
+** DONE 炒饭周摘 2023-04-16
+CLOSED: [2023-04-23 Sun 16:32]
+:PROPERTIES:
+:EXPORT_FILE_NAME: weekly-summary-2023-04-16.zh-cn.md
+:EXPORT_DATE: <2023-04-23 Sun>
+:CUSTOM_ID: weekly-summary-2023-04-16-zh
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/weekly-summary-2023-04-16-cover.jpeg
+:END:
+封面图是太太的做的咖啡， 几年下来， 太太已经的拉花技术已经十分出众了.
+*** 读了什么
+**** [[https://www.v2ex.com/t/933992][关于成都评价的两极分化 - V2EX]]
+蛮有意思的讨论， 我去过几次成都， 也真的很喜欢那里， 但是如果现在你问我要不要长住在成都， 我很难说声愿意。 原因有很多， 可是都离不开[[https://www.v2ex.com/go/flamewar][水深火热]]。
+*** 看了什么
+**** [[https://www.bilibili.com/video/BV1Hk4y1q7Rz/?vd_source=af60240413ae7e82f58d7b215a767825][【老奇】阴差阳错 撼动世界的游戏引擎]]
+突然发现的宝藏年更Up主 [[https://space.bilibili.com/35894872][老奇好好奇]]的最新作品， 从虚幻引擎5聊到图象学再聊回理论与实际工程上的实现方式以及成果，做开放的，玩游戏的都很推荐看一看，深入浅出，能把这么复杂的东西讲明白，真的很厉害！
+#+begin_export html
+{{< bilibili BV1Hk4y1q7Rz >}}
+#+end_export
+**** [[https://www.youtube.com/watch?v=z9nMTntqleM][“纯净之地”新西兰到底有多美？肉眼就是电影画面你敢信？]]
+关注的Youtuber 去了新西兰，他们的路线和我们当初去的时候很像，让我想起新西兰南岛的雪山湖泊， 虽然没有特别向往，但是我完全不介意再去玩一次。
+#+begin_export html
+{{< youtube z9nMTntqleM >}}
+#+end_export
+**** [[https://www.imdb.com/title/tt7660850/episodes?season=1][Succession S1]]
+这周又看了几集， 渐入佳境， 真的很佩服编剧的功底，剧中人物的塑造丰满形象，冲突转折都能抓住观众的注意力。没有一个地方拖拉，非常喜欢
+**** [[https://www.imdb.com/title/tt6718170/][超级马力欧兄弟大电影]]
+今天去影院看了这部电影， 做为任天堂的粉丝，我其实并没有打算去看这部电影，但是看到的一些影评改变了我的想法，看了以后成了“真香”现场。我会单独写篇文章聊聊这部电影的
+
+*** 做了什么
+家里院子里的棕榈树最近几个月长的特别快， 感觉一个夏天长了高了三米， 因为它们生长的位置问题，在墨尔本的妖风加持下，摇摇晃晃的随时都要砸到邻居的院子里， 和妻子商量后清理专业人员把这几课树都砍掉了。 虽然我也不想砍树，但是为了安全原因也不得已为之
+[[file:weekly-summary-2023-04-16-001.jpeg]]
+
 ** DONE 炒饭周摘 2023-04-09
 CLOSED: [2023-04-16 Sun 15:03]
 :PROPERTIES:

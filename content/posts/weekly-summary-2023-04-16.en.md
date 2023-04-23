@@ -1,8 +1,8 @@
 +++
 title = "Weekly Summary 2023-04-16"
-date = 2023-04-23T00:00:00+10:00
-lastmod = 2023-04-23T16:31:14+10:00
-draft = true
+date = 2023-04-23T16:32:00+10:00
+lastmod = 2023-04-23T16:32:55+10:00
+draft = false
 weight = 2001
 featuredImage = "/ox-hugo/weekly-summary-2023-04-16-cover.jpeg"
 +++
