@@ -1,11 +1,11 @@
 +++
 title = "ox-hugo Install Issue with Spacemacs"
 date = 2019-10-23T18:42:00+11:00
-lastmod = 2022-04-15T15:24:12+10:00
+lastmod = 2023-04-24T08:31:57+10:00
 tags = ["emacs", "org"]
 categories = ["programming"]
-draft = false
-weight = 2003
+draft = true
+weight = 2005
 +++
 
 While I try to install [ox-hugo](https://ox-hugo.scripter.co/) on my [Spacemacs](http://spacemacs.org/), I found an issue:

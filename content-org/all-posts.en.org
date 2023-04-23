@@ -5,7 +5,7 @@
 #+options: author:nil
 
 * Blog ideas
-** DONE Weekly Summary 2023-04-16
+** DONE Weekly Summary 2023-04-16 :@weekly:
 CLOSED: [2023-04-23 Sun 16:32]
 :PROPERTIES:
 :EXPORT_FILE_NAME: weekly-summary-2023-04-16.en.md
@@ -33,7 +33,7 @@ I watched this movie today. Initially, I didn't plan on watching it, but a few g
 The palm trees in our yard have been growing incredibly fast in recent months, and it feels like they've grown three meters taller in just one summer. Due to their location and the strong winds in Melbourne, they sway dangerously and seem ready to fall into our neighbor's yard at any moment. After discussing with my wife, we decided to hire professionals to cut down these trees. Although I don't want to cut down trees, we had to do it for safety reasons.
 [[file:weekly-summary-2023-04-16-001.jpeg]]
 
-** DONE Weekly Summary 2023-04-09
+** DONE Weekly Summary 2023-04-09 :@weekly:
 CLOSED: [2023-04-16 Sun 15:10]
 :PROPERTIES:
 :EXPORT_FILE_NAME: weekly-summary-2023-04-09.en.md
@@ -81,8 +81,7 @@ I can't wait any longer, and I'm pretty sure I'll take a day off on the launch d
 **** [[https://www.keychron.com/pages/keychron-q2-customizable-mechanical-keyboard][Keychron Q2 Customizable Mechanical Keyboard]]
 I purchased this new keyboard as upgrade and am thoroughly enjoying typing each individual character.
 
-** DONE Notes for SwiftUI and Combine Programming (1) :@programming:swift:iOS:swiftUI:
-   CLOSED: [2019-11-08 Fri 22:54]
+** TODO Notes for SwiftUI and Combine Programming (1) :@programming:swift:iOS:swiftUI:
    :PROPERTIES:
    :EXPORT_FILE_NAME: notes-for-swiftui-and-combine-programming.en.md
    :EXPORT_DATE: [2019-11-07 Thu 21:34]
@@ -145,7 +144,7 @@ I purchased this new keyboard as upgrade and am thoroughly enjoying typing each 
      #+DOWNLOADED: preview mutiple devices
      [[file:images/Blog_ideas/Screen%20Shot%202019-11-07%20at%2010.26.51%20pm_2019-11-07_22-28-54.png]]
 
-** DONE Running Oh-My-Zsh inside Spacemacs           :emacs:@programming:zsh:
+** TODO Running Oh-My-Zsh inside Spacemacs :emacs:@programming:zsh:
    :PROPERTIES:
    :EXPORT_FILE_NAME: running-oh-my-zsh-inside-spacemacs.en.md
    :EXPORT_DATE: [2019-10-26 Sat 10:58]
@@ -184,7 +183,7 @@ I purchased this new keyboard as upgrade and am thoroughly enjoying typing each 
 **** Reference
     - [[https://github.com/syl20bnr/spacemacs/issues/8642][syl20bnr/spacemacs#8642 Cannot edit shell commands in normal mode.]]
     - [[https://github.com/syl20bnr/spacemacs/tree/develop/layers/+tools/shell][spacemacs/layers/+tools/shell at develop · syl20bnr/spacemacs · GitHub]]
-** DONE ox-hugo Install Issue with Spacemacs         :emacs:org:@programming:
+** TODO ox-hugo Install Issue with Spacemacs :emacs:org:@programming:
    :PROPERTIES:
    :EXPORT_FILE_NAME: ox-hugo-install-issue-with-spacemacs.en.md
    :EXPORT_DATE: [2019-10-23 Wed 18:42]
