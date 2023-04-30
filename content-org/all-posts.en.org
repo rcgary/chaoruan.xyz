@@ -15,6 +15,7 @@ CLOSED: [2023-04-30 Sun 10:22]
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImagePreview /ox-hugo/weekly-summary-2023-04-23-preview.jpeg
 :END:
 The cover features my newly custom Cthulhu-style keycaps and an aviator cable. Love it!
+#+hugo: more
 *** What I Read
 **** [[https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev][Keyboard tricks from a macOS app dev — Alin Panaitiu]]
 This blog post was the main inspiration for me to begin setting up [[https://github.com/koekeishiya/yabai][yabai]] and [[https://github.com/koekeishiya/skhd][skhd]], which have opened up a whole new world of productivity for me.
@@ -38,6 +39,12 @@ My dotfiles management has always been a bit haphazard, but Yabai and SKHD made 
 #+begin_export html
 {{< youtube 90xMTKml9O0 >}}
 #+end_export
+**** [[https://www.sonos.com/en-au/shop/two-room-set-era-100-white][Sonos Era 100]]
+I was very fortunate to buy the latest Sonos speaker, released just last month, at a 30% discount. It turned out that the discount code was due to an employee error, but Sonos generously honored the orders placed within that hour. I'm delighted with my purchase; now my home theater system feels complete. I used this setup to watch  [[https://www.imdb.com/title/tt10954600/][Ant-Man and the Wasp: Quantumania (2023)]] and the experience was quite impressive. My setup now:
+- [[https://www.sonos.com/en-au/shop/arc][Arc]]
+- [[https://www.sonos.com/en-au/shop/sub][Sub]]
+- [[https://www.sonos.com/en-au/shop/two-room-set-era-100-white][Sonos Era 100]]
+
 ** DONE Weekly Summary 2023-04-16
 CLOSED: [2023-04-23 Sun 16:32]
 :PROPERTIES:
