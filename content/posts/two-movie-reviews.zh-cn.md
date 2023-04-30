@@ -3,6 +3,7 @@ title = "影评两则 - Tetris & John Wick 4"
 date = 2023-04-08T11:31:00+10:00
 lastmod = 2023-04-16T15:13:42+10:00
 draft = false
+tags = ["电影"]
 weight = 2002
 featuredImage = "/ox-hugo/two-movie-reviews-cn-cover.jpeg"
 featuredImagePreview = "/ox-hugo/two-movie-reviews-cn-preview.jpg"

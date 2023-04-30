@@ -1,9 +1,9 @@
 +++
 title = "我为什么要在2023年开始写博客"
 date = 2023-02-20T15:29:00+11:00
-lastmod = 2023-04-08T11:01:26+10:00
+lastmod = 2023-04-30T10:21:10+10:00
 draft = false
-weight = 2004
+weight = 2007
 featuredImage = "/ox-hugo/why-i-start-blog-in-2023-cn-001.jpeg"
 +++
 

@@ -3,6 +3,7 @@ title = "炒饭周摘 2023-04-16"
 date = 2023-04-23T16:32:00+10:00
 lastmod = 2023-04-23T16:36:01+10:00
 draft = false
+tags = ["周摘"]
 weight = 2001
 featuredImage = "/ox-hugo/weekly-summary-2023-04-16-cover.jpeg"
 +++

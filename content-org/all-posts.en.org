@@ -5,7 +5,40 @@
 #+options: author:nil
 
 * Blog ideas
-** DONE Weekly Summary 2023-04-16 :@weekly:
+** DONE Weekly Summary 2023-04-23
+CLOSED: [2023-04-30 Sun 10:22]
+:PROPERTIES:
+:EXPORT_FILE_NAME: weekly-summary-2023-04-23.en.md
+:EXPORT_DATE: <2023-04-30 Sun>
+:CUSTOM_ID: weekly-summary-2023-04-23
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/weekly-summary-2023-04-23-cover.jpeg
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImagePreview /ox-hugo/weekly-summary-2023-04-23-preview.jpeg
+:END:
+The cover features my newly custom Cthulhu-style keycaps and an aviator cable. Love it!
+*** What I Read
+**** [[https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev][Keyboard tricks from a macOS app dev — Alin Panaitiu]]
+This blog post was the main inspiration for me to begin setting up [[https://github.com/koekeishiya/yabai][yabai]] and [[https://github.com/koekeishiya/skhd][skhd]], which have opened up a whole new world of productivity for me.
+**** [[https://news.ycombinator.com/item?id=35684807][I don’t want to sign up for your newsletter (2018) | Hacker News]]
+I don't appreciate these newsletter signup pop-ups; what's the reason for me to want that?
+*** What I Watched
+**** [[https://www.imdb.com/title/tt7660850/episodes?season=1][Succession S1]]
+I've finished the first season, and it's indeed brilliant. When material needs reach their peak, the only thing that people genuinely care about and ponder is their spiritual needs.
+**** [[https://www.imdb.com/title/tt10954600/][Ant-Man and the Wasp: Quantumania (2023)]]
+The Marvel film is visually stunning but disappointing. The fourth phase of the Marvel universe doesn't offer much to see. Thankfully, I didn't waste money going to the cinema. However, how does [[https://www.imdb.com/name/nm0748620/?ref_=tt_cl_i_1][Paul Rudd]] manage to not age at all?
+**** [[https://www.youtube.com/watch?v=TESNhgSeTTw&ab_channel=SkillUp][I played Tears of the Kingdom (spoiler-free hands-on impressions) - YouTube]]
+I simply can not wait any more! I want to play it NOW!
+#+begin_export html
+{{< youtube TESNhgSeTTw >}}
+#+end_export
+*** What I Did
+**** [[https://github.com/koekeishiya/yabai][yabai]] & [[https://github.com/koekeishiya/skhd][skhd]]
+I'm surprised that I've only just discovered Yabai, such a handy window management tool. I can't get enough of it since I started using it! It has resolved many of the pain points I faced previously. Moreover, it gives me the opportunity to make full use of Mac's multiple desktops. I spent an evening setting it up on both my work and personal MacBook Pros. After using it for a week, I know I can't live without it.
+**** [[https://www.gnu.org/software/stow/][Stow]]
+My dotfiles management has always been a bit haphazard, but Yabai and SKHD made me realize that syncing dotfiles across multiple systems is becoming increasingly necessary. Previously, I used my own script for syncing, but this time I adopted Stow and moved my Emacs config over as well. I basically followed the setup provided by [[https://www.youtube.com/@SystemCrafters][System Crafters]] on YouTube.
+#+begin_export html
+{{< youtube 90xMTKml9O0 >}}
+#+end_export
+** DONE Weekly Summary 2023-04-16
 CLOSED: [2023-04-23 Sun 16:32]
 :PROPERTIES:
 :EXPORT_FILE_NAME: weekly-summary-2023-04-16.en.md
@@ -33,13 +66,14 @@ I watched this movie today. Initially, I didn't plan on watching it, but a few g
 The palm trees in our yard have been growing incredibly fast in recent months, and it feels like they've grown three meters taller in just one summer. Due to their location and the strong winds in Melbourne, they sway dangerously and seem ready to fall into our neighbor's yard at any moment. After discussing with my wife, we decided to hire professionals to cut down these trees. Although I don't want to cut down trees, we had to do it for safety reasons.
 [[file:weekly-summary-2023-04-16-001.jpeg]]
 
-** DONE Weekly Summary 2023-04-09 :@weekly:
+** DONE Weekly Summary 2023-04-09
 CLOSED: [2023-04-16 Sun 15:10]
 :PROPERTIES:
 :EXPORT_FILE_NAME: weekly-summary-2023-04-09.en.md
 :EXPORT_DATE: <2023-04-16 Sun>
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/weekly-summary-2023-04-09-cover.jpeg
 :END:
+#+hugo_tags: weekly
 I've decided to start documenting my weekly life by providing a brief summary of what I've read, watched, and done in the past week.
 #+hugo: more
 [[https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-09][中文版]]
