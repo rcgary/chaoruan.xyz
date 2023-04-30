@@ -1,4 +1,40 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>weekly - Tag - Chaos Talk</title><link>https://chaoruan.xyz/tags/weekly/</link><description>weekly - Tag - Chaos Talk</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Sun, 23 Apr 2023 16:32:00 +1000</lastBuildDate><atom:link href="https://chaoruan.xyz/tags/weekly/" rel="self" type="application/rss+xml"/><item><title>Weekly Summary 2023-04-16</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-16/</link><pubDate>Sun, 23 Apr 2023 16:32:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-16/</guid><description><![CDATA[<div class="featured-image">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>weekly - Tag - Chaos Talk</title><link>https://chaoruan.xyz/tags/weekly/</link><description>weekly - Tag - Chaos Talk</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Sun, 30 Apr 2023 10:22:00 +1000</lastBuildDate><atom:link href="https://chaoruan.xyz/tags/weekly/" rel="self" type="application/rss+xml"/><item><title>Weekly Summary 2023-04-23</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-23/</link><pubDate>Sun, 30 Apr 2023 10:22:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-23/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-04-23-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>The cover features my newly custom Cthulhu-style keycaps and an aviator cable. Love it!</p>
+<h2 id="what-i-read">What I Read</h2>
+<h3 id="keyboard-tricks-from-a-macos-app-dev-alin-panaitiu"><a href="https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev" target="_blank" rel="noopener noreffer ">Keyboard tricks from a macOS app dev — Alin Panaitiu</a></h3>
+<p>This blog post was the main inspiration for me to begin setting up <a href="https://github.com/koekeishiya/yabai" target="_blank" rel="noopener noreffer ">yabai</a> and <a href="https://github.com/koekeishiya/skhd" target="_blank" rel="noopener noreffer ">skhd</a>, which have opened up a whole new world of productivity for me.</p>
+<h3 id="i-don-t-want-to-sign-up-for-your-newsletter--2018--hacker-news"><a href="https://news.ycombinator.com/item?id=35684807" target="_blank" rel="noopener noreffer ">I don’t want to sign up for your newsletter (2018) | Hacker News</a></h3>
+<p>I don&rsquo;t appreciate these newsletter signup pop-ups; what&rsquo;s the reason for me to want that?</p>
+<h2 id="what-i-watched">What I Watched</h2>
+<h3 id="succession-s1"><a href="https://www.imdb.com/title/tt7660850/episodes?season=1" target="_blank" rel="noopener noreffer ">Succession S1</a></h3>
+<p>I&rsquo;ve finished the first season, and it&rsquo;s indeed brilliant. When material needs reach their peak, the only thing that people genuinely care about and ponder is their spiritual needs.</p>
+<h3 id="ant-man-and-the-wasp-quantumania--2023"><a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a></h3>
+<p>The Marvel film is visually stunning but disappointing. The fourth phase of the Marvel universe doesn&rsquo;t offer much to see. Thankfully, I didn&rsquo;t waste money going to the cinema. However, how does <a href="https://www.imdb.com/name/nm0748620/?ref_=tt_cl_i_1" target="_blank" rel="noopener noreffer ">Paul Rudd</a> manage to not age at all?</p>
+<h3 id="i-played-tears-of-the-kingdom--spoiler-free-hands-on-impressions--youtube"><a href="https://www.youtube.com/watch?v=TESNhgSeTTw&amp;ab_channel=SkillUp" target="_blank" rel="noopener noreffer ">I played Tears of the Kingdom (spoiler-free hands-on impressions) - YouTube</a></h3>
+<p>I simply can not wait any more! I want to play it NOW!</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/TESNhgSeTTw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="what-i-did">What I Did</h2>
+<h3 id="yabai-and-skhd"><a href="https://github.com/koekeishiya/yabai" target="_blank" rel="noopener noreffer ">yabai</a> &amp; <a href="https://github.com/koekeishiya/skhd" target="_blank" rel="noopener noreffer ">skhd</a></h3>
+<p>I&rsquo;m surprised that I&rsquo;ve only just discovered Yabai, such a handy window management tool. I can&rsquo;t get enough of it since I started using it! It has resolved many of the pain points I faced previously. Moreover, it gives me the opportunity to make full use of Mac&rsquo;s multiple desktops. I spent an evening setting it up on both my work and personal MacBook Pros. After using it for a week, I know I can&rsquo;t live without it.</p>
+<h3 id="stow"><a href="https://www.gnu.org/software/stow/" target="_blank" rel="noopener noreffer ">Stow</a></h3>
+<p>My dotfiles management has always been a bit haphazard, but Yabai and SKHD made me realize that syncing dotfiles across multiple systems is becoming increasingly necessary. Previously, I used my own script for syncing, but this time I adopted Stow and moved my Emacs config over as well. I basically followed the setup provided by <a href="https://www.youtube.com/@SystemCrafters" target="_blank" rel="noopener noreffer ">System Crafters</a> on YouTube.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/90xMTKml9O0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="sonos-era-100"><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></h3>
+<p>I was very fortunate to buy the latest Sonos speaker, released just last month, at a 30% discount. It turned out that the discount code was due to an employee error, but Sonos generously honored the orders placed within that hour. I&rsquo;m delighted with my purchase; now my home theater system feels complete. I used this setup to watch  <a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a> and the experience was quite impressive. My setup now:</p>
+<ul>
+<li><a href="https://www.sonos.com/en-au/shop/arc" target="_blank" rel="noopener noreffer ">Arc</a></li>
+<li><a href="https://www.sonos.com/en-au/shop/sub" target="_blank" rel="noopener noreffer ">Sub</a></li>
+<li><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></li>
+</ul>]]></description></item><item><title>Weekly Summary 2023-04-16</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-16/</link><pubDate>Sun, 23 Apr 2023 16:32:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-16/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-16-cover.jpeg" referrerpolicy="no-referrer">
             </div><p>The cover photo is of a coffee made by my wife. Over the past few years, her latte art skills have become quite exceptional.</p>
 <h2 id="what-i-read">What I Read</h2>
