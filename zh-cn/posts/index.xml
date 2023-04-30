@@ -1,4 +1,41 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 炒碗软饭</title><link>https://chaoruan.xyz/zh-cn/posts/</link><description>所有文章 | 炒碗软饭</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Sun, 23 Apr 2023 16:32:00 +1000</lastBuildDate><atom:link href="https://chaoruan.xyz/zh-cn/posts/" rel="self" type="application/rss+xml"/><item><title>炒饭周摘 2023-04-16</title><link>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-16/</link><pubDate>Sun, 23 Apr 2023 16:32:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-16/</guid><description><![CDATA[<div class="featured-image">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 炒碗软饭</title><link>https://chaoruan.xyz/zh-cn/posts/</link><description>所有文章 | 炒碗软饭</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Sun, 30 Apr 2023 10:22:00 +1000</lastBuildDate><atom:link href="https://chaoruan.xyz/zh-cn/posts/" rel="self" type="application/rss+xml"/><item><title>炒饭周摘 2023-04-23</title><link>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-23/</link><pubDate>Sun, 30 Apr 2023 10:22:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-23/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-04-23-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>封面是新入手的定制克苏鲁风格的键帽和航插数据线， 好喜欢</p>
+<h2 id="读了什么">读了什么</h2>
+<h3 id="大医-日出篇"><a href="https://book.douban.com/subject/36155568/" target="_blank" rel="noopener noreffer ">大医·日出篇</a></h3>
+<p>开始看马亲王的【大医】 第二部， 还是蛮喜欢第一部的， 拿到第二部后现在才抽出时间开始看，希望这周能看完。</p>
+<h3 id="一次做近视屈光手术-icl-晶体植入-的流水账-少数派"><a href="https://sspai.com/post/79450" target="_blank" rel="noopener noreffer ">一次做近视屈光手术（ICL 晶体植入）的流水账 - 少数派</a></h3>
+<p>我有时候一直在想， 自己要不要去做手术治好跟随我20多年的近视眼， 可一想到要在眼睛上动刀子，心理的恐惧就疯狂袭来。 想起疫情前有看到似乎有种新的视力校正手术，无痛五分钟做完， 不知道什么时候会看到。</p>
+<h2 id="看了什么">看了什么</h2>
+<h3 id="succession-s1"><a href="https://www.imdb.com/title/tt7660850/episodes?season=1" target="_blank" rel="noopener noreffer ">Succession S1</a></h3>
+<p>第一季看完了， 确实精彩， 当物质需求已经到达上限后，人最在乎的思惑只有精神需求。</p>
+<h3 id="ant-man-and-the-wasp-quantumania--2023"><a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a></h3>
+<p>效果很华丽的漫威烂片， 第四阶段的漫威宇宙真的没什么好看的， 幸亏没有跑到电影院花冤枉钱。 不过 <a href="https://www.imdb.com/name/nm0748620/?ref_=tt_cl_i_1" target="_blank" rel="noopener noreffer ">Paul Rudd</a> 是怎么做到一点都不老的？</p>
+<h3 id="i-played-tears-of-the-kingdom--spoiler-free-hands-on-impressions--youtube"><a href="https://www.youtube.com/watch?v=TESNhgSeTTw&amp;ab_channel=SkillUp" target="_blank" rel="noopener noreffer ">I played Tears of the Kingdom (spoiler-free hands-on impressions) - YouTube</a></h3>
+<p>真实等不及， 看得心痒痒， 真的一刻都不想等了</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/TESNhgSeTTw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="做了什么">做了什么</h2>
+<h3 id="yabai-and-skhd"><a href="https://github.com/koekeishiya/yabai" target="_blank" rel="noopener noreffer ">yabai</a> &amp; <a href="https://github.com/koekeishiya/skhd" target="_blank" rel="noopener noreffer ">skhd</a></h3>
+<p>我惊讶自己现在才发现 yabai 这么好用的窗口管理工具， 用了之后真的是爱不释手！ 解决了很多我以前的使用痛点。 而且也给我机会好好使用 Mac 的多桌面。 花了一个晚上把自己的工作和个人 MBP 都配置了， 用了一周后，我就知道我已经离不开它了</p>
+<h3 id="stow"><a href="https://www.gnu.org/software/stow/" target="_blank" rel="noopener noreffer ">Stow</a></h3>
+<p>我的 dotfiles 管理一直都有点随心所欲， 但是 yabai 和 skhd 让我意识到 多个系统的 dotfiles 的同步已经迫在眉睫， 我之前是自己写的 script 来同步的， 这次用上了 Stow， 同时把 emacs 的 config 也搬了过去。
+基本照抄了 <a href="https://www.youtube.com/@SystemCrafters" target="_blank" rel="noopener noreffer ">System Crafters</a> 的设置</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/90xMTKml9O0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="sonos-era-100"><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></h3>
+<p>非常幸运的用七折的价钱买到了 Sonos 上个月才出的新的音响， 后来证实七折的打折码是员工失误造成， 但是对于在那一小时下单的交易， Sonos 还是很大方的发货了。 入手后真的很高兴， 家里的这一套家庭影像算是有了完全体, 用这一套看了 <a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a>， 效果还是很不错的</p>
+<ul>
+<li><a href="https://www.sonos.com/en-au/shop/arc" target="_blank" rel="noopener noreffer ">Arc</a></li>
+<li><a href="https://www.sonos.com/en-au/shop/sub" target="_blank" rel="noopener noreffer ">Sub</a></li>
+<li><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></li>
+</ul>]]></description></item><item><title>炒饭周摘 2023-04-16</title><link>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-16/</link><pubDate>Sun, 23 Apr 2023 16:32:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-16/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-16-cover.jpeg" referrerpolicy="no-referrer">
             </div><p>封面图是太太的做的咖啡， 几年下来， 太太已经的拉花技术已经十分出众了.</p>
 <h2 id="读了什么">读了什么</h2>
@@ -112,20 +149,6 @@
 <figure>
 </figure>
 
-]]></description></item><item><title>我为什么要在2023年开始写博客</title><link>https://chaoruan.xyz/zh-cn/posts/why-i-start-blog-in-2023/</link><pubDate>Mon, 20 Feb 2023 15:29:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/why-i-start-blog-in-2023/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/ox-hugo/why-i-start-blog-in-2023-cn-001.jpeg" referrerpolicy="no-referrer">
-            </div><h2 id="前言">前言</h2>
-<p>写博客一直以来都有一些技术门槛，比如购买域名、搭建网站等，这些让很多人望而生畏。但对于程序员来说，这些并不算难事。当然，现在有很多更方便的替代品，比如微博、Twitter，甚至微信朋友圈。随手即用，一键分享，对于“懒人”来说，这些似乎是更好的选择。那么，在到处都在谈论 web 3.0 的 2023 年，为什么我还要开始写博客呢？</p>
-<h2 id="我的互联网记忆">我的互联网记忆</h2>
-<p>还记得最早在网络上记录自己的生活和想法是在高中时的 QQ 空间，之后便是百度贴吧、微博，在出国后开始接触 Facebook、Twitter、Instagram 等社交平台。但自己从未是一个积极的网络记录者，最多也只是发发朋友圈。然而，最近几年分享欲减弱，慢慢地好像也不再记录生活中的点点滴滴了。</p>
-<p>毕业后开始工作后，尝试着折腾博客，从 Ghost、Jekyll 到 Hugo，断断续续地写了一些技术文章。但由于疏于维护，这些文字和记忆也只是被封存在了互联网记忆的缝隙中。</p>
-<h2 id="记录的意义">记录的意义</h2>
-<p>尽管我不再积极参与社交网站，但我始终珍视生活中的点点滴滴和变化。随着疫情席卷全球，我也开始思考更多的问题。在这个纷繁复杂的世界中，我渴望保留自己的思考和感悟，因此我决定记录下这些变化和思考。将分享的初衷从当初的炫耀变成经过深思熟虑的沉淀。</p>
-<p>此外，我也期望重拾写作的快乐。这些年，我很少写东西，更很少用中文。除了提笔忘字之外，我的写作还被妻子嘲笑透着译制腔。这些给了我更多动力和决心，去开始写博客。</p>
-<h2 id="为什么选博客">为什么选博客</h2>
-<p><a href="https://startafuckingblog.com/" target="_blank" rel="noopener noreffer ">Start a Fucking Blog</a> 这篇文章启示了我很多。对我而言，博客意味着拥有自己的内容，并将其存储在自己的 NAS 上，从而避免被第三方平台所限制和删除(当然，我也难以忍受 Elon Musk)。 我也对微博上“抱歉，此微博已被删除”或微信上“内容无法查看”的提示感到厌恶，这让我意识到不能仅仅依赖第三方平台来保护自己的数据。因此，我开始写博客来记录生活和思考。</p>
-<h2 id="中文还是英文">中文还是英文</h2>
-<p>我会优先使用中文来记录生活中的点滴和感悟，因为用中文表达可能更加贴切。对于技术类文章，我会倾向于使用英文，但这并不是绝对的。具体的语言选择还取决于我的心情和灵感。在我的博客中，默认语言是英文，但当你选择简体中文时，你可能会发现这样的文章，给你带来小小的惊喜。</p>
 ]]></description></item><item><title>初识日本</title><link>https://chaoruan.xyz/zh-cn/posts/a-taste-of-japan/</link><pubDate>Wed, 01 Mar 2023 21:49:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/a-taste-of-japan/</guid><description><![CDATA[<h2 id="前言">🛫 前言</h2>
 <p>自2020年疫情爆发以来，我和妻子一直没有机会出门旅行。然而，在2022年8月得知日本重新开放自由行后，我们终于决定前往日本旅游。虽然我们很想赶上11月的日本红叶季，但由于工作安排，我们只能选择在12月初进行旅行。除了决定了两周的旅行时间，其他的行程安排都由我妻子精心策划。</p>
 <p>幸好，我太太非常能干，她为我们安排了住宿、各种游玩行程，并提前预订了大阪的环球影城和迪士尼乐园门票。在我的强烈建议下，她还咬牙预订了箱根豪华温泉酒店。最终，在12月初，我们终于搭上了从墨尔本飞往东京的飞机，开始了我们的日本之旅。</p>
@@ -181,4 +204,18 @@
 <h2 id="后记">后记</h2>
 <p>这次日本之行实在出人意料，两周行程结束之后，我们竟然如此不舍，对日本的美食和美景念念不忘。几个月过去了，妻子还会时常感叹那些留下的遗憾。记录下这些记忆也让我仿佛重回日本一般。
 这篇只分享记录了日本的游玩行程。 下篇聊聊一路都吃了那些美食吧。</p>
+]]></description></item><item><title>我为什么要在2023年开始写博客</title><link>https://chaoruan.xyz/zh-cn/posts/why-i-start-blog-in-2023/</link><pubDate>Mon, 20 Feb 2023 15:29:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/why-i-start-blog-in-2023/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/why-i-start-blog-in-2023-cn-001.jpeg" referrerpolicy="no-referrer">
+            </div><h2 id="前言">前言</h2>
+<p>写博客一直以来都有一些技术门槛，比如购买域名、搭建网站等，这些让很多人望而生畏。但对于程序员来说，这些并不算难事。当然，现在有很多更方便的替代品，比如微博、Twitter，甚至微信朋友圈。随手即用，一键分享，对于“懒人”来说，这些似乎是更好的选择。那么，在到处都在谈论 web 3.0 的 2023 年，为什么我还要开始写博客呢？</p>
+<h2 id="我的互联网记忆">我的互联网记忆</h2>
+<p>还记得最早在网络上记录自己的生活和想法是在高中时的 QQ 空间，之后便是百度贴吧、微博，在出国后开始接触 Facebook、Twitter、Instagram 等社交平台。但自己从未是一个积极的网络记录者，最多也只是发发朋友圈。然而，最近几年分享欲减弱，慢慢地好像也不再记录生活中的点点滴滴了。</p>
+<p>毕业后开始工作后，尝试着折腾博客，从 Ghost、Jekyll 到 Hugo，断断续续地写了一些技术文章。但由于疏于维护，这些文字和记忆也只是被封存在了互联网记忆的缝隙中。</p>
+<h2 id="记录的意义">记录的意义</h2>
+<p>尽管我不再积极参与社交网站，但我始终珍视生活中的点点滴滴和变化。随着疫情席卷全球，我也开始思考更多的问题。在这个纷繁复杂的世界中，我渴望保留自己的思考和感悟，因此我决定记录下这些变化和思考。将分享的初衷从当初的炫耀变成经过深思熟虑的沉淀。</p>
+<p>此外，我也期望重拾写作的快乐。这些年，我很少写东西，更很少用中文。除了提笔忘字之外，我的写作还被妻子嘲笑透着译制腔。这些给了我更多动力和决心，去开始写博客。</p>
+<h2 id="为什么选博客">为什么选博客</h2>
+<p><a href="https://startafuckingblog.com/" target="_blank" rel="noopener noreffer ">Start a Fucking Blog</a> 这篇文章启示了我很多。对我而言，博客意味着拥有自己的内容，并将其存储在自己的 NAS 上，从而避免被第三方平台所限制和删除(当然，我也难以忍受 Elon Musk)。 我也对微博上“抱歉，此微博已被删除”或微信上“内容无法查看”的提示感到厌恶，这让我意识到不能仅仅依赖第三方平台来保护自己的数据。因此，我开始写博客来记录生活和思考。</p>
+<h2 id="中文还是英文">中文还是英文</h2>
+<p>我会优先使用中文来记录生活中的点滴和感悟，因为用中文表达可能更加贴切。对于技术类文章，我会倾向于使用英文，但这并不是绝对的。具体的语言选择还取决于我的心情和灵感。在我的博客中，默认语言是英文，但当你选择简体中文时，你可能会发现这样的文章，给你带来小小的惊喜。</p>
 ]]></description></item></channel></rss>
