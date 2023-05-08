@@ -5,6 +5,34 @@
 #+options: author:nil
 
 * Blog ideas
+** TODO Weekly Summary 2023-05-01
+:PROPERTIES:
+:EXPORT_FILE_NAME: weekly-summary-2023-05-01.en.md
+:EXPORT_DATE: <2023-05-08 Sun>
+:CUSTOM_ID: weekly-summary-2023-05-01
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/weekly-summary-2023-05-01-cover.jpeg
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImagePreview /ox-hugo/weekly-summary-2023-05-01-preview.jpeg
+:END:
+The cover features the little princess urging us to go to sleep.
+#+hugo: more
+*** What I Read
+**** [[https://www.newsminimalist.com/][News Minimalist — Only significant news]]
+I prefer keeping things simple and clean, and this minimalist news app does everything I need.
+**** [[https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/][Passkeys: What they are and how to use them]]
+Google's Passkeys seem interesting. I'm curious about when we'll see broader use cases that aren't limited to just a few companies. I also wonder about support for people with blurred fingerprints. I tried following the setup process from the provided link, but to be honest, the experience could be better.
+**** [[https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/][Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs]]
+It's unlikely that a CEO would be deeply concerned about every employee. As employees, our main focus should be doing our jobs, getting paid, and moving forward.
+**** [[https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list][erikw/vim-keybindings-everywhere-the-ultimate-list]]
+Vim forever!
+**** [[https://www.fast.ai/posts/2023-05-03-mojo-launch.html][fast.ai - Mojo may be the biggest programming language advance in decades]]
+Mojo, it'll be interesting to see if it becomes the next trending programming language. It's amusing that the 🔥 emoji can be used as the file extension for Mojo.
+*** What I Watched
+**** [[https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/][ChatGPT Prompt Engineering for Developers]]
+It's been a week since Andrew Ng's guide came out. I've been meaning to take a look at it, but I keep making all sorts of excuses not to. I'll set a goal for myself, hoping to thoroughly review it next week.
+**** [[https://www.imdb.com/title/tt6791350/][Guardians of the Galaxy Vol. 3 (2023) - IMDb]]
+Last week, I was complaining about the lackluster fourth phase of the Marvel Cinematic Universe. But this Sunday, I saw a long-awaited great Marvel movie. The director's aesthetic taste is as impressive as ever, with excellent visuals and sound. If only every film in the fourth phase were of this caliber! This should be the last Guardians of the Galaxy movie, but there's no need for regrets. We must say goodbye to the past, move forward, and never look back.
+*** What I Did
+**** This guy is quite lazy; he didn't do anything this week.
 ** DONE Weekly Summary 2023-04-23
 CLOSED: [2023-04-30 Sun 10:22]
 :PROPERTIES:
