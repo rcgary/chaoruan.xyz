@@ -5,7 +5,8 @@
 #+options: author:nil
 
 * Blog ideas
-** TODO Weekly Summary 2023-05-01
+** DONE Weekly Summary 2023-05-01
+CLOSED: [2023-05-09 Tue 10:45]
 :PROPERTIES:
 :EXPORT_FILE_NAME: weekly-summary-2023-05-01.en.md
 :EXPORT_DATE: <2023-05-08 Sun>

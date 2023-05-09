@@ -1,9 +1,9 @@
 +++
 title = "Weekly Summary 2023-05-01"
-date = 2023-05-08T00:00:00+10:00
-lastmod = 2023-05-08T13:57:49+10:00
+date = 2023-05-09T10:45:00+10:00
+lastmod = 2023-05-09T10:45:24+10:00
 tags = ["weekly"]
-draft = true
+draft = false
 weight = 2001
 featuredImage = "/ox-hugo/weekly-summary-2023-05-01-cover.jpeg"
 featuredImagePreview = "/ox-hugo/weekly-summary-2023-05-01-preview.jpeg"
