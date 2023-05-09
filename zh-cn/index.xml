@@ -1,4 +1,25 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>炒碗软饭</title><link>https://chaoruan.xyz/zh-cn/</link><description>分享我的生活经验、技术见解以及随性的思考</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Sun, 30 Apr 2023 10:22:00 +1000</lastBuildDate><atom:link href="https://chaoruan.xyz/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>炒饭周摘 2023-04-23</title><link>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-23/</link><pubDate>Sun, 30 Apr 2023 10:22:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-23/</guid><description><![CDATA[<div class="featured-image">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>炒碗软饭</title><link>https://chaoruan.xyz/zh-cn/</link><description>分享我的生活经验、技术见解以及随性的思考</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Tue, 09 May 2023 10:45:00 +1000</lastBuildDate><atom:link href="https://chaoruan.xyz/zh-cn/index.xml" rel="self" type="application/rss+xml"/><item><title>炒饭周摘 2023-05-01</title><link>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-05-01/</link><pubDate>Tue, 09 May 2023 10:45:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-05-01/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-05-01-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>封面是想催我们睡觉的小公主</p>
+<h2 id="读了什么">读了什么</h2>
+<h3 id="陌生之城的夜游"><a href="https://hsingko.pages.dev/post/2023/05/07/night-walk-in-a-foreign-city/" target="_blank" rel="noopener noreffer ">陌生之城的夜游</a></h3>
+<p>很喜欢这种简简单单的随笔， 文笔轻松带着淡淡的忧伤，这种阅读的感觉真的很舒服。</p>
+<h2 id="看了什么">看了什么</h2>
+<h3 id="chatgpt-prompt-engineering-for-developers"><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreffer ">ChatGPT Prompt Engineering for Developers</a></h3>
+<p>吴教授这份学习指南出来一周了吧，一直准备想看看但是却总因为各种各样的借口没有去看。给自己立个flag，希望下周可以好好看看</p>
+<h3 id="游戏为什么会偷跑-厂商就没有办法吗-偷跑背后的原因"><a href="https://www.youtube.com/watch?v=3pXFGVGTo4g" target="_blank" rel="noopener noreffer ">游戏为什么会偷跑？厂商就没有办法吗？偷跑背后的原因</a></h3>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/3pXFGVGTo4g" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>国王之泪的偷跑我是有担心的，但是没想到竟然提前十多天就被偷跑，而且更重要的是直接可以用模拟器跑起来，门坎大大降低，传播广，危害大， 我理解那些想去玩盗版的心情，但是我不能理解那些玩了盗版跑来四处炫耀剧透的人渣。</p>
+<h3 id="漫长的季节"><a href="https://movie.douban.com/subject/35588177/" target="_blank" rel="noopener noreffer ">漫长的季节</a></h3>
+<p>我并没有好好看辛爽导演的<a href="https://movie.douban.com/subject/33404425/" target="_blank" rel="noopener noreffer ">隐秘的角落</a>， 只知道非常好，太太看了之后赞不绝口，这周就果断追着看完了。 有些惊到了。 这部电视剧服道化到故事剧情， 都是近年少有的好剧，用喜剧讲悲剧，讲的这么真实，接地气， 才能真正打动每个看过的心灵。 虽然开头节奏慢，但是我和太太还是看得津津有味，全局也能看出为了过审的改编痕迹，但这些都不影响最后三集狂风骤雨的故事展现。我感叹现在还能看到这么好的中国电视剧。当浮一大白！</p>
+<h3 id="guardians-of-the-galaxy-vol-dot-3--2023--imdb"><a href="https://www.imdb.com/title/tt6791350/" target="_blank" rel="noopener noreffer ">Guardians of the Galaxy Vol. 3 (2023) - IMDb</a></h3>
+<p>我上周还在吐槽漫威宇宙第四阶段的疲软，这周日就看到了漫威久违的好电影。 滚导的审美一如既往的在线。声画都很棒，如果第四阶段每一部都有这样的水平该多好！ 这应该是最后一部银河护卫队了，不过也没有什么好遗憾的，都要和过去说再见，往前走，莫回头。</p>
+<h2 id="做了什么">做了什么</h2>
+<h3 id="这家伙很懒-这周什么也没做">这家伙很懒，这周什么也没做</h3>]]></description></item><item><title>炒饭周摘 2023-04-23</title><link>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-23/</link><pubDate>Sun, 30 Apr 2023 10:22:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-23/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-23-cover.jpeg" referrerpolicy="no-referrer">
             </div><p>封面是新入手的定制克苏鲁风格的键帽和航插数据线， 好喜欢</p>
 <h2 id="读了什么">读了什么</h2>
