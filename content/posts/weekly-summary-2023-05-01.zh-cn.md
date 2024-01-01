@@ -1,10 +1,10 @@
 +++
 title = "炒饭周摘 2023-05-01"
 date = 2023-05-09T10:45:00+10:00
-lastmod = 2023-05-09T10:45:54+10:00
+lastmod = 2024-01-01T14:05:51+11:00
 tags = ["周摘"]
 draft = false
-weight = 2001
+weight = 2002
 featuredImage = "/ox-hugo/weekly-summary-2023-05-01-cover.jpeg"
 featuredImagePreview = "/ox-hugo/weekly-summary-2023-05-01-preview.jpeg"
 +++
