@@ -1,10 +1,10 @@
 +++
 title = "2024 新年计划"
 date = 2024-01-01T00:00:00+11:00
-lastmod = 2024-01-03T16:13:58+11:00
+lastmod = 2024-01-03T20:44:55+11:00
 tags = ["周摘"]
 draft = true
-weight = 2001
+weight = 2002
 featuredImage = "/ox-hugo/2023-end-of-year-summary-zh-cover.jpeg"
 featuredImagePreview = "/ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg"
 +++
@@ -26,10 +26,10 @@ featuredImagePreview = "/ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg"
 ### 生活 {#生活}
 
 -   [ ] 提高生活幸福感和品质 (0/3)
-    -   [ ] 每月至少写一篇Blog (0/3)
+    -   [ ] 每月至少写一篇Blog (1/12)
     -   [ ] 每月至少剪辑一部 Vlog (0/3)
     -   [ ] 拍出 Misty 满意的照片 (0/5)
-    -   [ ] 完结两个游戏并写下Review Blog (0/2)
+    -   [ ] 完结两个游戏并写下Review Blog (1/2)
 
 
 ### 健康 {#健康}
