@@ -1,19 +1,20 @@
 +++
 title = "关于我"
 date = 2023-02-19T15:33:00+11:00
-lastmod = 2023-04-23T16:32:55+10:00
+lastmod = 2024-01-10T16:36:45+11:00
+tags = ["周摘"]
 draft = false
-weight = 2007
+weight = 2013
 +++
 
 ## 👋 吃了没？ {#吃了没}
 
-我是阮超，一名拥有近十年 iOS 应用开发经验的软件工程师。自从 2008 年来到墨尔本学习以来，我一直在这里生活。
+我是阮超，一名拥有十多年 iOS 应用开发经验的软件工程师。自从 2008 年来到墨尔本学习以来，我一直在这里生活。
 
 
 ## 🖥 技术与生活 {#技术与生活}
 
-作为一个热衷于探索新事物的人，我涉足各种领域：从软件开发到主机游戏，从智能家居到旅行美食，从[GTD](https://en.wikipedia.org/wiki/Getting%20Things%20Done)到动漫音乐。我热衷于投入时间和精力去研究，同时也享受研究所带来的成果。
+作为一个热衷于探索新事物的人，我涉足各种领域：从软件开发到主机游戏，从智能家居到旅行美食，从[GTD](https://en.wikipedia.org/wiki/Getting%20Things%20Done)到动漫音乐。看得很杂，学的很杂。
 
 
 ## 🏠 远程工作 {#远程工作}
@@ -32,3 +33,5 @@ weight = 2007
 -   [Fantastical](<https://flexibits.com/fantastical>)
 -   [Things 3](<https://culturedcode.com/things/>)
 -   [Spark](<https://sparkmailapp.com/>)
+
+\*
