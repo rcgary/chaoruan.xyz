@@ -1,7 +1,7 @@
 +++
 title = "2024 新年计划"
 date = 2024-01-01T00:00:00+11:00
-lastmod = 2024-01-03T20:44:55+11:00
+lastmod = 2024-01-10T14:09:38+11:00
 tags = ["周摘"]
 draft = true
 weight = 2002
@@ -27,7 +27,7 @@ featuredImagePreview = "/ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg"
 
 -   [ ] 提高生活幸福感和品质 (0/3)
     -   [ ] 每月至少写一篇Blog (1/12)
-    -   [ ] 每月至少剪辑一部 Vlog (0/3)
+    -   [ ] 每月至少剪辑一部 Vlog (1/3)
     -   [ ] 拍出 Misty 满意的照片 (0/5)
     -   [ ] 完结两个游戏并写下Review Blog (1/2)
 
@@ -37,7 +37,7 @@ featuredImagePreview = "/ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg"
 -   [ ] 减掉五公斤 (0/2)
     -   [ ] 恢复运动，每周可以至少三次锻炼
     -   [ ] 健康饮食，少吃外卖
-    -   [ ] 目标体重 85kg, 现在体重 92kg
+    -   [ ] 目标体重 85kg, 现在体重 90kg
 
 
 ### 奖励 {#奖励}
@@ -59,7 +59,7 @@ featuredImagePreview = "/ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg"
 ### 生活 {#生活}
 
 -   [ ] 提高生活幸福感和品质 (0/3)
-    -   [ ] 每月至少写两篇篇Blog (0/6)
+    -   [ ] 每月至少写两篇Blog (0/6)
     -   [ ] 每月至少看一本书 (0/3)
     -   [ ] 完成动森考拉岛的一基建设
 
