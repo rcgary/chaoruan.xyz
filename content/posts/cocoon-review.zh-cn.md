@@ -1,10 +1,10 @@
 +++
 title = "Cocoon 完结感想"
 date = 2024-01-03T20:44:00+11:00
-lastmod = 2024-01-10T14:31:57+11:00
-tags = ["weekly", "周摘"]
+lastmod = 2024-01-25T15:55:13+11:00
+tags = ["游戏"]
 draft = false
-weight = 2002
+weight = 2003
 featuredImage = "/ox-hugo/cocoon-review-zh-cover.jpeg"
 featuredImagePreview = "/ox-hugo/cocoon-review-zh-preview.jpeg"
 +++

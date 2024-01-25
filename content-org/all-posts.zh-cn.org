@@ -11,6 +11,7 @@ CLOSED: [2024-01-25 Thu 15:48]
 :EXPORT_FILE_NAME: note-for-hai-cuo-tu-note.zh-cn.md
 :EXPORT_DATE: <2024-01-25 Thu>
 :CUSTOM_ID: note-for-hai-cup-tu-note
+:EXPORT_HUGO_TAGS: 阅读
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/note-for-hai-cuo-tu-note-zh.jpeg
 :END:
 今年读完的第一套书：[[https://book.douban.com/subject/26905274/][「海错图笔记」]]
@@ -31,6 +32,7 @@ CLOSED: [2024-01-10 Wed 16:21]
 :PROPERTIES:
 :EXPORT_FILE_NAME: return-to-normal.zh-cn.md
 :EXPORT_DATE: <2024-01-10 Wed>
+:EXPORT_HUGO_TAGS: reflect
 :CUSTOM_ID: return-to-normal-2024-01-03-zh
 :END:
 在完成了[[https://chaoruan.xyz/zh-cn/posts/2023-end-of-year-summary/][2023年终总结]]之后，我便不断地回顾我的2023年。我意识到，遗憾确实不少，对于那些未能做到或可以做得更好的事情，我有了更深刻的认识。我渴望在新的一年里生活得更充实、更高效，也更快乐。因此，我对改变自己在新一年的各个方面充满了动力。
@@ -52,6 +54,7 @@ CLOSED: [2024-01-03 Wed 20:44]
 :EXPORT_FILE_NAME: cocoon-review.zh-cn.md
 :EXPORT_DATE: <2024-01-03 Wed>
 :CUSTOM_ID: cocoon-review-zh
+:EXPORT_HUGO_TAGS: 游戏
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/cocoon-review-zh-cover.jpeg
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImagePreview /ox-hugo/cocoon-review-zh-preview.jpeg
 :END:
@@ -70,6 +73,7 @@ CLOSED: [2024-01-03 Wed 20:44]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2024-new-year-resolutions.zh-cn.md
 :EXPORT_DATE: <2024-01-01 Sun>
+:EXPORT_HUGO_TAGS: reflect
 :CUSTOM_ID: 2024-new-year-resolutions-zh
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/2023-end-of-year-summary-zh-cover.jpeg
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImagePreview /ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg
@@ -119,6 +123,7 @@ CLOSED: [2024-01-01 Mon 14:45]
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2023-end-of-year-summary.zh-cn.md
 :EXPORT_DATE: <2023-12-31 Sun>
+:EXPORT_HUGO_TAGS: reflect
 :CUSTOM_ID: weekly-summary-2023-12-24-zh
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImage /ox-hugo/2023-end-of-year-summary-zh-cover.jpeg
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER+: :featuredImagePreview /ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg
