@@ -1,0 +1,114 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>weekly - Tag - Chaos Talk</title><link>https://chaoruan.xyz/en/tags/weekly/</link><description>weekly - Tag - Chaos Talk</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Tue, 09 May 2023 10:45:00 +1000</lastBuildDate><atom:link href="https://chaoruan.xyz/en/tags/weekly/" rel="self" type="application/rss+xml"/><item><title>Weekly Summary 2023-05-01</title><link>https://chaoruan.xyz/en/posts/weekly-summary-2023-05-01/</link><pubDate>Tue, 09 May 2023 10:45:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/en/posts/weekly-summary-2023-05-01/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-05-01-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>The cover features the little princess urging us to go to sleep.</p>
+<h2 id="what-i-read">What I Read</h2>
+<h3 id="news-minimalist-only-significant-news"><a href="https://www.newsminimalist.com/" target="_blank" rel="noopener noreffer ">News Minimalist — Only significant news</a></h3>
+<p>I prefer keeping things simple and clean, and this minimalist news app does everything I need.</p>
+<h3 id="passkeys-what-they-are-and-how-to-use-them"><a href="https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/" target="_blank" rel="noopener noreffer ">Passkeys: What they are and how to use them</a></h3>
+<p>Google&rsquo;s Passkeys seem interesting. I&rsquo;m curious about when we&rsquo;ll see broader use cases that aren&rsquo;t limited to just a few companies. I also wonder about support for people with blurred fingerprints. I tried following the setup process from the provided link, but to be honest, the experience could be better.</p>
+<h3 id="googlers-angry-about-ceo-s-226m-pay-after-cuts-in-perks-and-12-000-layoffs"><a href="https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/" target="_blank" rel="noopener noreffer ">Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs</a></h3>
+<p>It&rsquo;s unlikely that a CEO would be deeply concerned about every employee. As employees, our main focus should be doing our jobs, getting paid, and moving forward.</p>
+<h3 id="erikw-vim-keybindings-everywhere-the-ultimate-list"><a href="https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list" target="_blank" rel="noopener noreffer ">erikw/vim-keybindings-everywhere-the-ultimate-list</a></h3>
+<p>Vim forever!</p>
+<h3 id="fast-dot-ai-mojo-may-be-the-biggest-programming-language-advance-in-decades"><a href="https://www.fast.ai/posts/2023-05-03-mojo-launch.html" target="_blank" rel="noopener noreffer ">fast.ai - Mojo may be the biggest programming language advance in decades</a></h3>
+<p>Mojo, it&rsquo;ll be interesting to see if it becomes the next trending programming language. It&rsquo;s amusing that the 🔥 emoji can be used as the file extension for Mojo.</p>
+<h2 id="what-i-watched">What I Watched</h2>
+<h3 id="chatgpt-prompt-engineering-for-developers"><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreffer ">ChatGPT Prompt Engineering for Developers</a></h3>
+<p>It&rsquo;s been a week since Andrew Ng&rsquo;s guide came out. I&rsquo;ve been meaning to take a look at it, but I keep making all sorts of excuses not to. I&rsquo;ll set a goal for myself, hoping to thoroughly review it next week.</p>
+<h3 id="guardians-of-the-galaxy-vol-dot-3--2023--imdb"><a href="https://www.imdb.com/title/tt6791350/" target="_blank" rel="noopener noreffer ">Guardians of the Galaxy Vol. 3 (2023) - IMDb</a></h3>
+<p>Last week, I was complaining about the lackluster fourth phase of the Marvel Cinematic Universe. But this Sunday, I saw a long-awaited great Marvel movie. The director&rsquo;s aesthetic taste is as impressive as ever, with excellent visuals and sound. If only every film in the fourth phase were of this caliber! This should be the last Guardians of the Galaxy movie, but there&rsquo;s no need for regrets. We must say goodbye to the past, move forward, and never look back.</p>
+<h2 id="what-i-did">What I Did</h2>
+<h3 id="this-guy-is-quite-lazy-he-didn-t-do-anything-this-week-dot">This guy is quite lazy; he didn&rsquo;t do anything this week.</h3>]]></description></item><item><title>Weekly Summary 2023-04-23</title><link>https://chaoruan.xyz/en/posts/weekly-summary-2023-04-23/</link><pubDate>Sun, 30 Apr 2023 10:22:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/en/posts/weekly-summary-2023-04-23/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-04-23-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>The cover features my newly custom Cthulhu-style keycaps and an aviator cable. Love it!</p>
+<h2 id="what-i-read">What I Read</h2>
+<h3 id="keyboard-tricks-from-a-macos-app-dev-alin-panaitiu"><a href="https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev" target="_blank" rel="noopener noreffer ">Keyboard tricks from a macOS app dev — Alin Panaitiu</a></h3>
+<p>This blog post was the main inspiration for me to begin setting up <a href="https://github.com/koekeishiya/yabai" target="_blank" rel="noopener noreffer ">yabai</a> and <a href="https://github.com/koekeishiya/skhd" target="_blank" rel="noopener noreffer ">skhd</a>, which have opened up a whole new world of productivity for me.</p>
+<h3 id="i-don-t-want-to-sign-up-for-your-newsletter--2018--hacker-news"><a href="https://news.ycombinator.com/item?id=35684807" target="_blank" rel="noopener noreffer ">I don’t want to sign up for your newsletter (2018) | Hacker News</a></h3>
+<p>I don&rsquo;t appreciate these newsletter signup pop-ups; what&rsquo;s the reason for me to want that?</p>
+<h2 id="what-i-watched">What I Watched</h2>
+<h3 id="succession-s1"><a href="https://www.imdb.com/title/tt7660850/episodes?season=1" target="_blank" rel="noopener noreffer ">Succession S1</a></h3>
+<p>I&rsquo;ve finished the first season, and it&rsquo;s indeed brilliant. When material needs reach their peak, the only thing that people genuinely care about and ponder is their spiritual needs.</p>
+<h3 id="ant-man-and-the-wasp-quantumania--2023"><a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a></h3>
+<p>The Marvel film is visually stunning but disappointing. The fourth phase of the Marvel universe doesn&rsquo;t offer much to see. Thankfully, I didn&rsquo;t waste money going to the cinema. However, how does <a href="https://www.imdb.com/name/nm0748620/?ref_=tt_cl_i_1" target="_blank" rel="noopener noreffer ">Paul Rudd</a> manage to not age at all?</p>
+<h3 id="i-played-tears-of-the-kingdom--spoiler-free-hands-on-impressions--youtube"><a href="https://www.youtube.com/watch?v=TESNhgSeTTw&amp;ab_channel=SkillUp" target="_blank" rel="noopener noreffer ">I played Tears of the Kingdom (spoiler-free hands-on impressions) - YouTube</a></h3>
+<p>I simply can not wait any more! I want to play it NOW!</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/TESNhgSeTTw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h2 id="what-i-did">What I Did</h2>
+<h3 id="yabai-and-skhd"><a href="https://github.com/koekeishiya/yabai" target="_blank" rel="noopener noreffer ">yabai</a> &amp; <a href="https://github.com/koekeishiya/skhd" target="_blank" rel="noopener noreffer ">skhd</a></h3>
+<p>I&rsquo;m surprised that I&rsquo;ve only just discovered Yabai, such a handy window management tool. I can&rsquo;t get enough of it since I started using it! It has resolved many of the pain points I faced previously. Moreover, it gives me the opportunity to make full use of Mac&rsquo;s multiple desktops. I spent an evening setting it up on both my work and personal MacBook Pros. After using it for a week, I know I can&rsquo;t live without it.</p>
+<h3 id="stow"><a href="https://www.gnu.org/software/stow/" target="_blank" rel="noopener noreffer ">Stow</a></h3>
+<p>My dotfiles management has always been a bit haphazard, but Yabai and SKHD made me realize that syncing dotfiles across multiple systems is becoming increasingly necessary. Previously, I used my own script for syncing, but this time I adopted Stow and moved my Emacs config over as well. I basically followed the setup provided by <a href="https://www.youtube.com/@SystemCrafters" target="_blank" rel="noopener noreffer ">System Crafters</a> on YouTube.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/90xMTKml9O0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="sonos-era-100"><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></h3>
+<p>I was very fortunate to buy the latest Sonos speaker, released just last month, at a 30% discount. It turned out that the discount code was due to an employee error, but Sonos generously honored the orders placed within that hour. I&rsquo;m delighted with my purchase; now my home theater system feels complete. I used this setup to watch  <a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a> and the experience was quite impressive. My setup now:</p>
+<ul>
+<li><a href="https://www.sonos.com/en-au/shop/arc" target="_blank" rel="noopener noreffer ">Arc</a></li>
+<li><a href="https://www.sonos.com/en-au/shop/sub" target="_blank" rel="noopener noreffer ">Sub</a></li>
+<li><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></li>
+</ul>]]></description></item><item><title>Weekly Summary 2023-04-16</title><link>https://chaoruan.xyz/en/posts/weekly-summary-2023-04-16/</link><pubDate>Sun, 23 Apr 2023 16:32:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/en/posts/weekly-summary-2023-04-16/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-04-16-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>The cover photo is of a coffee made by my wife. Over the past few years, her latte art skills have become quite exceptional.</p>
+<h2 id="what-i-read">What I Read</h2>
+<h3 id="by-ditching-search-samsung-may-make-google-get-its-act-together"><a href="https://www.sammobile.com/opinion/by-ditching-search-samsung-may-make-google-get-its-act-together/" target="_blank" rel="noopener noreffer ">By ditching Search, Samsung may make Google get its act together</a></h3>
+<p>It comes as no surprise that since the launch of the New Bing, Google hasn&rsquo;t developed any significant products to compete with Microsoft. I&rsquo;ve primarily been using DuckDuckGo for the past two years, but I still switch to Google if I feel like I&rsquo;m missing something. I believe this habit will become less frequent now that we have ChatGPT.</p>
+<h3 id="90-of-my-skills-are-now-worth-0"><a href="https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0" target="_blank" rel="noopener noreffer ">90% of My Skills Are Now Worth $0</a></h3>
+<p>At the end of the day, those who know how to utilize the tools effectively will be the ones who remain, while those who fear the tools will be left behind and forgotten.</p>
+<h3 id="facebook-and-instagram-owner-meta-is-on-its-next-round-of-layoffs"><a href="https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp" target="_blank" rel="noopener noreffer ">Facebook and Instagram owner Meta is on its next round of layoffs</a></h3>
+<p>Just last week, <a href="https://chaoruan.xyz/posts/weekly-summary-2023-04-09/" target="_blank" rel="noopener noreffer ">I was questioning Meta&rsquo;s future</a>, and now a new round of layoffs has begun. I can&rsquo;t imagine if I were at Meta right now – I&rsquo;d probably be one of the engineers facing a layoff for sure.</p>
+<h3 id="steam-unrecord"><a href="https://store.steampowered.com/app/2381520/Unrecord/" target="_blank" rel="noopener noreffer ">Steam - Unrecord</a></h3>
+<p>It&rsquo;s amazing to see that this game is almost ready for release. I can&rsquo;t wait to play it. It&rsquo;s not surprising that Unreal Engine 5 can already support such a realistic experience, but I&rsquo;m curious about what the system requirements will be like.</p>
+<h3 id="suno-ai-bark-text-prompted-generative-audio-model"><a href="https://github.com/suno-ai/bark" target="_blank" rel="noopener noreffer ">suno-ai/bark: 🔊 Text-prompted Generative Audio Model</a></h3>
+<p>The text-to-auto-generative models are truly impressive, as they can generate laughs, sighs, throat clearing, and gasps, making it incredibly realistic in English. I tried it in Chinese too, and although it&rsquo;s not ideal, I expect these models will improve soon. I&rsquo;d love to have this kind of audio model running in my home lab one day.</p>
+<h2 id="what-i-watched">What I Watched</h2>
+<h3 id="the-super-mario-bros-dot-movie--2023"><a href="https://www.imdb.com/title/tt6718170/" target="_blank" rel="noopener noreffer ">The Super Mario Bros. Movie (2023)</a></h3>
+<p>I watched this movie today. Initially, I didn&rsquo;t plan on watching it, but a few gamers&rsquo; reviews changed my mind, so I decided to check it out. I&rsquo;ll write a dedicated post about it later. tldr. I love it</p>
+<h2 id="what-i-did">What I Did</h2>
+<p>The palm trees in our yard have been growing incredibly fast in recent months, and it feels like they&rsquo;ve grown three meters taller in just one summer. Due to their location and the strong winds in Melbourne, they sway dangerously and seem ready to fall into our neighbor&rsquo;s yard at any moment. After discussing with my wife, we decided to hire professionals to cut down these trees. Although I don&rsquo;t want to cut down trees, we had to do it for safety reasons.
+</p>]]></description></item><item><title>Weekly Summary 2023-04-09</title><link>https://chaoruan.xyz/en/posts/weekly-summary-2023-04-09/</link><pubDate>Sun, 16 Apr 2023 15:10:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/en/posts/weekly-summary-2023-04-09/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-04-09-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>I&rsquo;ve decided to start documenting my weekly life by providing a brief summary of what I&rsquo;ve read, watched, and done in the past week.</p>
+<p><a href="https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-09" target="_blank" rel="noopener noreffer ">中文版</a></p>
+<h2 id="what-i-read">What I Read</h2>
+<h3 id="i-worked-at-google-for-10-days"><a href="https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/" target="_blank" rel="noopener noreffer ">I worked at Google for -10 days</a></h3>
+<p>This Blog post takes me back to when I landed my first job in the US in March 2020. Shortly after selling my house and moving all my possessions to the US, the COVID-19 pandemic struck. My wife and I found ourselves using Airbnb, and the mounting uncertainty left me concerned about the possibility of being laid off. Fun time!</p>
+<h3 id="replacing-my-best-friends-with-an-llm-trained-on-500-000-group-chat-messages"><a href="https://www.izzy.co/blogs/robo-boys.html" target="_blank" rel="noopener noreffer ">Replacing my best friends with an LLM trained on 500,000 group chat messages</a></h3>
+<p>Its like that episode of Black Mirror now - <a href="https://www.imdb.com/title/tt2290780/" target="_blank" rel="noopener noreffer ">Be Right Back</a></p>
+<h3 id="ask-hn-what-are-some-of-the-best-university-courses-available-online-for-free"><a href="https://news.ycombinator.com/item?id=35536042" target="_blank" rel="noopener noreffer ">Ask HN: What are some of the best university courses available online for free?</a></h3>
+<p>Perhaps one day, I&rsquo;ll go through the list here, find a class that interests me, and begin learning once more.</p>
+<h3 id="mass-layoffs-and-absentee-bosses-create-a-morale-crisis-at-meta"><a href="https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html" target="_blank" rel="noopener noreffer ">Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta</a></h3>
+<p>We&rsquo;re all aware that Meta isn&rsquo;t as great as it once was. With the unrealistic version of the metaverse and the ongoing layoffs, it seems that nobody knows what the future holds for Meta, at least for the time being.</p>
+<h3 id="everythingishacked-semaphore-a-full-body-keyboard-using-gestures-to-type-through-computer-vision"><a href="https://github.com/everythingishacked/Semaphore" target="_blank" rel="noopener noreffer ">everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision</a></h3>
+<p>I&rsquo;m pretty sure that if I use this for programming, I&rsquo;ll lose weight fairly quickly.</p>
+<h3 id="916-days-of-emacs"><a href="https://sqrtminusone.xyz/posts/2023-04-13-emacs/" target="_blank" rel="noopener noreffer ">916 days of Emacs</a></h3>
+<p>I always enjoy hearing about people&rsquo;s Emacs experiences, but this one is truly next level. I appreciate all the charts illustrating the time and data the author spent in different areas. As usual, if you want to spark a lot of replies on Hacker News, just mention Vim or Emacs!</p>
+<h3 id="do-you-actually-need-a-vector-database"><a href="https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/" target="_blank" rel="noopener noreffer ">Do you actually need a vector database?</a></h3>
+<p>Vector databases are quite popular nowadays, but whether you need one depends on your specific use case. It seems that having a vector database is essential if you plan to work with machine learning or large language models.</p>
+<h3 id="what-you-give-up-when-moving-into-engineering-management"><a href="https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/" target="_blank" rel="noopener noreffer ">What you give up when moving into engineering management</a></h3>
+<p>This prompts me to reflect on my true aspirations as an engineer. I&rsquo;m interested in the hybrid roles mentioned later in the post, perhaps as a tech lead. But I wonder how that would work in a remote position. I&rsquo;m not yet convinced that managing a team of engineers remotely is entirely feasible.</p>
+<h3 id="don-t-start-a-business-until-people-are-asking-you-to"><a href="https://sive.rs/asking" target="_blank" rel="noopener noreffer ">Don’t start a business until people are asking you to</a></h3>
+<p>It&rsquo;s a one-minute read, but I genuinely appreciate the points the author makes here.</p>
+<blockquote>
+<p>Don’t announce anything. Don’t choose a name. Don’t make a website or an app. Don’t build a system. You need to be free to completely change or ditch your idea.
+Then you get your first paying customer. Provide a one-on-one personal service. Then you get another paying customer. Prove a real demand.</p>
+</blockquote>
+<h2 id="what-i-watched">What I Watched</h2>
+<h3 id="3k-month-passive-income-full-strategy-for-shutterstock"><a href="https://www.youtube.com/watch?v=VpnXyal5HJg" target="_blank" rel="noopener noreffer ">$3K/month PASSIVE INCOME—full strategy for Shutterstock</a></h3>
+<p>I&rsquo;m eager to start generating passive income, and a YouTube video introduced me to the concept of stock video creation. Although I&rsquo;ve never tried it before, it might be a fun endeavor to explore.</p>
+<blockquote>
+<p>Stock footage, also known as stock video or B-roll, is pre-filmed footage that can be purchased and used in a variety of projects and films. Stock footage can be licensed and saves filmmakers the time and money of shooting original material.</p>
+</blockquote>
+<p><a href="https://marketing.istockphoto.com/blog/complete-guide-to-stock-video/" target="_blank" rel="noopener noreffer ">Stock Video Guide - What is Stock Footage and How to Use It | iStock</a></p>
+<h3 id="the-legend-of-zelda-tears-of-the-kingdom-official-trailer"><a href="https://www.youtube.com/watch?v=uHGShqcAHlQ&amp;t=2s" target="_blank" rel="noopener noreffer ">The Legend of Zelda: Tears of the Kingdom – Official Trailer</a></h3>
+<p>I can&rsquo;t wait any longer, and I&rsquo;m pretty sure I&rsquo;ll take a day off on the launch day.</p>
+<h2 id="what-i-did">What I Did</h2>
+<h3 id="keychron-q2-customizable-mechanical-keyboard"><a href="https://www.keychron.com/pages/keychron-q2-customizable-mechanical-keyboard" target="_blank" rel="noopener noreffer ">Keychron Q2 Customizable Mechanical Keyboard</a></h3>
+<p>I purchased this new keyboard as upgrade and am thoroughly enjoying typing each individual character.</p>]]></description></item></channel></rss>

@@ -1,186 +1,215 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>All Posts - Chaos Talk</title><link>https://chaoruan.xyz/posts/</link><description>All Posts | Chaos Talk</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Tue, 09 May 2023 10:45:00 +1000</lastBuildDate><atom:link href="https://chaoruan.xyz/posts/" rel="self" type="application/rss+xml"/><item><title>Weekly Summary 2023-05-01</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-05-01/</link><pubDate>Tue, 09 May 2023 10:45:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-05-01/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/ox-hugo/weekly-summary-2023-05-01-cover.jpeg" referrerpolicy="no-referrer">
-            </div><p>The cover features the little princess urging us to go to sleep.</p>
-<h2 id="what-i-read">What I Read</h2>
-<h3 id="news-minimalist-only-significant-news"><a href="https://www.newsminimalist.com/" target="_blank" rel="noopener noreffer ">News Minimalist — Only significant news</a></h3>
-<p>I prefer keeping things simple and clean, and this minimalist news app does everything I need.</p>
-<h3 id="passkeys-what-they-are-and-how-to-use-them"><a href="https://blog.google/technology/safety-security/the-beginning-of-the-end-of-the-password/" target="_blank" rel="noopener noreffer ">Passkeys: What they are and how to use them</a></h3>
-<p>Google&rsquo;s Passkeys seem interesting. I&rsquo;m curious about when we&rsquo;ll see broader use cases that aren&rsquo;t limited to just a few companies. I also wonder about support for people with blurred fingerprints. I tried following the setup process from the provided link, but to be honest, the experience could be better.</p>
-<h3 id="googlers-angry-about-ceo-s-226m-pay-after-cuts-in-perks-and-12-000-layoffs"><a href="https://arstechnica.com/tech-policy/2023/05/googlers-angry-about-ceos-226m-pay-after-cuts-in-perks-and-12000-layoffs/" target="_blank" rel="noopener noreffer ">Googlers angry about CEO’s $226M pay after cuts in perks and 12,000 layoffs</a></h3>
-<p>It&rsquo;s unlikely that a CEO would be deeply concerned about every employee. As employees, our main focus should be doing our jobs, getting paid, and moving forward.</p>
-<h3 id="erikw-vim-keybindings-everywhere-the-ultimate-list"><a href="https://github.com/erikw/vim-keybindings-everywhere-the-ultimate-list" target="_blank" rel="noopener noreffer ">erikw/vim-keybindings-everywhere-the-ultimate-list</a></h3>
-<p>Vim forever!</p>
-<h3 id="fast-dot-ai-mojo-may-be-the-biggest-programming-language-advance-in-decades"><a href="https://www.fast.ai/posts/2023-05-03-mojo-launch.html" target="_blank" rel="noopener noreffer ">fast.ai - Mojo may be the biggest programming language advance in decades</a></h3>
-<p>Mojo, it&rsquo;ll be interesting to see if it becomes the next trending programming language. It&rsquo;s amusing that the 🔥 emoji can be used as the file extension for Mojo.</p>
-<h2 id="what-i-watched">What I Watched</h2>
-<h3 id="chatgpt-prompt-engineering-for-developers"><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreffer ">ChatGPT Prompt Engineering for Developers</a></h3>
-<p>It&rsquo;s been a week since Andrew Ng&rsquo;s guide came out. I&rsquo;ve been meaning to take a look at it, but I keep making all sorts of excuses not to. I&rsquo;ll set a goal for myself, hoping to thoroughly review it next week.</p>
-<h3 id="guardians-of-the-galaxy-vol-dot-3--2023--imdb"><a href="https://www.imdb.com/title/tt6791350/" target="_blank" rel="noopener noreffer ">Guardians of the Galaxy Vol. 3 (2023) - IMDb</a></h3>
-<p>Last week, I was complaining about the lackluster fourth phase of the Marvel Cinematic Universe. But this Sunday, I saw a long-awaited great Marvel movie. The director&rsquo;s aesthetic taste is as impressive as ever, with excellent visuals and sound. If only every film in the fourth phase were of this caliber! This should be the last Guardians of the Galaxy movie, but there&rsquo;s no need for regrets. We must say goodbye to the past, move forward, and never look back.</p>
-<h2 id="what-i-did">What I Did</h2>
-<h3 id="this-guy-is-quite-lazy-he-didn-t-do-anything-this-week-dot">This guy is quite lazy; he didn&rsquo;t do anything this week.</h3>]]></description></item><item><title>Weekly Summary 2023-04-23</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-23/</link><pubDate>Sun, 30 Apr 2023 10:22:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-23/</guid><description><![CDATA[<div class="featured-image">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 炒碗软饭</title><link>https://chaoruan.xyz/posts/</link><description>所有文章 | 炒碗软饭</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Thu, 25 Jan 2024 15:48:00 +1100</lastBuildDate><atom:link href="https://chaoruan.xyz/posts/" rel="self" type="application/rss+xml"/><item><title>海错图笔记 读后感</title><link>https://chaoruan.xyz/posts/note-for-hai-cuo-tu-note/</link><pubDate>Thu, 25 Jan 2024 15:48:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/note-for-hai-cuo-tu-note/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/note-for-hai-cuo-tu-note-zh.jpeg" referrerpolicy="no-referrer">
+            </div><p>今年读完的第一套书：<a href="https://book.douban.com/subject/26905274/" target="_blank" rel="noopener noreffer ">「海错图笔记」</a></p>
+<p>这套书太太很早就买了，从中国运到澳洲后就一直放在书架上没看。买这本书的原因也是因为很喜欢<a href="https://baike.baidu.com/item/%E5%BC%A0%E8%BE%B0%E4%BA%AE" target="_blank" rel="noopener noreffer ">张辰亮</a>，他在B站上的<a href="https://space.bilibili.com/14804670/channel/collectiondetail?sid=730734" target="_blank" rel="noopener noreffer ">「网络热传生物鉴定」系列</a>是我和太太最喜欢的视频系列。成为粉丝后也在他的自吹自夸下买了这套。「海错图笔记」总共有四本，我们买的时候第四册，也就是完结册还没出，所以家里就只有这三本。</p>
+<p>拿起第一册的时候问了句太太这是什么样的书，太太说：”画本，估计给小孩子看的“，我半信半疑，拿着翻了几页，就发现别有洞天。这套书的结构其实很简单：<a href="https://baike.baidu.com/item/%E3%80%8A%E6%B5%B7%E9%94%99%E5%9B%BE%E3%80%8B/20217084?fromModule=lemma_inlink" target="_blank" rel="noopener noreffer ">「海错图」</a>是清代画家兼生物爱好者聂璜绘制一本博物书，主要记录了他所见或听说的海洋生物，每个生物他都画了下来。而「海错图笔记」就是张辰亮用现代科学的方式勘误「海错图」中的各个生物，考查其来源，解读每个生物背后的故事。</p>
+<p>从第一篇笔记开始我就读的爱不释手，感叹这样的书放在家里这么久竟然没有看过。因为都是睡前读物，很长的一段时间，阅读「海错图笔记」已经成了我一天中最期盼的时光。虽然这是科普读物，但是作为科普一哥的张辰亮写的却十分通俗易懂，每种生物的渊源，历史都写的妙趣横生。有的生物聂璜画的并不清楚，或者只是传说，但是张辰亮还是会认真分析，探究因果，有时候也会自己分析一翻，但是作为科普工作者，他又十分负责，每次自己的猜想都会再三提醒读者，至少让我读起来觉得更加信服。张辰亮在书里总是各种吐槽聂璜，但是我总能隐隐感到他也是非常喜欢甚至是佩服生活在清代的聂璜的。就像他总是抱怨科普工作的艰辛，但是他总是孜孜不倦的在做着努力，佩服。</p>
+<p>一口气读完这三本海错图笔记，感想很多，尤其看到六七十年代人们环保观念不足，可持续发展观念的缺失，很多珍贵（也美味的）的海洋生物几乎消失甚至灭绝，真的非常心痛。</p>
+<p>不管怎样，这真的是套好书，已经让太太下单了第四套，等下次海运的时候一起送来。</p>]]></description></item><item><title>2023 年终总结</title><link>https://chaoruan.xyz/posts/2023-end-of-year-summary/</link><pubDate>Mon, 01 Jan 2024 14:45:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/2023-end-of-year-summary/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/2023-end-of-year-summary-zh-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>2023年结束了，在这一年的最后一天，写下这一年的简单总结吧。</p>
+<p>突然要写些总结还挺难的，还是从俗套的各个方面来写下吧。</p>
+<h2 id="工作">工作</h2>
+<p>其实给资本家打工的事情并不想多写些什么，就聊聊工作对我的感觉吧。今年比往年更累，也相对更忙一些，因为工作，我忽略了很多东西，真的希望明年会更好一些。</p>
+<p>今年最大的变化也许就是ChatGPT的横空出世，AI元年，工作的方式变化了很多，但也带来了更多的挑战，并没有觉得工作轻松了多少。从年初的硅谷公司大裁员，到年内国内经济的通缩，不少程序员失去了工作，35岁被优化的故事听了不少，我自己虽然还没有到那一步，但经常会让自己思考未来到底该做什么，还是继续写代码，做tech lead？我自己也没有很好的答案。</p>
+<p>想给自己定下方向或者目标，但觉得自己还是处于迷茫期。再想想吧。</p>
+<h2 id="生活">生活</h2>
+<p>今年的生活还算开心，虽然忙，但和太太一起生活，即使忙碌也是开心的，可惜我和她都有些忙，今年一起相处的时间其实少了很多，很多工作日忙完了到家也就待上一两个小时。希望明年可以有更多的时间在一起，这个愿望其实也算是实现了。</p>
+<p>日常是一种生活的开心，除了吃了很多好吃的餐厅，也做了不少有意思的事情：去看了人生的第一场演唱会；玩到了心念的塞尔达传说，王国之泪。享受了阔别多年的巴厘岛酒店度假；和张震岳“亲密”合影；和好朋友相聚黄金海岸。</p>
+<p>时隔四年，终于回国了，虽然这次回国只待了不到两周，每天很忙，给自己安排了各种活动，但也算是忙里偷闲做了不少自己思念和向往的事情：</p>
+<ul>
+<li>赶上了夏天的尾巴，和老婆一起坐在街边撸串</li>
+<li>走过从小学到初中再到高中的街道</li>
+<li>还拔掉了一直折磨自己的智齿</li>
+</ul>
+<h2 id="健康">健康</h2>
+<p>相比还算好的工作和不错的生活，我觉得在健康这方面我做得不够好。工作忙成了我不锻炼的借口，也没有很好地控制饮食，体重一度达到了最高峰，同时我也生了两次不大不小的病。感觉自己忘记了健康的重要性。这也让我想到了，我需要在新的一年为自己制定一个更有意义的2024计划。</p>
+<h2 id="后记">后记</h2>
+<p>从2019年到现在，疫情似乎给时间加了速，时间匆匆流逝。往年我不会去写年终总结和新年计划，但今年开始了这个习惯，希望记录可以帮助我更好地回忆，也能让我更好地前进。</p>]]></description></item><item><title>炒饭周摘 2023-04-23</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-23/</link><pubDate>Sun, 30 Apr 2023 10:22:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-23/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-23-cover.jpeg" referrerpolicy="no-referrer">
-            </div><p>The cover features my newly custom Cthulhu-style keycaps and an aviator cable. Love it!</p>
-<h2 id="what-i-read">What I Read</h2>
-<h3 id="keyboard-tricks-from-a-macos-app-dev-alin-panaitiu"><a href="https://notes.alinpanaitiu.com/Keyboard%20tricks%20from%20a%20macOS%20app%20dev" target="_blank" rel="noopener noreffer ">Keyboard tricks from a macOS app dev — Alin Panaitiu</a></h3>
-<p>This blog post was the main inspiration for me to begin setting up <a href="https://github.com/koekeishiya/yabai" target="_blank" rel="noopener noreffer ">yabai</a> and <a href="https://github.com/koekeishiya/skhd" target="_blank" rel="noopener noreffer ">skhd</a>, which have opened up a whole new world of productivity for me.</p>
-<h3 id="i-don-t-want-to-sign-up-for-your-newsletter--2018--hacker-news"><a href="https://news.ycombinator.com/item?id=35684807" target="_blank" rel="noopener noreffer ">I don’t want to sign up for your newsletter (2018) | Hacker News</a></h3>
-<p>I don&rsquo;t appreciate these newsletter signup pop-ups; what&rsquo;s the reason for me to want that?</p>
-<h2 id="what-i-watched">What I Watched</h2>
+            </div><p>封面是新入手的定制克苏鲁风格的键帽和航插数据线， 好喜欢</p>
+<h2 id="读了什么">读了什么</h2>
+<h3 id="大医-日出篇"><a href="https://book.douban.com/subject/36155568/" target="_blank" rel="noopener noreffer ">大医·日出篇</a></h3>
+<p>开始看马亲王的【大医】 第二部， 还是蛮喜欢第一部的， 拿到第二部后现在才抽出时间开始看，希望这周能看完。</p>
+<h3 id="一次做近视屈光手术-icl-晶体植入-的流水账-少数派"><a href="https://sspai.com/post/79450" target="_blank" rel="noopener noreffer ">一次做近视屈光手术（ICL 晶体植入）的流水账 - 少数派</a></h3>
+<p>我有时候一直在想， 自己要不要去做手术治好跟随我20多年的近视眼， 可一想到要在眼睛上动刀子，心理的恐惧就疯狂袭来。 想起疫情前有看到似乎有种新的视力校正手术，无痛五分钟做完， 不知道什么时候会看到。</p>
+<h2 id="看了什么">看了什么</h2>
 <h3 id="succession-s1"><a href="https://www.imdb.com/title/tt7660850/episodes?season=1" target="_blank" rel="noopener noreffer ">Succession S1</a></h3>
-<p>I&rsquo;ve finished the first season, and it&rsquo;s indeed brilliant. When material needs reach their peak, the only thing that people genuinely care about and ponder is their spiritual needs.</p>
+<p>第一季看完了， 确实精彩， 当物质需求已经到达上限后，人最在乎的思惑只有精神需求。</p>
 <h3 id="ant-man-and-the-wasp-quantumania--2023"><a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a></h3>
-<p>The Marvel film is visually stunning but disappointing. The fourth phase of the Marvel universe doesn&rsquo;t offer much to see. Thankfully, I didn&rsquo;t waste money going to the cinema. However, how does <a href="https://www.imdb.com/name/nm0748620/?ref_=tt_cl_i_1" target="_blank" rel="noopener noreffer ">Paul Rudd</a> manage to not age at all?</p>
+<p>效果很华丽的漫威烂片， 第四阶段的漫威宇宙真的没什么好看的， 幸亏没有跑到电影院花冤枉钱。 不过 <a href="https://www.imdb.com/name/nm0748620/?ref_=tt_cl_i_1" target="_blank" rel="noopener noreffer ">Paul Rudd</a> 是怎么做到一点都不老的？</p>
 <h3 id="i-played-tears-of-the-kingdom--spoiler-free-hands-on-impressions--youtube"><a href="https://www.youtube.com/watch?v=TESNhgSeTTw&amp;ab_channel=SkillUp" target="_blank" rel="noopener noreffer ">I played Tears of the Kingdom (spoiler-free hands-on impressions) - YouTube</a></h3>
-<p>I simply can not wait any more! I want to play it NOW!</p>
+<p>真实等不及， 看得心痒痒， 真的一刻都不想等了</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/TESNhgSeTTw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
-<h2 id="what-i-did">What I Did</h2>
+<h2 id="做了什么">做了什么</h2>
 <h3 id="yabai-and-skhd"><a href="https://github.com/koekeishiya/yabai" target="_blank" rel="noopener noreffer ">yabai</a> &amp; <a href="https://github.com/koekeishiya/skhd" target="_blank" rel="noopener noreffer ">skhd</a></h3>
-<p>I&rsquo;m surprised that I&rsquo;ve only just discovered Yabai, such a handy window management tool. I can&rsquo;t get enough of it since I started using it! It has resolved many of the pain points I faced previously. Moreover, it gives me the opportunity to make full use of Mac&rsquo;s multiple desktops. I spent an evening setting it up on both my work and personal MacBook Pros. After using it for a week, I know I can&rsquo;t live without it.</p>
+<p>我惊讶自己现在才发现 yabai 这么好用的窗口管理工具， 用了之后真的是爱不释手！ 解决了很多我以前的使用痛点。 而且也给我机会好好使用 Mac 的多桌面。 花了一个晚上把自己的工作和个人 MBP 都配置了， 用了一周后，我就知道我已经离不开它了</p>
 <h3 id="stow"><a href="https://www.gnu.org/software/stow/" target="_blank" rel="noopener noreffer ">Stow</a></h3>
-<p>My dotfiles management has always been a bit haphazard, but Yabai and SKHD made me realize that syncing dotfiles across multiple systems is becoming increasingly necessary. Previously, I used my own script for syncing, but this time I adopted Stow and moved my Emacs config over as well. I basically followed the setup provided by <a href="https://www.youtube.com/@SystemCrafters" target="_blank" rel="noopener noreffer ">System Crafters</a> on YouTube.</p>
+<p>我的 dotfiles 管理一直都有点随心所欲， 但是 yabai 和 skhd 让我意识到 多个系统的 dotfiles 的同步已经迫在眉睫， 我之前是自己写的 script 来同步的， 这次用上了 Stow， 同时把 emacs 的 config 也搬了过去。
+基本照抄了 <a href="https://www.youtube.com/@SystemCrafters" target="_blank" rel="noopener noreffer ">System Crafters</a> 的设置</p>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe src="https://www.youtube.com/embed/90xMTKml9O0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
 <h3 id="sonos-era-100"><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></h3>
-<p>I was very fortunate to buy the latest Sonos speaker, released just last month, at a 30% discount. It turned out that the discount code was due to an employee error, but Sonos generously honored the orders placed within that hour. I&rsquo;m delighted with my purchase; now my home theater system feels complete. I used this setup to watch  <a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a> and the experience was quite impressive. My setup now:</p>
+<p>非常幸运的用七折的价钱买到了 Sonos 上个月才出的新的音响， 后来证实七折的打折码是员工失误造成， 但是对于在那一小时下单的交易， Sonos 还是很大方的发货了。 入手后真的很高兴， 家里的这一套家庭影像算是有了完全体, 用这一套看了 <a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a>， 效果还是很不错的</p>
 <ul>
 <li><a href="https://www.sonos.com/en-au/shop/arc" target="_blank" rel="noopener noreffer ">Arc</a></li>
 <li><a href="https://www.sonos.com/en-au/shop/sub" target="_blank" rel="noopener noreffer ">Sub</a></li>
 <li><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></li>
-</ul>]]></description></item><item><title>Weekly Summary 2023-04-16</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-16/</link><pubDate>Sun, 23 Apr 2023 16:32:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-16/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/ox-hugo/weekly-summary-2023-04-16-cover.jpeg" referrerpolicy="no-referrer">
-            </div><p>The cover photo is of a coffee made by my wife. Over the past few years, her latte art skills have become quite exceptional.</p>
-<h2 id="what-i-read">What I Read</h2>
-<h3 id="by-ditching-search-samsung-may-make-google-get-its-act-together"><a href="https://www.sammobile.com/opinion/by-ditching-search-samsung-may-make-google-get-its-act-together/" target="_blank" rel="noopener noreffer ">By ditching Search, Samsung may make Google get its act together</a></h3>
-<p>It comes as no surprise that since the launch of the New Bing, Google hasn&rsquo;t developed any significant products to compete with Microsoft. I&rsquo;ve primarily been using DuckDuckGo for the past two years, but I still switch to Google if I feel like I&rsquo;m missing something. I believe this habit will become less frequent now that we have ChatGPT.</p>
-<h3 id="90-of-my-skills-are-now-worth-0"><a href="https://tidyfirst.substack.com/p/90-of-my-skills-are-now-worth-0" target="_blank" rel="noopener noreffer ">90% of My Skills Are Now Worth $0</a></h3>
-<p>At the end of the day, those who know how to utilize the tools effectively will be the ones who remain, while those who fear the tools will be left behind and forgotten.</p>
-<h3 id="facebook-and-instagram-owner-meta-is-on-its-next-round-of-layoffs"><a href="https://www.vox.com/technology/2023/4/18/23688627/meta-layoffs-mark-zuckerberg-facebook-instagram-whatsapp" target="_blank" rel="noopener noreffer ">Facebook and Instagram owner Meta is on its next round of layoffs</a></h3>
-<p>Just last week, <a href="https://chaoruan.xyz/posts/weekly-summary-2023-04-09/" target="_blank" rel="noopener noreffer ">I was questioning Meta&rsquo;s future</a>, and now a new round of layoffs has begun. I can&rsquo;t imagine if I were at Meta right now – I&rsquo;d probably be one of the engineers facing a layoff for sure.</p>
-<h3 id="steam-unrecord"><a href="https://store.steampowered.com/app/2381520/Unrecord/" target="_blank" rel="noopener noreffer ">Steam - Unrecord</a></h3>
-<p>It&rsquo;s amazing to see that this game is almost ready for release. I can&rsquo;t wait to play it. It&rsquo;s not surprising that Unreal Engine 5 can already support such a realistic experience, but I&rsquo;m curious about what the system requirements will be like.</p>
-<h3 id="suno-ai-bark-text-prompted-generative-audio-model"><a href="https://github.com/suno-ai/bark" target="_blank" rel="noopener noreffer ">suno-ai/bark: 🔊 Text-prompted Generative Audio Model</a></h3>
-<p>The text-to-auto-generative models are truly impressive, as they can generate laughs, sighs, throat clearing, and gasps, making it incredibly realistic in English. I tried it in Chinese too, and although it&rsquo;s not ideal, I expect these models will improve soon. I&rsquo;d love to have this kind of audio model running in my home lab one day.</p>
-<h2 id="what-i-watched">What I Watched</h2>
-<h3 id="the-super-mario-bros-dot-movie--2023"><a href="https://www.imdb.com/title/tt6718170/" target="_blank" rel="noopener noreffer ">The Super Mario Bros. Movie (2023)</a></h3>
-<p>I watched this movie today. Initially, I didn&rsquo;t plan on watching it, but a few gamers&rsquo; reviews changed my mind, so I decided to check it out. I&rsquo;ll write a dedicated post about it later. tldr. I love it</p>
-<h2 id="what-i-did">What I Did</h2>
-<p>The palm trees in our yard have been growing incredibly fast in recent months, and it feels like they&rsquo;ve grown three meters taller in just one summer. Due to their location and the strong winds in Melbourne, they sway dangerously and seem ready to fall into our neighbor&rsquo;s yard at any moment. After discussing with my wife, we decided to hire professionals to cut down these trees. Although I don&rsquo;t want to cut down trees, we had to do it for safety reasons.
-</p>]]></description></item><item><title>Weekly Summary 2023-04-09</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-09/</link><pubDate>Sun, 16 Apr 2023 15:10:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-09/</guid><description><![CDATA[<div class="featured-image">
+</ul>]]></description></item><item><title>回归本心</title><link>https://chaoruan.xyz/posts/return-to-normal/</link><pubDate>Wed, 10 Jan 2024 16:21:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/return-to-normal/</guid><description><![CDATA[<p>在完成了<a href="https://chaoruan.xyz/zh-cn/posts/2023-end-of-year-summary/" target="_blank" rel="noopener noreffer ">2023年终总结</a>之后，我便不断地回顾我的2023年。我意识到，遗憾确实不少，对于那些未能做到或可以做得更好的事情，我有了更深刻的认识。我渴望在新的一年里生活得更充实、更高效，也更快乐。因此，我对改变自己在新一年的各个方面充满了动力。</p>
+<p>。我为这个计划设定了季度目标和年终目标，并为了更好地完成它们，我还设定了相应的奖励。我希望，在回顾2024年时，我的感受会比现在好一些。</p>
+<p>除了新年计划，我还希望能逐渐远离短视频和综艺节目。回想2023年，我在抖音和各种视频网站上的综艺节目中花费了大量时间。当时虽然沉迷其中感到快乐，但现在回想起来，却觉得毫无意义。我每天在抖音上花费两三个小时（来自iOS的Screen Time数据），为何不将这些时间用于更有意义的事情呢？</p>
+<p>我利用iOS的App Limit功能，为抖音和Twitter都设置了时间限制。我尝试过直接删除这些应用，但我意识到自己并不能与世隔绝。利用工具，回归本心显得更为重要。我也决定限制自己观看综艺节目的时间，只在周末观看，将休闲娱乐的时间重新投入到阅读中。</p>
+<p>说起来有些惭愧，这几年我读的书很少。并非是没有书可读，事实上我和太太这几年买了不少书，很多都是从淘宝海运到澳洲的。我们买书时总是兴致勃勃，但书一到手就被搁置在书架上。我希望自己能够重新投入到阅读中，尤其是读完这几年购买的书籍。看了<a href="https://www.youtube.com/watch?v=0iaU9VZXKUQ" target="_blank" rel="noopener noreffer ">10 Tips to Actually Read 100 Books in 2024</a> 之后最让我受益的是：不必总觉得非得把每本书读完不可。阅读应该是一种享受，而非像任务一样去完成每一本书。多读书是好事，能读完自然更佳，如果读完后还能写下自己的书评，那就更加完美了。</p>
+<p>接下来谈谈游戏。作为一个游戏玩家，我从不认为在游戏上花费的时间是浪费。相反，这是让我最能放松的事情。我期望自己能玩自己喜欢的游戏，并在完成后写下感想，这也是对每个游戏最大的尊重。</p>
+<p>写了这么多，不仅是为了打发自己突然不看短视频后的空虚，更多的是为自己立下flag，期盼新的变化，让我在回顾2024年时没有遗憾。</p>
+]]></description></item><item><title>炒饭周摘 2023-05-01</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-05-01/</link><pubDate>Tue, 09 May 2023 10:45:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-05-01/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-05-01-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>封面是想催我们睡觉的小公主</p>
+<h2 id="读了什么">读了什么</h2>
+<h3 id="陌生之城的夜游"><a href="https://hsingko.pages.dev/post/2023/05/07/night-walk-in-a-foreign-city/" target="_blank" rel="noopener noreffer ">陌生之城的夜游</a></h3>
+<p>很喜欢这种简简单单的随笔， 文笔轻松带着淡淡的忧伤，这种阅读的感觉真的很舒服。</p>
+<h2 id="看了什么">看了什么</h2>
+<h3 id="chatgpt-prompt-engineering-for-developers"><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreffer ">ChatGPT Prompt Engineering for Developers</a></h3>
+<p>吴教授这份学习指南出来一周了吧，一直准备想看看但是却总因为各种各样的借口没有去看。给自己立个flag，希望下周可以好好看看</p>
+<h3 id="游戏为什么会偷跑-厂商就没有办法吗-偷跑背后的原因"><a href="https://www.youtube.com/watch?v=3pXFGVGTo4g" target="_blank" rel="noopener noreffer ">游戏为什么会偷跑？厂商就没有办法吗？偷跑背后的原因</a></h3>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/3pXFGVGTo4g" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>国王之泪的偷跑我是有担心的，但是没想到竟然提前十多天就被偷跑，而且更重要的是直接可以用模拟器跑起来，门坎大大降低，传播广，危害大， 我理解那些想去玩盗版的心情，但是我不能理解那些玩了盗版跑来四处炫耀剧透的人渣。</p>
+<h3 id="漫长的季节"><a href="https://movie.douban.com/subject/35588177/" target="_blank" rel="noopener noreffer ">漫长的季节</a></h3>
+<p>我并没有好好看辛爽导演的<a href="https://movie.douban.com/subject/33404425/" target="_blank" rel="noopener noreffer ">隐秘的角落</a>， 只知道非常好，太太看了之后赞不绝口，这周就果断追着看完了。 有些惊到了。 这部电视剧服道化到故事剧情， 都是近年少有的好剧，用喜剧讲悲剧，讲的这么真实，接地气， 才能真正打动每个看过的心灵。 虽然开头节奏慢，但是我和太太还是看得津津有味，全局也能看出为了过审的改编痕迹，但这些都不影响最后三集狂风骤雨的故事展现。我感叹现在还能看到这么好的中国电视剧。当浮一大白！</p>
+<h3 id="guardians-of-the-galaxy-vol-dot-3--2023--imdb"><a href="https://www.imdb.com/title/tt6791350/" target="_blank" rel="noopener noreffer ">Guardians of the Galaxy Vol. 3 (2023) - IMDb</a></h3>
+<p>我上周还在吐槽漫威宇宙第四阶段的疲软，这周日就看到了漫威久违的好电影。 滚导的审美一如既往的在线。声画都很棒，如果第四阶段每一部都有这样的水平该多好！ 这应该是最后一部银河护卫队了，不过也没有什么好遗憾的，都要和过去说再见，往前走，莫回头。</p>
+<h2 id="做了什么">做了什么</h2>
+<h3 id="这家伙很懒-这周什么也没做">这家伙很懒，这周什么也没做</h3>]]></description></item><item><title>炒饭周摘 2023-04-09</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-09/</link><pubDate>Sun, 16 Apr 2023 15:03:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-09/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-09-cover.jpeg" referrerpolicy="no-referrer">
-            </div><p>I&rsquo;ve decided to start documenting my weekly life by providing a brief summary of what I&rsquo;ve read, watched, and done in the past week.</p>
-<p><a href="https://chaoruan.xyz/zh-cn/posts/weekly-summary-2023-04-09" target="_blank" rel="noopener noreffer ">中文版</a></p>
-<h2 id="what-i-read">What I Read</h2>
-<h3 id="i-worked-at-google-for-10-days"><a href="https://andgein.ru/blog/all/20-i-worked-at-google-for-10-days/" target="_blank" rel="noopener noreffer ">I worked at Google for -10 days</a></h3>
-<p>This Blog post takes me back to when I landed my first job in the US in March 2020. Shortly after selling my house and moving all my possessions to the US, the COVID-19 pandemic struck. My wife and I found ourselves using Airbnb, and the mounting uncertainty left me concerned about the possibility of being laid off. Fun time!</p>
-<h3 id="replacing-my-best-friends-with-an-llm-trained-on-500-000-group-chat-messages"><a href="https://www.izzy.co/blogs/robo-boys.html" target="_blank" rel="noopener noreffer ">Replacing my best friends with an LLM trained on 500,000 group chat messages</a></h3>
-<p>Its like that episode of Black Mirror now - <a href="https://www.imdb.com/title/tt2290780/" target="_blank" rel="noopener noreffer ">Be Right Back</a></p>
-<h3 id="ask-hn-what-are-some-of-the-best-university-courses-available-online-for-free"><a href="https://news.ycombinator.com/item?id=35536042" target="_blank" rel="noopener noreffer ">Ask HN: What are some of the best university courses available online for free?</a></h3>
-<p>Perhaps one day, I&rsquo;ll go through the list here, find a class that interests me, and begin learning once more.</p>
-<h3 id="mass-layoffs-and-absentee-bosses-create-a-morale-crisis-at-meta"><a href="https://www.nytimes.com/2023/04/12/technology/meta-layoffs-employees-management.html" target="_blank" rel="noopener noreffer ">Mass Layoffs and Absentee Bosses Create a Morale Crisis at Meta</a></h3>
-<p>We&rsquo;re all aware that Meta isn&rsquo;t as great as it once was. With the unrealistic version of the metaverse and the ongoing layoffs, it seems that nobody knows what the future holds for Meta, at least for the time being.</p>
-<h3 id="everythingishacked-semaphore-a-full-body-keyboard-using-gestures-to-type-through-computer-vision"><a href="https://github.com/everythingishacked/Semaphore" target="_blank" rel="noopener noreffer ">everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision</a></h3>
-<p>I&rsquo;m pretty sure that if I use this for programming, I&rsquo;ll lose weight fairly quickly.</p>
-<h3 id="916-days-of-emacs"><a href="https://sqrtminusone.xyz/posts/2023-04-13-emacs/" target="_blank" rel="noopener noreffer ">916 days of Emacs</a></h3>
-<p>I always enjoy hearing about people&rsquo;s Emacs experiences, but this one is truly next level. I appreciate all the charts illustrating the time and data the author spent in different areas. As usual, if you want to spark a lot of replies on Hacker News, just mention Vim or Emacs!</p>
-<h3 id="do-you-actually-need-a-vector-database"><a href="https://www.ethanrosenthal.com/2023/04/10/nn-vs-ann/" target="_blank" rel="noopener noreffer ">Do you actually need a vector database?</a></h3>
-<p>Vector databases are quite popular nowadays, but whether you need one depends on your specific use case. It seems that having a vector database is essential if you plan to work with machine learning or large language models.</p>
-<h3 id="what-you-give-up-when-moving-into-engineering-management"><a href="https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/" target="_blank" rel="noopener noreffer ">What you give up when moving into engineering management</a></h3>
-<p>This prompts me to reflect on my true aspirations as an engineer. I&rsquo;m interested in the hybrid roles mentioned later in the post, perhaps as a tech lead. But I wonder how that would work in a remote position. I&rsquo;m not yet convinced that managing a team of engineers remotely is entirely feasible.</p>
-<h3 id="don-t-start-a-business-until-people-are-asking-you-to"><a href="https://sive.rs/asking" target="_blank" rel="noopener noreffer ">Don’t start a business until people are asking you to</a></h3>
-<p>It&rsquo;s a one-minute read, but I genuinely appreciate the points the author makes here.</p>
-<blockquote>
-<p>Don’t announce anything. Don’t choose a name. Don’t make a website or an app. Don’t build a system. You need to be free to completely change or ditch your idea.
-Then you get your first paying customer. Provide a one-on-one personal service. Then you get another paying customer. Prove a real demand.</p>
-</blockquote>
-<h2 id="what-i-watched">What I Watched</h2>
-<h3 id="3k-month-passive-income-full-strategy-for-shutterstock"><a href="https://www.youtube.com/watch?v=VpnXyal5HJg" target="_blank" rel="noopener noreffer ">$3K/month PASSIVE INCOME—full strategy for Shutterstock</a></h3>
-<p>I&rsquo;m eager to start generating passive income, and a YouTube video introduced me to the concept of stock video creation. Although I&rsquo;ve never tried it before, it might be a fun endeavor to explore.</p>
-<blockquote>
-<p>Stock footage, also known as stock video or B-roll, is pre-filmed footage that can be purchased and used in a variety of projects and films. Stock footage can be licensed and saves filmmakers the time and money of shooting original material.</p>
-</blockquote>
-<p><a href="https://marketing.istockphoto.com/blog/complete-guide-to-stock-video/" target="_blank" rel="noopener noreffer ">Stock Video Guide - What is Stock Footage and How to Use It | iStock</a></p>
-<h3 id="the-legend-of-zelda-tears-of-the-kingdom-official-trailer"><a href="https://www.youtube.com/watch?v=uHGShqcAHlQ&amp;t=2s" target="_blank" rel="noopener noreffer ">The Legend of Zelda: Tears of the Kingdom – Official Trailer</a></h3>
-<p>I can&rsquo;t wait any longer, and I&rsquo;m pretty sure I&rsquo;ll take a day off on the launch day.</p>
-<h2 id="what-i-did">What I Did</h2>
+            </div><p>从这周开始，我想记录一下每周读了什么文章或书，看了什么东西，做了什么事情。</p>
+<p><a href="https://chaoruan.xyz/posts/weekly-summary-2023-04-09" target="_blank" rel="noopener noreffer ">English Version</a></p>
+<h2 id="读了什么">读了什么</h2>
+<h3 id="warp-是时候改变你的命令行工具了"><a href="https://sspai.com/post/79262" target="_blank" rel="noopener noreffer ">Warp：是时候改变你的命令行工具了</a></h3>
+<p>很早就接触了Warp,但是竟然需要注册才能使用，直接劝退。</p>
+<h3 id="我的提升生產力-mac-設定與軟體"><a href="https://jason-memo.dev/posts/my-mac-setting/" target="_blank" rel="noopener noreffer ">我的提升生產力 Mac 設定與軟體</a></h3>
+<p>写的不错，有些工具我竟然没听过，我肯定会尝试一下</p>
+<ul>
+<li>NightOwl</li>
+<li>brew bundle</li>
+<li>GNU Stow</li>
+</ul>
+<h3 id="任天堂公布多种-塞尔达传说-王国之泪-周边"><a href="https://www.gcores.com/articles/164692" target="_blank" rel="noopener noreffer ">任天堂公布多种《塞尔达传说：王国之泪》周边</a></h3>
+<p>被种草了心之容器和大师剑的灯</p>
+<h2 id="看了什么">看了什么</h2>
+<h3 id="薩爾達傳說-王國之淚-第3部介紹影片-香港"><a href="https://www.youtube.com/watch?v=guKBgnzhijE" target="_blank" rel="noopener noreffer ">《薩爾達傳說 王國之淚》第3部介紹影片（香港）</a></h3>
+<p>实在是等不及，度日如年！</p>
+<h3 id="succession-celebration--tv-episode-2018"><a href="https://www.imdb.com/title/tt5791038/?ref_=ttep_ep1" target="_blank" rel="noopener noreffer ">&ldquo;Succession&rdquo; Celebration (TV Episode 2018)</a></h3>
+<p>开始看好评如潮的 Succession, 第一集有点慢热但很有意思，应该会继续追下去。</p>
+<h2 id="做了什么">做了什么</h2>
 <h3 id="keychron-q2-customizable-mechanical-keyboard"><a href="https://www.keychron.com/pages/keychron-q2-customizable-mechanical-keyboard" target="_blank" rel="noopener noreffer ">Keychron Q2 Customizable Mechanical Keyboard</a></h3>
-<p>I purchased this new keyboard as upgrade and am thoroughly enjoying typing each individual character.</p>]]></description></item><item><title>Notes for SwiftUI and Combine Programming (1)</title><link>https://chaoruan.xyz/posts/notes-for-swiftui-and-combine-programming/</link><pubDate>Fri, 08 Nov 2019 22:54:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/notes-for-swiftui-and-combine-programming/</guid><description><![CDATA[<p>I start reading <a href="https://onevcat.com/" target="_blank" rel="noopener noreffer ">onevcat</a> new book <a href="https://objccn.io/products/swift-ui" target="_blank" rel="noopener noreffer "><em>SwiftUI and Combine Programming</em></a> (a great
-book to learning SwiftUI if you can read Chinese). I decided to put all the
-interest parts and notes in here.</p>
-<h2 id="first-things-first">First things First</h2>
-<p>We always need to <code>import</code> the dependency first</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-swift" data-lang="swift"><span class="line"><span class="cl"><span class="kd">import</span> <span class="nc">SwiftUI</span>
-</span></span><span class="line"><span class="cl"><span class="kd">import</span> <span class="nc">Combine</span>
-</span></span></code></pre></div><h2 id="layout-all-the-views-in-the-body">Layout all the views in the body</h2>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-swift" data-lang="swift"><span class="line"><span class="cl"><span class="kd">var</span> <span class="nv">body</span><span class="p">:</span> <span class="n">some</span> <span class="n">View</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="c1">/// Layout your view here</span>
-</span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span></code></pre></div><p><code>some View</code> is a new concept introduced in Swift 5.1, which called <a href="https://docs.swift.org/swift-book/LanguageGuide/OpaqueTypes.html" target="_blank" rel="noopener noreffer ">Opaque
-Types</a>. Maybe someday I will write a more detail post for opaque types, in
-short, opaque types kind like <code>protocol</code> but more powerful.</p>
-<h2 id="enable-canvas-in-xcode">Enable Canvas in Xcode</h2>
-<p>You can preview the UI layouts using <em>Canvas</em>, which is convincing by
-<code>PreviewProvider</code>. As long as your swift file have a <code>struct</code> confirm it, you
-will able to work with SwiftUI and preview changes using <em>Canvas</em> support (Xcode 11+ and OS X
-10.15 + Only)</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-swift" data-lang="swift"><span class="line"><span class="cl"><span class="kd">struct</span> <span class="nc">MyView_Previews</span><span class="p">:</span> <span class="n">PreviewProvider</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="kd">static</span> <span class="kd">var</span> <span class="nv">previews</span><span class="p">:</span> <span class="n">some</span> <span class="n">View</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">        <span class="n">MyView</span><span class="p">()</span>
-</span></span><span class="line"><span class="cl">    <span class="p">}</span>
-</span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span></code></pre></div><h3 id="canvas-is-not-fast">Canvas is not fast</h3>
-<p><strong>At least not fast as I wish</strong>, we still need to build the whole project
-first, then it starts working as we hope. But sometimes I found I may
-easier break the UI, then Xcode start not happy anymore, showing this on canvas</p>
+<p>升级了吃饭的家伙，入手后好喜欢，打字的每个瞬间都像是在按摩！</p>]]></description></item><item><title>影评两则 - Tetris &amp; John Wick 4</title><link>https://chaoruan.xyz/posts/two-movie-reviews/</link><pubDate>Sat, 08 Apr 2023 11:31:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/two-movie-reviews/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/two-movie-reviews-cn-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>这个周末得闲，分别在家看了 Apple TV 新出的游戏传记电影 <a href="https://www.imdb.com/title/tt12758060/" target="_blank" rel="noopener noreffer ">Tetris</a>。 以及在影院看了 <a href="https://www.imdb.com/title/tt10366206/" target="_blank" rel="noopener noreffer ">John Wick: Chapter 4</a>， 都挺喜欢的， 写上几笔影评，记录一下。 剧透警告！</p>
+<h2 id="tetris-俄罗斯方块">Tetris - 俄罗斯方块</h2>
+<p>我完全是奔着任天堂和预告里提到的 Game Boy。 没想到出乎意料的好看。 虽然这部作品改编自真实故事，但我认为其中仍有很多戏剧性元素。当然，也少不了让人喜闻乐见的美国个人英雄主义，以及对苏联和俄罗斯人的冷嘲热讽。尽管电影中有很多好莱坞特有的俗套情节和转折，但我特别欣赏它干净利落、不拖泥带水却趣味横生的剪辑风格。尤其是时不时出现的 8-bit 游戏画面，让我这个游戏爱好者兴奋不已。</p>
+<p>虽然我没有玩过太多俄罗斯方块，但它确实是我最早接触的游戏之一。在国内长大，自然没有机会玩到正版掌机，但这并不影响我接触到各种99合一的小霸王游戏机和各种奇奇怪怪的掌机。只需装上几节五号电池，就能快乐地玩上好几天。尽管我在俄罗斯方块上的技艺一般，但也曾沉迷于此，花费了不少时间。然而，我从未仔细思考过这个游戏名字的来源。抛开艺术表现，可以想象到当年 Tetris 创作者的心路历程。最后吐槽一句，社会主义国家对版权的忽视大概是一种传统吧。</p>
+<h2 id="jonh-wick-chapter-4-疾速追杀-4">Jonh Wick: Chapter 4 - 疾速追杀 4</h2>
+<p>相较于偶然观看的 Tetris，我一直都是 John Wick 系列的狂热粉丝。早就期待着杀神再度降临。四部电影过去了，我却依然没有丝毫的视觉疲劳。简约的视觉效果、朴实无华的动作设计，一点点揭开的黑帮世界，以及时不时出现的奇特设定，一切都为了打斗场面的展现，让人看得痛快淋漓。就像在寒冷的冬天，饥饿了一天，终于品尝到一大碗拉面的满足；又仿佛在炎炎夏日，征服山巅，然后一口气喝完一杯冰爽可乐，痛快至极！</p>
+<p>特别喜欢电影后段的一场枪战戏码，通过俯视角长镜头捕捉到主角在一幢破旧公寓楼内，拿着喷火枪乱射的画面。起初我一直误以为这是在致敬<a href="https://store.steampowered.com/app/219150/Hotline_Miami/" target="_blank" rel="noopener noreffer ">迈阿密热线 Hotline Miami</a>，后来才在 Twitter 上发现，原来这场戏的灵感来源于<a href="https://store.steampowered.com/app/741510/The_Hong_Kong_Massacre/" target="_blank" rel="noopener noreffer ">杀戮香港 The Hong Kong Massacre</a>。实在是精彩无比。</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">John Wick 4’s god’s-eye gunfight has been called the “Hotline Miami” scene but I was surprised to see Chad name an even more obscure indie game as inspiration<br><br>HONG KONG MASSACRE is Hotline Miami x John Woo, and JW4 beautifully adopts its top-down look &amp; gargantuan muzzle flashes <a href="https://t.co/hGU3A47icE">pic.twitter.com/hGU3A47icE</a></p>&mdash; ChristianV (@GenreFilmAddict) <a href="https://twitter.com/GenreFilmAddict/status/1640058111086981122?ref_src=twsrc%5Etfw">March 26, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<p>John Wick 系列向来没有过多的剧情深度，这部作品当然也不例外。但这又有何妨呢？我期待的是一部充满爆米花式精彩动作场面的电影，而正是这样的作品让我感到满足。等到蓝光发行时，我肯定还会在家中重温几遍！</p>
+<p>至于结局， John 到底生死如何其实并不那么重要。我更期待系列的下一部作品。如果基努·里维斯能够继续出演，那就再完美不过了。</p>]]></description></item><item><title>食在日本</title><link>https://chaoruan.xyz/posts/feasting-in-japan/</link><pubDate>Sun, 19 Mar 2023 14:59:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/feasting-in-japan/</guid><description><![CDATA[<h2 id="️-准备就绪">🍽️ 准备就绪</h2>
+<p>出发去日本前几周，我与太太投入的时间并非全在规划行程，而更多是在 YouTube 上观看各种日本美食探店视频，琢磨着要去哪里品尝哪些佳肴。我们在 Google 地图上标记了众多餐馆和小吃摊，垂涎欲滴地期待着在日本大饱口福。</p>
+<p>一直以来，我都钟爱日本料理，从寿司到烧鸟、从拉面到寿喜烧，几乎每隔一段时间都会去品尝一次。而太太厨艺高超，不论是简单的拉面、亲子丼还是复杂的寿喜烧、关东煮，她都能做得十分地道，味道更是别具一格。除了自家烹饪，我们也是澳洲众多日料店的常客。想到即将在日本品尝更加地道的美食，内心无比兴奋和期待。</p>
+<h2 id="经典拉面">🍜 经典拉面</h2>
+<p>身为北方人，我对面食情有独钟，日本拉面则一直是我的心爱之物。终于，在京都祗园的 <a href="https://goo.gl/maps/GH5y5S7wvnsqu14q6" target="_blank" rel="noopener noreffer ">Ramen Miyako</a> 有幸品尝到了人生中第一碗正宗日本拉面。浓郁的豚骨汤头、美味多汁的叉烧肉、弹牙有嚼劲的面条，每一口都让人满足得心花怒放。在日本，人们喜欢将拉面与米饭和煎饺搭配享用。这家店也提供这样的搭配。在初冬的京都夜晚，一口面条，一口煎饺，吃得热气腾腾，鼻尖都忍不住泛出些许汗珠。喝完最后一口汤头，整个身心都感觉通透无比。</p>
+<p>当然，品尝一次拉面是远远不够的。在大阪清晨，我们和一群熬夜的年轻人挤在仅有四个座位的小店里，吃着热腾腾的牛肉拉面。在东京六本木的幽静小巷，我们幸运地在不用排队的情况下品尝到了<a href="https://goo.gl/maps/DQBg2PfFZwmb7uVc8" target="_blank" rel="noopener noreffer ">超人气的拉面</a>。 虽然我不会每顿都吃拉面，但现在我总是满怀期待地和下一碗拉面相遇。</p>
 <figure>
 </figure>
 
-<p>In this case, we have to <strong>resume</strong> the canvas which <strong>rebuilds</strong> the project again 😢</p>
-<h3 id="preview-with-multiple-devices">Preview with multiple devices</h3>
-<p>Canvas support preview with all devices, so we can work on different size
-of screens:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-swift" data-lang="swift"><span class="line"><span class="cl"><span class="kd">struct</span> <span class="nc">ContentView_Previews</span> <span class="p">:</span> <span class="n">PreviewProvider</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">    <span class="kd">static</span> <span class="kd">var</span> <span class="nv">previews</span><span class="p">:</span> <span class="n">some</span> <span class="n">View</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">        <span class="n">Group</span> <span class="p">{</span>
-</span></span><span class="line"><span class="cl">            <span class="n">ContentView</span><span class="p">()</span>
-</span></span><span class="line"><span class="cl">            <span class="n">ContentView</span><span class="p">().</span><span class="n">previewDevice</span><span class="p">(</span><span class="s">&#34;iPhone SE&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl">            <span class="n">ContentView</span><span class="p">().</span><span class="n">previewDevice</span><span class="p">(</span><span class="s">&#34;iPad Air 2&#34;</span><span class="p">)</span>
-</span></span><span class="line"><span class="cl">        <span class="p">}</span>
-</span></span><span class="line"><span class="cl">    <span class="p">}</span>
-</span></span><span class="line"><span class="cl"><span class="p">}</span>
-</span></span></code></pre></div><p>After some loading 😫, we should see something like this:</p>
+<hr>
+<h2 id="自在烧鸟">😋 自在烧鸟</h2>
+<p>曾在悉尼一家<a href="https://goo.gl/maps/yXHJkQAG9bCzk9x1A" target="_blank" rel="noopener noreffer ">日料店</a>品尝过令人难忘的烤鸡肉串，记忆犹新。因此，在赴日本前最期待的美食便是烧鸟了。首次品尝烧鸟是在银座的一家藏在地下餐厅 <a href="https://goo.gl/maps/Jfxv7MFbJCrMfwpq8" target="_blank" rel="noopener noreffer ">Torigin Honten</a>. 这家传统日式餐厅座无虚席，原以为会有烟雾缭绕，却意外地发现空气清新, 环境优雅。我们点了一份招牌烧鸟拼盘，包含各式日式烤串。烧鸟当然以鸡肉最为著名。烤鸡肉、烤肉丸以及我最爱的烤鸡皮，炭烤的香气与脂肪的美味完美融合，火候恰到好处，呈现出无与伦比的鲜嫩口感。搭配这家店特制的蘑菇炊饭，香气四溢。</p>
+<p>烧鸟实际上是日式烤串，以鸡肉为主。与中式烤肉不同，日式烤串通常每种只点一串，每串都有独特的口感，适合慢慢细细品味。</p>
+<p>几日后，在涩谷下班高峰期，我们跟随上班族们涌入了一家烟火气浓厚的烧鸟店 <a href="https://goo.gl/maps/MB1CrCbWoEZXzxhWA" target="_blank" rel="noopener noreffer ">Toritake</a>。 店内座位满员，点单时需要大声呼喊服务员。尽管这里的烧鸟味道稍逊于银座那家，但惊喜的是每串烤肉都提供酱烤和盐烧两种口味。更难得的是，店内气氛热闹，烟火气浓郁，品尝起来反而更加美味。</p>
+<p>回想起来，或许烧烤的魅力正是这种自由自在的气氛，在忙碌一天后带着悠哉悠哉的心情享受美味。</p>
 <figure>
-</figure>]]></description></item><item><title>Running Oh-My-Zsh inside Spacemacs</title><link>https://chaoruan.xyz/posts/running-oh-my-zsh-inside-spacemacs/</link><pubDate>Sat, 26 Oct 2019 10:58:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/running-oh-my-zsh-inside-spacemacs/</guid><description><![CDATA[<p>When I start using <a href="http://spacemacs.org/" target="_blank" rel="noopener noreffer ">Spacemacs</a>, I was hoping there is a way to using my own configured <a href="https://ohmyz.sh/" target="_blank" rel="noopener noreffer ">zsh</a>
-inside the Spacemacs workflow, after a look through the documentation, of
-course we can do it</p>
-<p>First, we need to let Spacemacs load zsh when it setup <code>shell</code>, and I found
-you can do a pop-up buffer style with 30% of the current height from the
-bottom.</p>
-<p>So in <code>.spacemacs</code> we can set this in <code>dotspacemacs-configure-layers</code>:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nv">shell</span> <span class="nb">:variables</span>
-</span></span><span class="line"><span class="cl">       <span class="nv">shell-default-term-shell</span> <span class="s">&#34;/bin/zsh&#34;</span> <span class="c1">;; find your zsh path using `$ whereis zsh`</span>
-</span></span><span class="line"><span class="cl">       <span class="nv">shell-default-height</span> <span class="mi">30</span>
-</span></span><span class="line"><span class="cl">       <span class="nv">shell-default-position</span> <span class="ss">&#39;bottom</span><span class="p">)</span>
-</span></span></code></pre></div><p>This change is the basic setup, <strong>but since I enabled <code>vi</code> key bindings in my
-zsh, it starts conflicts with Spacemacs <a href="https://github.com/emacs-evil/evil" target="_blank" rel="noopener noreffer ">evil-mode</a>.</strong> after a play around with different
-settings, I found the best option for me is to disable the evil-mode inside
-<a href="https://www.emacswiki.org/emacs/AnsiTerm" target="_blank" rel="noopener noreffer ">ansi-term</a>.</p>
-<p>Add following code in <code>dotspacemacs/user-config</code>:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nv">evil-set-initial-state</span> <span class="ss">&#39;term-mode</span> <span class="ss">&#39;emacs</span><span class="p">)</span>
-</span></span></code></pre></div><p>This change allows us navigation in ansi-term, but we can not editing
-anything in the input line. We need to do <strong>one more change</strong>:</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-emacs-lisp" data-lang="emacs-lisp"><span class="line"><span class="cl"><span class="p">(</span><span class="nv">evil-set-initial-state</span> <span class="ss">&#39;term-mode</span> <span class="ss">&#39;emacs</span><span class="p">)</span> <span class="c1">;; turn off evil-mode for ansi-term</span>
-</span></span><span class="line"><span class="cl"><span class="p">(</span><span class="nb">setq</span> <span class="nv">term-char-mode-point-at-process-mark</span> <span class="no">nil</span><span class="p">)</span> <span class="c1">;; allow editing in normal mode</span>
-</span></span></code></pre></div><p>After <code>SPC f e R</code>, we can now using zsh inside Spacemacs</p>
-<h2 id="reference">Reference</h2>
-<ul>
-<li><a href="https://github.com/syl20bnr/spacemacs/issues/8642" target="_blank" rel="noopener noreffer ">syl20bnr/spacemacs#8642 Cannot edit shell commands in normal mode.</a></li>
-<li><a href="https://github.com/syl20bnr/spacemacs/tree/develop/layers/&#43;tools/shell" target="_blank" rel="noopener noreffer ">spacemacs/layers/+tools/shell at develop · syl20bnr/spacemacs · GitHub</a></li>
-</ul>]]></description></item></channel></rss>
+</figure>
+
+<hr>
+<h2 id="意外乌冬">🍜 意外乌冬</h2>
+<p>实际上，我并不特别喜欢乌冬面，但我太太却是乌冬面的铁杆粉丝。抵达东京的首日晚上，本打算去品尝寿司，可惜我们<a href="https://goo.gl/maps/1qHG17pZw3ey1zz9A" target="_blank" rel="noopener noreffer ">心仪的餐馆</a>已经打烊。失落之际，我们发现旁边正好有一家<a href="https://goo.gl/maps/ew4TSxi3m45eEyMt8" target="_blank" rel="noopener noreffer ">乌冬面馆</a>，排着长长的队伍。等待近一个小时后，我们尝试了烤鸭肉乌冬面。这碗令人惊艳的乌冬面，使我第一次体会到了手工乌冬面所散发出的弹滑口感。</p>
+<p>尽管我对乌冬面有些好感，但在有限的日本之旅中，我还是希望能多品尝其他日本美食。然而，在京都参观平安神宫后，我们原计划前往的餐馆也已关门。闲逛时，我们发现一家街边乌冬面馆, 门前排着长长的队伍，都是本地居民。跟随他们排队后，我们才知道这家名为 <a href="https://goo.gl/maps/F6yrdknA9URdZTSn8" target="_blank" rel="noopener noreffer ">Yamamoto Menzou</a> 的乌冬面馆是京都排名前五的名店。经过一个多小时的等待，我们终于品尝到了这碗名曰“月见”的乌冬面。面条口感弹滑，汤头味道醇厚，令我对乌冬面的美味更加惊叹。</p>
+<p>原以为在日本的行程中，品尝乌冬面的机会不会太多。然而，在旅程的最后一天，因为行程改动，我们有幸品尝了一家东京乌冬连锁店的美食。尽管口味略逊于京都那家，但这家店的咖喱乌冬味道独特，让我领略到了乌冬面的另一种风味。</p>
+<p>因缘巧合，共享用了三次乌冬，这种意外之喜也算是旅行的收获吧。</p>
+<figure>
+</figure>
+
+<hr>
+<h2 id="暖心寿喜锅">🍲 暖心寿喜锅</h2>
+<p>太太在家最常做的日本料理便是寿喜锅了，因此更加期待在寿喜锅的发源地京都品尝正宗的滋味。谁知到京都后，连续尝试预约三家热门的寿喜烧店，却都无法订到位子。在苦恼之余，酒店前台终于帮我们预定到了一家位于八坂神社旁的寿喜烧店 <a href="https://goo.gl/maps/Hx6Ns11VJt3GefnBA" target="_blank" rel="noopener noreffer ">Torihisa</a>.</p>
+<p>初到店里，我们有些担心：这家老旧但十分干净的日式榻榻米餐馆，服务员都是穿着和服的阿姨们，似乎也没有多少客人。尽管如此，我们还是坐下点了单。由于服务阿姨不会英文，我们只好通过带有英文的菜单，比划着点完菜。坐在并不太舒服的榻榻米上，我们开始有些发怵。然而，上菜的速度很快，和服阿姨也非常热情，她们帮我们涮好了美丽的雪花牛肉，放入打散的生蛋液里，并示意我们仔细品尝。</p>
+<p>那一口，仿佛带着温暖的阳光，裹着生蛋液的牛肉格外柔嫩，香气四溢。牛肉中的脂肪散发着迷人的奶香，让人陶醉。这些美妙的滋味在口中流连忘返，回味无穷。</p>
+<p>这顿寿喜烧让我大开眼界。每个放入汤锅内的食材都带着本身食物的香味，同时又被甜甜的寿喜汤汁衬托得更加美味。品尝着各种京都渍物，仿佛永远停不下来：肥美的牛肉、滑嫩的豆腐、爽滑的魔芋丝、脆甜的白菜，让人忍不住一口接一口。</p>
+<p>当我们吃完走在幽静的八坂神社小路上，不禁感叹，何时能再品尝到这样温暖人心的汤锅呢？</p>
+<figure>
+</figure>
+
+<hr>
+<h2 id="怀石料理">🍱 怀石料理</h2>
+<p>早闻怀石料理大名，却并未心生期待。原以为这不过是一场炒作，而未曾特意安排。然而，在箱根下榻的温泉酒店特别为我安排了<a href="https://goo.gl/maps/TQ4xwsz82U7MaFfK7" target="_blank" rel="noopener noreffer ">怀石料理</a>。带着“既来之则安之”的心态，我准备尝试这顿饕餮盛宴。当主厨亲笔题写的菜单呈现眼前，我恍然意识到，怀石料理的魅力远不止于美食，更在于它所散发的独特氛围与庄重仪式感。</p>
+<figure>
+</figure>
+
+<p>然而，当一道道精美佳肴逐渐呈现，恰到好处的调味，新鲜诱人的食材，雅致精巧的器皿，以及管家贴心得恰如其分的服务，这一切都让我如痴如醉。从琥珀色的清酒，到呈现出山海之美的冷盘；从娇艳欲滴的刺身，到搭配时令蔬菜的酢物，每一道菜都充满了精致与匠心。在品尝中，我能感受到料理师傅对食材的敬畏，以及对季节与自然的尊重。</p>
+<p>这顿怀石料理，使我领悟到它并非空有其名。尽管价格昂贵，但却展示出了独特且令人难以抗拒的魅力。在这精湛的烹饪技艺中，融入了对食材、色香味和视觉美感的极致追求，令人沉浸在一场无与伦比的美食体验中。</p>
+<figure>
+</figure>
+
+<hr>
+<h2 id="流连小食">🍡 流连小食</h2>
+<p>日本的美食琳琅满目，让人目不暇接，尤其是那些令人垂涎欲滴的小吃，因篇幅有限，难以一一道来。譬如筑地市场的柔滑玉子烧、鲜美牛杂饭，秋叶原意外发现的香浓咖喱饭，奈良原汁原味的布丁与清新的艾草团子。还有那些价格昂贵但口感罕有的水果如葡萄、草莓。这些美食带来的欢愉满足滋味让我们下定决心，未来一定要再次踏上日本的土地，继续尽情品味各种佳肴美食，同时畅游美景</p>
+<figure>
+</figure>
+
+]]></description></item><item><title>Cocoon 完结感想</title><link>https://chaoruan.xyz/posts/cocoon-review/</link><pubDate>Wed, 03 Jan 2024 20:44:00 +1100</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/cocoon-review/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/cocoon-review-zh-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>新年期间，我玩了2024年的第一个游戏，名为《<a href="https://store.steampowered.com/app/1497440/COCOON/" target="_blank" rel="noopener noreffer ">Cocoon</a>》。之所以选择它，是因为它荣获了“最佳首作独立游戏”奖项，并且多次被 <a href="https://www.youtube.com/@SkillUp" target="_blank" rel="noopener noreffer ">SkillUp</a>  推荐，因此我利用元旦假期好好体验了一番。游戏并不长，而且节奏设计得非常好，让我一气呵成地玩到了结尾。</p>
+<p>作为独立游戏，无论是画面还是玩法，它都给我留下了深刻的印象。最大的特色之一就是游戏完全没有文字引导，尽管游戏机制相当复杂。游戏通过视觉元素和巧妙的设计逐渐揭示复杂的玩法，每完成一个阶段，我都有种与开发者进行了一次心灵交流的感觉。</p>
+<p>这个游戏没有太多剧情，主要是利用其独特的嵌套世界机制进行解谜和推进游戏进度。每个小世界都有自己独特的风格和机制，让我想起了电影《盗梦空间》，同时又有那种“一沙一世界”的感觉。解密的过程令人畅快淋漓，让人根本停不下来，同时游戏的音乐和音效都非常出色，画面细节和控制手感也都极佳。</p>
+<p>不过，游戏也有我不太喜欢的地方。主要就是这个游戏的Boss战节奏。Boss战其实并不多，大概只有四五场，虽然Boss的设计和机制我觉得都很不错，但是对于我这种手残玩家来说，有些Boss战显得有些冗长，让我感到有点挫败。几乎所有的Boss战都过于漫长，我还是更喜欢解密部分的节奏。</p>
+<p>总的来说，这款游戏还是让我印象深刻，各个方面都非常新颖，确实是一款值得推荐的独立游戏。</p>
+]]></description></item><item><title>炒饭周摘 2023-04-16</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-16/</link><pubDate>Sun, 23 Apr 2023 16:32:00 +1000</pubDate><author>Chao Ruan</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-16/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/weekly-summary-2023-04-16-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>封面图是太太的做的咖啡， 几年下来， 太太已经的拉花技术已经十分出众了.</p>
+<h2 id="读了什么">读了什么</h2>
+<h3 id="关于成都评价的两极分化-v2ex"><a href="https://www.v2ex.com/t/933992" target="_blank" rel="noopener noreffer ">关于成都评价的两极分化 - V2EX</a></h3>
+<p>蛮有意思的讨论， 我去过几次成都， 也真的很喜欢那里， 但是如果现在你问我要不要长住在成都， 我很难说声愿意。 原因有很多， 可是都离不开<a href="https://www.v2ex.com/go/flamewar" target="_blank" rel="noopener noreffer ">水深火热</a>。</p>
+<h2 id="看了什么">看了什么</h2>
+<h3 id="老奇-阴差阳错-撼动世界的游戏引擎"><a href="https://www.bilibili.com/video/BV1Hk4y1q7Rz/?vd_source=af60240413ae7e82f58d7b215a767825" target="_blank" rel="noopener noreffer ">【老奇】阴差阳错 撼动世界的游戏引擎</a></h3>
+<p>突然发现的宝藏年更Up主 <a href="https://space.bilibili.com/35894872" target="_blank" rel="noopener noreffer ">老奇好好奇</a>的最新作品， 从虚幻引擎5聊到图象学再聊回理论与实际工程上的实现方式以及成果，做开放的，玩游戏的都很推荐看一看，深入浅出，能把这么复杂的东西讲明白，真的很厉害！</p>
+<div class="bilibili"><iframe src="//player.bilibili.com/player.html?bvid=BV1Hk4y1q7Rz&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></div>
+
+<h3 id="纯净之地-新西兰到底有多美-肉眼就是电影画面你敢信"><a href="https://www.youtube.com/watch?v=z9nMTntqleM" target="_blank" rel="noopener noreffer ">“纯净之地”新西兰到底有多美？肉眼就是电影画面你敢信？</a></h3>
+<p>关注的Youtuber 去了新西兰，他们的路线和我们当初去的时候很像，让我想起新西兰南岛的雪山湖泊， 虽然没有特别向往，但是我完全不介意再去玩一次。</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/z9nMTntqleM" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<h3 id="succession-s1"><a href="https://www.imdb.com/title/tt7660850/episodes?season=1" target="_blank" rel="noopener noreffer ">Succession S1</a></h3>
+<p>这周又看了几集， 渐入佳境， 真的很佩服编剧的功底，剧中人物的塑造丰满形象，冲突转折都能抓住观众的注意力。没有一个地方拖拉，非常喜欢</p>
+<h3 id="超级马力欧兄弟大电影"><a href="https://www.imdb.com/title/tt6718170/" target="_blank" rel="noopener noreffer ">超级马力欧兄弟大电影</a></h3>
+<p>今天去影院看了这部电影， 做为任天堂的粉丝，我其实并没有打算去看这部电影，但是看到的一些影评改变了我的想法，看了以后成了“真香”现场。我会单独写篇文章聊聊这部电影的</p>
+<h2 id="做了什么">做了什么</h2>
+<p>家里院子里的棕榈树最近几个月长的特别快， 感觉一个夏天长了高了三米， 因为它们生长的位置问题，在墨尔本的妖风加持下，摇摇晃晃的随时都要砸到邻居的院子里， 和妻子商量后清理专业人员把这几课树都砍掉了。 虽然我也不想砍树，但是为了安全原因也不得已为之
+</p>]]></description></item></channel></rss>
