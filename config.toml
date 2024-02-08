@@ -4,7 +4,7 @@ baseURL = 'https://chaoruan.xyz'
 theme = "LoveIt"
 
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh-cn"
 
 googleAnalytics = "UA-52161528-1"
 
