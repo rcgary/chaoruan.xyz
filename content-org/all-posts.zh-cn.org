@@ -6,7 +6,7 @@
 
 * Blog ideas
 ** DONE 幽灵诡计 完结感想
-CLOSED: [2024-02-08 Thu 17:24]
+CLOSED: [2024-02-08 Thu 18:43]
 :PROPERTIES:
 :EXPORT_FILE_NAME: ghost-trick-review.zh-cn.md
 :EXPORT_DATE: <2024-02-08 Thu>
