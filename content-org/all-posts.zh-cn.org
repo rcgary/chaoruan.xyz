@@ -511,7 +511,7 @@ CLOSED: [2023-02-19 Sun 15:33]
 - 个人知识管理
 - 提高工作效率
 *** 🤝 联系我
-如果你对我分享的内容感兴趣，可以在[[https://twitter.com/chaoruan][Twitter]] 或者 [[https://www.threads.net/@chao_ruan][Thread]]上关注我，DM are welcome。
+如果你对我分享的内容感兴趣，可以在[[https://twitter.com/chaoruan][Twitter]] 或者 [[https://www.threads.net/@chao_ruan][Thread]]上关注我，DM are welcome!
 * Footnotes
 * COMMENT Local Variables :ARCHIVE:
   # Local Variables:
