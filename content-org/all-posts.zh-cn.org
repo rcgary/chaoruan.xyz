@@ -493,24 +493,25 @@ CLOSED: [2023-02-19 Sun 15:33]
    :EXPORT_FILE_NAME: about.zh-cn.md
    :EXPORT_DATE: <2023-02-19 Sun>
    :END:
-*** 👋 吃了没？
-我是阮超，一名拥有十多年 iOS 应用开发经验的软件工程师。自从 2008 年来到墨尔本学习以来，我一直在这里生活。
+*** 👋 关于我
+从毕业到现在，我一直在做软件开发，在澳洲读书工作十多年，和太太生活在墨尔本, 有一[[https://www.instagram.com/cat_cinnamon_/][猫]]一[[https://www.instagram.com/leo.blue.staffy][狗]]。2019年决定去美国，准备了两个月，拿到了几个offer，最终选了硅谷一家大厂。刚卖掉房子准备离开澳洲，就赶上疫情爆发，一直远程办公到现在。喜欢打游戏和折腾各种奇奇怪怪的东西。
 
-*** 🖥 技术与生活
-作为一个热衷于探索新事物的人，我涉足各种领域：从软件开发到主机游戏，从智能家居到旅行美食，从[[wikipedia:Getting Things Done][GTD]]到动漫音乐。看得很杂，学的很杂。
+折腾博客很久，断断续续总是坚持不下来，看得多，写的少。到了中年要被优化的年纪，发现自己读写的能力已经丧失了大半，不禁诚惶诚恐, 于是重新开始。希望能够坚持下去，也希望能够在这个过程中找回自己。
 
-*** 🏠 远程工作
-自 2020 年起，我便开始了远程工作的生活。尽管有苦有乐，但这几年的磨炼让我更适应这种工作与生活方式。
+这里分享的内容可能是技术，可能是生活，可能是读书，可能是游戏，可能是感悟，可能是瞎扯。不限于任何一种，但是都是我自己的。博客也有英文版，不过多为技术的分享或总结，连母语都不怎么样，英文版的更新频率可能会更低。
+*** 🗓️ 想和我聊聊
+我提供收费的[[https://cal.com/chaoruan][咨询服务]], 内容包括且不限：
 
+- 软件开发
+- 入门编程学习
+- 美国大厂面试准备(内推可DM)
+- 澳洲，美国职业规划和建议
+- 澳洲墨尔本的移民生活
+- 智能家具
+- 个人知识管理
+- 提高工作效率
 *** 🤝 联系我
-想要联系我的话，请点击[[mailto:blog@chaoruan.dev][这里]]给我发邮件。当然，你也可以在[[https://twitter.com/chaoruan][twitter]]上直接给我发私信。
-
-*** 🛠️ 工具
-- [org-roam](https://www.orgroam.com/)
-- [Fantastical](https://flexibits.com/fantastical)
-- [Things 3](https://culturedcode.com/things/)
-- [Spark](https://sparkmailapp.com/)
-*
+如果你对我分享的内容感兴趣，可以在[[https://twitter.com/chaoruan][Twitter]] 或者 [[https://www.threads.net/@chao_ruan][Thread]]上关注我，DM are welcome。
 * Footnotes
 * COMMENT Local Variables :ARCHIVE:
   # Local Variables:
