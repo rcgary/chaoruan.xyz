@@ -1,10 +1,10 @@
 +++
 title = "影评两则 - Tetris & John Wick 4"
 date = 2023-04-08T11:31:00+10:00
-lastmod = 2023-04-16T15:13:42+10:00
+lastmod = 2024-02-22T17:52:54+11:00
+tags = ["周摘"]
 draft = false
-tags = ["电影"]
-weight = 2002
+weight = 2011
 featuredImage = "/ox-hugo/two-movie-reviews-cn-cover.jpeg"
 featuredImagePreview = "/ox-hugo/two-movie-reviews-cn-preview.jpg"
 +++
@@ -27,7 +27,7 @@ featuredImagePreview = "/ox-hugo/two-movie-reviews-cn-preview.jpg"
 
 特别喜欢电影后段的一场枪战戏码，通过俯视角长镜头捕捉到主角在一幢破旧公寓楼内，拿着喷火枪乱射的画面。起初我一直误以为这是在致敬[迈阿密热线 Hotline Miami](https://store.steampowered.com/app/219150/Hotline_Miami/)，后来才在 Twitter 上发现，原来这场戏的灵感来源于[杀戮香港 The Hong Kong Massacre](https://store.steampowered.com/app/741510/The_Hong_Kong_Massacre/)。实在是精彩无比。
 
-{{< tweet 1640058111086981122 >}}
+{{< tweet id="1640058111086981122" user="GenreFilmAddict" >}}
 
 John Wick 系列向来没有过多的剧情深度，这部作品当然也不例外。但这又有何妨呢？我期待的是一部充满爆米花式精彩动作场面的电影，而正是这样的作品让我感到满足。等到蓝光发行时，我肯定还会在家中重温几遍！
 
