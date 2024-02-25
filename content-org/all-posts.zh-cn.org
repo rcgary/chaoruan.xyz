@@ -5,7 +5,8 @@
 #+options: author:nil
 
 * Blog ideas
-** TODO 绿豆汤记
+** DONE 绿豆汤记
+CLOSED: [2024-02-25 Sun 16:14]
 :PROPERTIES:
 :EXPORT_FILE_NAME: mung-bean-soup.zh-cn.md
 :EXPORT_DATE: <2024-02-25 Sun>
