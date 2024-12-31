@@ -1,9 +1,9 @@
 +++
 title = "Balatro 游玩感想"
-date = 2024-03-16T00:00:00+11:00
-lastmod = 2024-03-16T14:13:39+11:00
+date = 2024-04-14T18:44:00+10:00
+lastmod = 2024-12-19T18:49:59+11:00
 tags = ["游戏"]
-draft = true
+draft = false
 weight = 2001
 featuredImage = "/ox-hugo/balatro-review-zh-cover.jpeg"
 featuredImagePreview = "/ox-hugo/balatro-review-zh-preview.jpeg"

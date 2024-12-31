@@ -1,0 +1,64 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - 标签 - 炒碗软饭</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - 标签 - 炒碗软饭</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor>
+            <webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Mon, 30 Dec 2024 00:00:00 &#43;1100</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>年终总结</title>
+    <link>http://localhost:1313/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
+    <pubDate>Mon, 30 Dec 2024 00:00:00 &#43;1100</pubDate>
+    <author>Chao Ruan</author>
+    <guid>http://localhost:1313/tags/%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>游戏</title>
+    <link>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</link>
+    <pubDate>Sun, 14 Apr 2024 18:44:00 &#43;1000</pubDate>
+    <author>Chao Ruan</author>
+    <guid>http://localhost:1313/tags/%E6%B8%B8%E6%88%8F/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>美食</title>
+    <link>http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/</link>
+    <pubDate>Sun, 25 Feb 2024 16:14:00 &#43;1100</pubDate>
+    <author>Chao Ruan</author>
+    <guid>http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Book</title>
+    <link>http://localhost:1313/tags/book/</link>
+    <pubDate>Thu, 25 Jan 2024 15:48:00 &#43;1100</pubDate>
+    <author>Chao Ruan</author>
+    <guid>http://localhost:1313/tags/book/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Reflect</title>
+    <link>http://localhost:1313/tags/reflect/</link>
+    <pubDate>Wed, 10 Jan 2024 16:21:00 &#43;1100</pubDate>
+    <author>Chao Ruan</author>
+    <guid>http://localhost:1313/tags/reflect/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>周摘</title>
+    <link>http://localhost:1313/tags/%E5%91%A8%E6%91%98/</link>
+    <pubDate>Mon, 01 Jan 2024 14:45:00 &#43;1100</pubDate>
+    <author>Chao Ruan</author>
+    <guid>http://localhost:1313/tags/%E5%91%A8%E6%91%98/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>旅游</title>
+    <link>http://localhost:1313/tags/%E6%97%85%E6%B8%B8/</link>
+    <pubDate>Sun, 19 Mar 2023 14:59:00 &#43;1100</pubDate>
+    <author>Chao Ruan</author>
+    <guid>http://localhost:1313/tags/%E6%97%85%E6%B8%B8/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
