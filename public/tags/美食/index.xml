@@ -3,12 +3,11 @@
         <title>美食 - 标签 - 炒碗软饭</title>
         <link>http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/</link>
         <description>美食 - 标签 - 炒碗软饭</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor>
-            <webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Sun, 25 Feb 2024 16:14:00 &#43;1100</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sun, 25 Feb 2024 16:14:00 &#43;1100</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%BE%8E%E9%A3%9F/" rel="self" type="application/rss+xml" /><item>
     <title>绿豆汤记</title>
     <link>http://localhost:1313/posts/mung-bean-soup/</link>
     <pubDate>Sun, 25 Feb 2024 16:14:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/mung-bean-soup/</guid>
     <description><![CDATA[<p>昨晚睡觉前太太照例问我：“明天想吃什么”，瞅了眼天气预报：34度。 回应到：“凉面”。突然又想到初中暑假时候在家旁的小店吃凉面的日子。又接着补充道“要是有冰冰的绿豆汤就好了”。 太太心有灵犀，取出绿豆浸了水，又冻入冰箱。这是太太的秘诀，会让绿豆更容易出沙。口感也会更好。</p>
 <p>一觉无梦，早起趁暑意未满，出门遛狗。一盏茶的时间回来就已经微微出汗，心里已想着绿豆汤了。</p>
@@ -25,7 +24,7 @@
     <title>食在日本</title>
     <link>http://localhost:1313/posts/feasting-in-japan/</link>
     <pubDate>Sun, 19 Mar 2023 14:59:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/feasting-in-japan/</guid>
     <description><![CDATA[<h2 id="️-准备就绪">🍽️ 准备就绪</h2>
 <p>出发去日本前几周，我与太太投入的时间并非全在规划行程，而更多是在 YouTube 上观看各种日本美食探店视频，琢磨着要去哪里品尝哪些佳肴。我们在 Google 地图上标记了众多餐馆和小吃摊，垂涎欲滴地期待着在日本大饱口福。</p>

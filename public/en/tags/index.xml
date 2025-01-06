@@ -3,12 +3,11 @@
         <title>Tags - Tag - Chaos Talk</title>
         <link>http://localhost:1313/en/tags/</link>
         <description>Tags - Tag - Chaos Talk</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor>
-            <webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Tue, 09 May 2023 10:45:00 &#43;1000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 May 2023 10:45:00 &#43;1000</lastBuildDate><atom:link href="http://localhost:1313/en/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Weekly</title>
     <link>http://localhost:1313/en/tags/weekly/</link>
     <pubDate>Tue, 09 May 2023 10:45:00 &#43;1000</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/tags/weekly/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -16,7 +15,7 @@
     <title>IOS</title>
     <link>http://localhost:1313/en/tags/ios/</link>
     <pubDate>Fri, 08 Nov 2019 22:54:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/tags/ios/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -24,7 +23,7 @@
     <title>Swift</title>
     <link>http://localhost:1313/en/tags/swift/</link>
     <pubDate>Fri, 08 Nov 2019 22:54:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/tags/swift/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -32,7 +31,7 @@
     <title>SwiftUI</title>
     <link>http://localhost:1313/en/tags/swiftui/</link>
     <pubDate>Fri, 08 Nov 2019 22:54:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/tags/swiftui/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -40,7 +39,7 @@
     <title>Emacs</title>
     <link>http://localhost:1313/en/tags/emacs/</link>
     <pubDate>Sat, 26 Oct 2019 10:58:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/tags/emacs/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -48,7 +47,7 @@
     <title>Zsh</title>
     <link>http://localhost:1313/en/tags/zsh/</link>
     <pubDate>Sat, 26 Oct 2019 10:58:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/tags/zsh/</guid>
     <description><![CDATA[]]></description>
 </item>
@@ -56,7 +55,7 @@
     <title>Org</title>
     <link>http://localhost:1313/en/tags/org/</link>
     <pubDate>Wed, 23 Oct 2019 18:42:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/tags/org/</guid>
     <description><![CDATA[]]></description>
 </item>

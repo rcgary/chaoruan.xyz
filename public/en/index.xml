@@ -3,14 +3,13 @@
         <title>Chaos Talk</title>
         <link>http://localhost:1313/en/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor>
-            <webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Tue, 09 May 2023 10:45:00 &#43;1000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 May 2023 10:45:00 &#43;1000</lastBuildDate>
             <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Weekly Summary 2023-05-01</title>
     <link>http://localhost:1313/en/posts/weekly-summary-2023-05-01/</link>
     <pubDate>Tue, 09 May 2023 10:45:00 &#43;1000</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/weekly-summary-2023-05-01/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-05-01-cover.jpeg" referrerpolicy="no-referrer">
@@ -38,7 +37,7 @@
     <title>Weekly Summary 2023-04-23</title>
     <link>http://localhost:1313/en/posts/weekly-summary-2023-04-23/</link>
     <pubDate>Sun, 30 Apr 2023 10:22:00 &#43;1000</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/weekly-summary-2023-04-23/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-23-cover.jpeg" referrerpolicy="no-referrer">
@@ -88,7 +87,7 @@
     <title>Weekly Summary 2023-04-16</title>
     <link>http://localhost:1313/en/posts/weekly-summary-2023-04-16/</link>
     <pubDate>Sun, 23 Apr 2023 16:32:00 &#43;1000</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/weekly-summary-2023-04-16/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-16-cover.jpeg" referrerpolicy="no-referrer">
@@ -115,7 +114,7 @@
     <title>Weekly Summary 2023-04-09</title>
     <link>http://localhost:1313/en/posts/weekly-summary-2023-04-09/</link>
     <pubDate>Sun, 16 Apr 2023 15:10:00 &#43;1000</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/weekly-summary-2023-04-09/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-09-cover.jpeg" referrerpolicy="no-referrer">
@@ -161,7 +160,7 @@ Then you get your first paying customer. Provide a one-on-one personal service. 
     <title>Notes for SwiftUI and Combine Programming (1)</title>
     <link>http://localhost:1313/en/posts/notes-for-swiftui-and-combine-programming/</link>
     <pubDate>Fri, 08 Nov 2019 22:54:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/notes-for-swiftui-and-combine-programming/</guid>
     <description><![CDATA[<p>I start reading <a href="https://onevcat.com/" target="_blank" rel="noopener noreffer ">onevcat</a> new book <a href="https://objccn.io/products/swift-ui" target="_blank" rel="noopener noreffer "><em>SwiftUI and Combine Programming</em></a> (a great
 book to learning SwiftUI if you can read Chinese). I decided to put all the
@@ -215,7 +214,7 @@ of screens:</p>
     <title>Running Oh-My-Zsh inside Spacemacs</title>
     <link>http://localhost:1313/en/posts/running-oh-my-zsh-inside-spacemacs/</link>
     <pubDate>Sat, 26 Oct 2019 10:58:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/running-oh-my-zsh-inside-spacemacs/</guid>
     <description><![CDATA[<p>When I start using <a href="http://spacemacs.org/" target="_blank" rel="noopener noreffer ">Spacemacs</a>, I was hoping there is a way to using my own configured <a href="https://ohmyz.sh/" target="_blank" rel="noopener noreffer ">zsh</a>
 inside the Spacemacs workflow, after a look through the documentation, of
@@ -249,7 +248,7 @@ anything in the input line. We need to do <strong>one more change</strong>:</p>
     <title>ox-hugo Install Issue with Spacemacs</title>
     <link>http://localhost:1313/en/posts/ox-hugo-install-issue-with-spacemacs/</link>
     <pubDate>Wed, 23 Oct 2019 18:42:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/ox-hugo-install-issue-with-spacemacs/</guid>
     <description><![CDATA[<p>While I try to install <a href="https://ox-hugo.scripter.co/" target="_blank" rel="noopener noreffer ">ox-hugo</a> on my <a href="http://spacemacs.org/" target="_blank" rel="noopener noreffer ">Spacemacs</a>, I found an issue:</p>
 <p>After reading the install and <a href="https://ox-hugo.scripter.co/#usage" target="_blank" rel="noopener noreffer ">usage guide</a>. I added <code>ox-hugo</code>

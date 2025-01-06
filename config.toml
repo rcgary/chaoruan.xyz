@@ -130,6 +130,9 @@ googleAnalytics = "UA-52161528-1"
     # Google Analytics
     [params.analytics.google]
       id = "UA-52161528-1"
+  [params.author]
+    name = "Chao Ruan"
+    email = "blog@chaoruan.dev"
 
 [languages]
   [languages.en]
@@ -267,10 +270,6 @@ googleAnalytics = "UA-52161528-1"
   [markup.goldmark.renderer]
     # for ox-hugo https://ox-hugo.scripter.co/doc/goldmark/
     unsafe = true
-
-[author]
-  name = "Chao Ruan"
-  email = "blog@chaoruan.dev"
 
 # 网站地图配置
 [sitemap]

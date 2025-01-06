@@ -3,12 +3,11 @@
         <title>所有文章 - 炒碗软饭</title>
         <link>http://localhost:1313/posts/</link>
         <description>所有文章 | 炒碗软饭</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor>
-            <webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Tue, 31 Dec 2024 00:00:00 &#43;1100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 &#43;1100</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>2024 年终总结之变化</title>
     <link>http://localhost:1313/posts/2024-end-of-year-summary-change/</link>
     <pubDate>Tue, 31 Dec 2024 00:00:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/2024-end-of-year-summary-change/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/2024-end-of-year-summary-change-zh-cn-cover.jpeg" referrerpolicy="no-referrer">
@@ -47,7 +46,7 @@
     <title>2024 年终总结之游戏</title>
     <link>http://localhost:1313/posts/2024-end-of-year-summary-game/</link>
     <pubDate>Mon, 30 Dec 2024 00:00:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/2024-end-of-year-summary-game/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/2024-end-of-year-summary-game-zh-cn-cover.jpeg" referrerpolicy="no-referrer">
@@ -123,7 +122,7 @@
     <title>Balatro 游玩感想</title>
     <link>http://localhost:1313/posts/balatro-review/</link>
     <pubDate>Sun, 14 Apr 2024 18:44:00 &#43;1000</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/balatro-review/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/balatro-review-zh-cover.jpeg" referrerpolicy="no-referrer">
@@ -140,7 +139,7 @@
     <title>绿豆汤记</title>
     <link>http://localhost:1313/posts/mung-bean-soup/</link>
     <pubDate>Sun, 25 Feb 2024 16:14:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/mung-bean-soup/</guid>
     <description><![CDATA[<p>昨晚睡觉前太太照例问我：“明天想吃什么”，瞅了眼天气预报：34度。 回应到：“凉面”。突然又想到初中暑假时候在家旁的小店吃凉面的日子。又接着补充道“要是有冰冰的绿豆汤就好了”。 太太心有灵犀，取出绿豆浸了水，又冻入冰箱。这是太太的秘诀，会让绿豆更容易出沙。口感也会更好。</p>
 <p>一觉无梦，早起趁暑意未满，出门遛狗。一盏茶的时间回来就已经微微出汗，心里已想着绿豆汤了。</p>
@@ -157,7 +156,7 @@
     <title>幽灵诡计 完结感想</title>
     <link>http://localhost:1313/posts/ghost-trick-review/</link>
     <pubDate>Thu, 08 Feb 2024 18:43:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/ghost-trick-review/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/ghost-trick-review-zh-cover.jpeg" referrerpolicy="no-referrer">
@@ -174,7 +173,7 @@
     <title>海错图笔记 读后感</title>
     <link>http://localhost:1313/posts/note-for-hai-cuo-tu-note/</link>
     <pubDate>Thu, 25 Jan 2024 15:48:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/note-for-hai-cuo-tu-note/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/note-for-hai-cuo-tu-note-zh.jpeg" referrerpolicy="no-referrer">
@@ -189,7 +188,7 @@
     <title>2023 年终总结</title>
     <link>http://localhost:1313/posts/2023-end-of-year-summary/</link>
     <pubDate>Mon, 01 Jan 2024 14:45:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/2023-end-of-year-summary/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/2023-end-of-year-summary-zh-cover.jpeg" referrerpolicy="no-referrer">
@@ -217,7 +216,7 @@
     <title>炒饭周摘 2023-04-23</title>
     <link>http://localhost:1313/posts/weekly-summary-2023-04-23/</link>
     <pubDate>Sun, 30 Apr 2023 10:22:00 &#43;1000</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/weekly-summary-2023-04-23/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-04-23-cover.jpeg" referrerpolicy="no-referrer">
@@ -268,7 +267,7 @@
     <title>回归本心</title>
     <link>http://localhost:1313/posts/return-to-normal/</link>
     <pubDate>Wed, 10 Jan 2024 16:21:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/return-to-normal/</guid>
     <description><![CDATA[<p>在完成了<a href="https://chaoruan.xyz/zh-cn/posts/2023-end-of-year-summary/" target="_blank" rel="noopener noreffer ">2023年终总结</a>之后，我便不断地回顾我的2023年。我意识到，遗憾确实不少，对于那些未能做到或可以做得更好的事情，我有了更深刻的认识。我渴望在新的一年里生活得更充实、更高效，也更快乐。因此，我对改变自己在新一年的各个方面充满了动力。</p>
 <p>。我为这个计划设定了季度目标和年终目标，并为了更好地完成它们，我还设定了相应的奖励。我希望，在回顾2024年时，我的感受会比现在好一些。</p>
@@ -283,7 +282,7 @@
     <title>炒饭周摘 2023-05-01</title>
     <link>http://localhost:1313/posts/weekly-summary-2023-05-01/</link>
     <pubDate>Tue, 09 May 2023 10:45:00 &#43;1000</pubDate>
-    <author>Chao Ruan</author>
+    <author>作者</author>
     <guid>http://localhost:1313/posts/weekly-summary-2023-05-01/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/weekly-summary-2023-05-01-cover.jpeg" referrerpolicy="no-referrer">

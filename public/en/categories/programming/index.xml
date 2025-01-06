@@ -3,12 +3,11 @@
         <title>Programming - Category - Chaos Talk</title>
         <link>http://localhost:1313/en/categories/programming/</link>
         <description>Programming - Category - Chaos Talk</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor>
-            <webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Fri, 08 Nov 2019 22:54:00 &#43;1100</lastBuildDate><atom:link href="http://localhost:1313/en/categories/programming/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 08 Nov 2019 22:54:00 &#43;1100</lastBuildDate><atom:link href="http://localhost:1313/en/categories/programming/" rel="self" type="application/rss+xml" /><item>
     <title>Notes for SwiftUI and Combine Programming (1)</title>
     <link>http://localhost:1313/en/posts/notes-for-swiftui-and-combine-programming/</link>
     <pubDate>Fri, 08 Nov 2019 22:54:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/notes-for-swiftui-and-combine-programming/</guid>
     <description><![CDATA[<p>I start reading <a href="https://onevcat.com/" target="_blank" rel="noopener noreffer ">onevcat</a> new book <a href="https://objccn.io/products/swift-ui" target="_blank" rel="noopener noreffer "><em>SwiftUI and Combine Programming</em></a> (a great
 book to learning SwiftUI if you can read Chinese). I decided to put all the
@@ -62,7 +61,7 @@ of screens:</p>
     <title>Running Oh-My-Zsh inside Spacemacs</title>
     <link>http://localhost:1313/en/posts/running-oh-my-zsh-inside-spacemacs/</link>
     <pubDate>Sat, 26 Oct 2019 10:58:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/running-oh-my-zsh-inside-spacemacs/</guid>
     <description><![CDATA[<p>When I start using <a href="http://spacemacs.org/" target="_blank" rel="noopener noreffer ">Spacemacs</a>, I was hoping there is a way to using my own configured <a href="https://ohmyz.sh/" target="_blank" rel="noopener noreffer ">zsh</a>
 inside the Spacemacs workflow, after a look through the documentation, of
@@ -96,7 +95,7 @@ anything in the input line. We need to do <strong>one more change</strong>:</p>
     <title>ox-hugo Install Issue with Spacemacs</title>
     <link>http://localhost:1313/en/posts/ox-hugo-install-issue-with-spacemacs/</link>
     <pubDate>Wed, 23 Oct 2019 18:42:00 &#43;1100</pubDate>
-    <author>Chao Ruan</author>
+    <author>Author</author>
     <guid>http://localhost:1313/en/posts/ox-hugo-install-issue-with-spacemacs/</guid>
     <description><![CDATA[<p>While I try to install <a href="https://ox-hugo.scripter.co/" target="_blank" rel="noopener noreffer ">ox-hugo</a> on my <a href="http://spacemacs.org/" target="_blank" rel="noopener noreffer ">Spacemacs</a>, I found an issue:</p>
 <p>After reading the install and <a href="https://ox-hugo.scripter.co/#usage" target="_blank" rel="noopener noreffer ">usage guide</a>. I added <code>ox-hugo</code>
