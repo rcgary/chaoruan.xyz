@@ -27,7 +27,7 @@ featuredImagePreview = "/ox-hugo/two-movie-reviews-cn-preview.jpg"
 
 特别喜欢电影后段的一场枪战戏码，通过俯视角长镜头捕捉到主角在一幢破旧公寓楼内，拿着喷火枪乱射的画面。起初我一直误以为这是在致敬[迈阿密热线 Hotline Miami](https://store.steampowered.com/app/219150/Hotline_Miami/)，后来才在 Twitter 上发现，原来这场戏的灵感来源于[杀戮香港 The Hong Kong Massacre](https://store.steampowered.com/app/741510/The_Hong_Kong_Massacre/)。实在是精彩无比。
 
-{{< x id="1640058111086981122" user="GenreFilmAddict" >}}
+{{< tweet id="1640058111086981122" user="GenreFilmAddict" >}}
 
 John Wick 系列向来没有过多的剧情深度，这部作品当然也不例外。但这又有何妨呢？我期待的是一部充满爆米花式精彩动作场面的电影，而正是这样的作品让我感到满足。等到蓝光发行时，我肯定还会在家中重温几遍！
 
