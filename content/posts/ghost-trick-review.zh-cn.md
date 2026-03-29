@@ -4,7 +4,6 @@ date = 2024-02-08T18:43:00+11:00
 lastmod = 2024-02-08T18:43:46+11:00
 tags = ["gaming", "review"]
 draft = false
-weight = 2001
 featuredImage = "/ox-hugo/ghost-trick-review-zh-cover.jpeg"
 featuredImagePreview = "/ox-hugo/ghost-trick-review-zh-preview.jpeg"
 +++

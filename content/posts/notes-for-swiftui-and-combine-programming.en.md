@@ -5,7 +5,6 @@ lastmod = 2022-04-15T15:23:34+10:00
 tags = ["dev", "swift", "ios"]
 categories = ["programming"]
 draft = false
-weight = 2001
 +++
 
 I start reading [onevcat](https://onevcat.com/) new book [_SwiftUI and Combine Programming_](https://objccn.io/products/swift-ui) (a great

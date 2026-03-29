@@ -4,7 +4,6 @@ date = 2024-12-30T00:00:00+11:00
 lastmod = 2024-12-30T19:02:25+11:00
 tags = ["gaming", "year-in-review"]
 draft = false
-weight = 2001
 featuredImage = "/ox-hugo/2024-end-of-year-summary-game-zh-cn-cover.jpeg"
 featuredImagePreview = "/ox-hugo/2024-end-of-year-summary-game-zh-cn-preview.jpeg"
 +++

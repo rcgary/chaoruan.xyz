@@ -4,7 +4,6 @@ date = 2023-02-20T15:29:00+11:00
 lastmod = 2024-02-22T17:31:53+11:00
 tags = ["life", "reflection"]
 draft = false
-weight = 2014
 featuredImage = "/ox-hugo/why-i-start-blog-in-2023-cn-001.jpeg"
 +++
 

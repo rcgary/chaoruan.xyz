@@ -4,7 +4,6 @@ date = 2023-05-09T10:45:00+10:00
 lastmod = 2024-01-01T14:05:51+11:00
 tags = ["weekly"]
 draft = false
-weight = 2002
 featuredImage = "/ox-hugo/weekly-summary-2023-05-01-cover.jpeg"
 featuredImagePreview = "/ox-hugo/weekly-summary-2023-05-01-preview.jpeg"
 +++

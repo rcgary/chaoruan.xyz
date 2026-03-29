@@ -4,7 +4,6 @@ date = 2024-01-25T15:48:00+11:00
 lastmod = 2024-01-25T15:52:08+11:00
 tags = ["books", "review"]
 draft = false
-weight = 2001
 featuredImage = "/ox-hugo/note-for-hai-cuo-tu-note-zh.jpeg"
 +++
 

@@ -5,7 +5,6 @@ lastmod = 2023-04-24T08:31:57+10:00
 tags = ["dev", "emacs"]
 categories = ["programming"]
 draft = true
-weight = 2005
 +++
 
 While I try to install [ox-hugo](https://ox-hugo.scripter.co/) on my [Spacemacs](http://spacemacs.org/), I found an issue:

@@ -5,7 +5,6 @@ lastmod = 2022-04-15T15:23:49+10:00
 tags = ["dev", "emacs", "zsh"]
 categories = ["programming"]
 draft = false
-weight = 2002
 +++
 
 When I start using [Spacemacs](http://spacemacs.org/), I was hoping there is a way to using my own configured [zsh](https://ohmyz.sh/)

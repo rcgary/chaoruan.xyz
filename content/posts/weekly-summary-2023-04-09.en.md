@@ -4,7 +4,6 @@ date = 2023-04-16T15:10:00+10:00
 lastmod = 2023-04-16T15:12:08+10:00
 draft = false
 tags = ["weekly"]
-weight = 2001
 featuredImage = "/ox-hugo/weekly-summary-2023-04-09-cover.jpeg"
 +++
 
