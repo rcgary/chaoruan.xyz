@@ -1,4 +1,24 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 炒碗软饭</title><link>https://chaoruan.xyz/posts/</link><description>所有文章 | 炒碗软饭</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Sun, 29 Mar 2026 17:00:00 +1100</lastBuildDate><atom:link href="https://chaoruan.xyz/posts/" rel="self" type="application/rss+xml"/><item><title>2024 年终总结之变化</title><link>https://chaoruan.xyz/posts/2024-end-of-year-summary-change/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +1100</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/2024-end-of-year-summary-change/</guid><description><![CDATA[<div class="featured-image">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>所有文章 - 炒碗软饭</title><link>https://chaoruan.xyz/posts/</link><description>所有文章 | 炒碗软饭</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>blog@chaoruan.dev (Chao Ruan)</managingEditor><webMaster>blog@chaoruan.dev (Chao Ruan)</webMaster><lastBuildDate>Sun, 29 Mar 2026 17:00:00 +1100</lastBuildDate><atom:link href="https://chaoruan.xyz/posts/" rel="self" type="application/rss+xml"/><item><title>我怎么配置每一台电脑</title><link>https://chaoruan.xyz/posts/dev-kit-philosophy/</link><pubDate>Sun, 29 Mar 2026 17:00:00 +1100</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/dev-kit-philosophy/</guid><description><![CDATA[<p>我所有的机器都跑同一套配置。MacBook、Windows 游戏 PC、工作用的 Surface，一条命令搞定。平台之间的差异交给 <a href="https://www.chezmoi.io/" target="_blank" rel="noopener noreffer ">chezmoi</a> 的模板处理，我不用再操心。坐到任何一台机器前，手上的肌肉记忆直接能用，这就是目的。</p>
+<p>做到这一点的前提是选跨平台的工具。<a href="https://neovim.io/" target="_blank" rel="noopener noreffer ">Neovim</a>、<a href="https://github.com/junegunn/fzf" target="_blank" rel="noopener noreffer ">fzf</a>、<a href="https://github.com/BurntSushi/ripgrep" target="_blank" rel="noopener noreffer ">ripgrep</a>、<a href="https://github.com/sharkdp/bat" target="_blank" rel="noopener noreffer ">bat</a>、<a href="https://github.com/jesseduffield/lazygit" target="_blank" rel="noopener noreffer ">lazygit</a>、<a href="https://github.com/sxyazi/yazi" target="_blank" rel="noopener noreffer ">yazi</a>、<a href="https://starship.rs/" target="_blank" rel="noopener noreffer ">Starship</a>、<a href="https://mise.jdx.dev/" target="_blank" rel="noopener noreffer ">mise</a>，macOS、Linux、Windows 都能跑。没法统一的地方（Zsh 和 PowerShell、Karabiner 和 Kanata），配置也尽量让手感一致。平台专属的东西越少，脑子里要记的就越少。</p>
+<h2 id="终端就是工作台">终端就是工作台</h2>
+<p>Neovim 写代码，fzf 找文件，lazygit 管版本，<a href="https://github.com/tmux/tmux" target="_blank" rel="noopener noreffer ">tmux</a> 保持会话，yazi 移文件。它们是不同的程序，但共享一些约定，用起来像一个整体。tmux 和 Neovim 之间的窗格切换靠 <a href="https://github.com/christoomey/vim-tmux-navigator" target="_blank" rel="noopener noreffer ">vim-tmux-navigator</a> 统一了。同一套 leader 键在 Neovim 单独用和在 VS Code 里都一样。不管在哪个环境，脑子里只有一套快捷键。</p>
+<p>偶尔需要用 <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreffer ">VS Code</a> 的时候，<a href="https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim" target="_blank" rel="noopener noreffer ">VSCode Neovim</a> 插件能保住肌肉记忆。同样的操作方式，同样的 leader 键，同样的 surround 和注释快捷键。VS Code 管它擅长的（LSP 界面、插件、终端），Neovim 管编辑。</p>
+<h2 id="视觉统一">视觉统一</h2>
+<p>所有工具都用 <a href="https://github.com/catppuccin/catppuccin" target="_blank" rel="noopener noreffer ">Catppuccin Mocha</a>。终端、编辑器、状态栏、输入法、文件管理器、系统监控，全部一个配色。代码用 <a href="https://github.com/tonsky/FiraCode" target="_blank" rel="noopener noreffer ">Fira Code</a>（连字），Obsidian 写文章用 <a href="https://ia.net/topics/a-typographic-christmas" target="_blank" rel="noopener noreffer ">iA Writer Duo S</a>，中文回退用<a href="https://github.com/adobe-fonts/source-han-sans" target="_blank" rel="noopener noreffer ">思源黑体</a>。听起来像是在纠结表面功夫，但切换工具的时候颜色不变，注意力的消耗确实会少一些。</p>
+<h2 id="中英文双线">中英文双线</h2>
+<p>中文输入不是后加的补丁，是配置的一部分。<a href="https://rime.im/" target="_blank" rel="noopener noreffer ">Rime</a> 在 macOS 和 Windows 上跑同一套方案，底层是 <a href="https://github.com/iDvel/rime-ice" target="_blank" rel="noopener noreffer ">rime-ice</a>。退出插入模式的时候编辑器自动切回英文，靠 <a href="https://github.com/keaising/im-select.nvim" target="_blank" rel="noopener noreffer ">im-select</a> 实现，打中文不会干扰 vim 操作。中英文之间的空格由 <a href="https://github.com/hotoo/pangu.vim" target="_blank" rel="noopener noreffer ">pangu.vim</a> 在保存时自动处理。每天两种语言混着写，工具得把两边都当正经公民对待。</p>
+<h2 id="笔记在编辑器里">笔记在编辑器里</h2>
+<p><a href="https://obsidian.md/" target="_blank" rel="noopener noreffer ">Obsidian</a> 是我思考的地方。笔记、参考资料、日志、项目规划都在里面。编辑器通过 <a href="https://github.com/obsidian-nvim/obsidian.nvim" target="_blank" rel="noopener noreffer ">obsidian.nvim</a> 直连 vault，搜索笔记、跳转 wiki-link、打开当天日记，都不用离开 Neovim。<code>machine.json</code> 里配了 vault 路径就自动激活，没配就安静待着。</p>
+<h2 id="私密的留在本地">私密的留在本地</h2>
+<p>每台机器的密钥和路径放在 chezmoi 不管的本地覆盖文件里。一个 <code>machine.json</code> 给所有工具提供运行时上下文（vault 路径、设备身份、输入法），不用每个工具重复配一遍。私密的不进 git，通用的保持可移植。</p>
+<h2 id="键盘优先">键盘优先</h2>
+<p>Caps Lock 一键两用：单击是 Escape，按住是 Hyper。macOS 上用 <a href="https://karabiner-elements.pqrs.org/" target="_blank" rel="noopener noreffer ">Karabiner-Elements</a>，Windows 上用 <a href="https://github.com/jtroo/kanata" target="_blank" rel="noopener noreffer ">Kanata</a>。shell 里开 vi 模式，文件管理器用 vim 快捷键，VS Code 也走 vim 操作。鼠标还是会用，但手指大部分时间留在主键区。</p>
+<h2 id="新机器几分钟搞定">新机器几分钟搞定</h2>
+<p>装 chezmoi，跑 init，回答几个问题，平台安装脚本处理剩下的。命令行工具、字体、插件、运行时，全部自动装好。加一个新工具就是往 chezmoi 源里丢一个配置文件，再加一行安装命令。结构够简单，扩展的时候不需要理解全貌。</p>
+<h2 id="什么都不会丢">什么都不会丢</h2>
+<p>tmux 的会话通过 <a href="https://github.com/tmux-plugins/tmux-resurrect" target="_blank" rel="noopener noreffer ">tmux-resurrect</a> 和 <a href="https://github.com/tmux-plugins/tmux-continuum" target="_blank" rel="noopener noreffer ">tmux-continuum</a> 自动保存和恢复。撤销历史跨重启保持。<a href="https://github.com/ajeetdsouza/zoxide" target="_blank" rel="noopener noreffer ">zoxide</a> 记得去过的目录。终端崩了，tmux 会话还在。机器重启了，一条命令从 git 把其他的东西拉回来。重要的东西不只活在内存里。</p>
+<hr>
+]]></description></item><item><title>2024 年终总结之变化</title><link>https://chaoruan.xyz/posts/2024-end-of-year-summary-change/</link><pubDate>Tue, 31 Dec 2024 00:00:00 +1100</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/2024-end-of-year-summary-change/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/2024-end-of-year-summary-change-zh-cn-cover.jpeg" referrerpolicy="no-referrer">
             </div><p>这一年真的过得很快。我有很多变化。像去年一样，今年我准备还是要写一个年终总结，但是因为整体的一年我的记录比较多，从生活的各个方面到健康、健身、游戏、娱乐、工作、学习等各个方面，感觉自己还是有很多地方可以总结的。所以这次的年终总结应该会分成不同的部分。</p>
 <h2 id="日记">日记</h2>
@@ -131,7 +151,21 @@
 <p>拿起第一册的时候问了句太太这是什么样的书，太太说：”画本，估计给小孩子看的“，我半信半疑，拿着翻了几页，就发现别有洞天。这套书的结构其实很简单：<a href="https://baike.baidu.com/item/%E3%80%8A%E6%B5%B7%E9%94%99%E5%9B%BE%E3%80%8B/20217084?fromModule=lemma_inlink" target="_blank" rel="noopener noreffer ">「海错图」</a>是清代画家兼生物爱好者聂璜绘制一本博物书，主要记录了他所见或听说的海洋生物，每个生物他都画了下来。而「海错图笔记」就是张辰亮用现代科学的方式勘误「海错图」中的各个生物，考查其来源，解读每个生物背后的故事。</p>
 <p>从第一篇笔记开始我就读的爱不释手，感叹这样的书放在家里这么久竟然没有看过。因为都是睡前读物，很长的一段时间，阅读「海错图笔记」已经成了我一天中最期盼的时光。虽然这是科普读物，但是作为科普一哥的张辰亮写的却十分通俗易懂，每种生物的渊源，历史都写的妙趣横生。有的生物聂璜画的并不清楚，或者只是传说，但是张辰亮还是会认真分析，探究因果，有时候也会自己分析一翻，但是作为科普工作者，他又十分负责，每次自己的猜想都会再三提醒读者，至少让我读起来觉得更加信服。张辰亮在书里总是各种吐槽聂璜，但是我总能隐隐感到他也是非常喜欢甚至是佩服生活在清代的聂璜的。就像他总是抱怨科普工作的艰辛，但是他总是孜孜不倦的在做着努力，佩服。</p>
 <p>一口气读完这三本海错图笔记，感想很多，尤其看到六七十年代人们环保观念不足，可持续发展观念的缺失，很多珍贵（也美味的）的海洋生物几乎消失甚至灭绝，真的非常心痛。</p>
-<p>不管怎样，这真的是套好书，已经让太太下单了第四套，等下次海运的时候一起送来。</p>]]></description></item><item><title>2023 年终总结</title><link>https://chaoruan.xyz/posts/2023-end-of-year-summary/</link><pubDate>Mon, 01 Jan 2024 14:45:00 +1100</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/2023-end-of-year-summary/</guid><description><![CDATA[<div class="featured-image">
+<p>不管怎样，这真的是套好书，已经让太太下单了第四套，等下次海运的时候一起送来。</p>]]></description></item><item><title>回归本心</title><link>https://chaoruan.xyz/posts/return-to-normal/</link><pubDate>Wed, 10 Jan 2024 16:21:00 +1100</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/return-to-normal/</guid><description><![CDATA[<p>在完成了<a href="https://chaoruan.xyz/zh-cn/posts/2023-end-of-year-summary/" target="_blank" rel="noopener noreffer ">2023年终总结</a>之后，我便不断地回顾我的2023年。我意识到，遗憾确实不少，对于那些未能做到或可以做得更好的事情，我有了更深刻的认识。我渴望在新的一年里生活得更充实、更高效，也更快乐。因此，我对改变自己在新一年的各个方面充满了动力。</p>
+<p>。我为这个计划设定了季度目标和年终目标，并为了更好地完成它们，我还设定了相应的奖励。我希望，在回顾2024年时，我的感受会比现在好一些。</p>
+<p>除了新年计划，我还希望能逐渐远离短视频和综艺节目。回想2023年，我在抖音和各种视频网站上的综艺节目中花费了大量时间。当时虽然沉迷其中感到快乐，但现在回想起来，却觉得毫无意义。我每天在抖音上花费两三个小时（来自iOS的Screen Time数据），为何不将这些时间用于更有意义的事情呢？</p>
+<p>我利用iOS的App Limit功能，为抖音和Twitter都设置了时间限制。我尝试过直接删除这些应用，但我意识到自己并不能与世隔绝。利用工具，回归本心显得更为重要。我也决定限制自己观看综艺节目的时间，只在周末观看，将休闲娱乐的时间重新投入到阅读中。</p>
+<p>说起来有些惭愧，这几年我读的书很少。并非是没有书可读，事实上我和太太这几年买了不少书，很多都是从淘宝海运到澳洲的。我们买书时总是兴致勃勃，但书一到手就被搁置在书架上。我希望自己能够重新投入到阅读中，尤其是读完这几年购买的书籍。看了<a href="https://www.youtube.com/watch?v=0iaU9VZXKUQ" target="_blank" rel="noopener noreffer ">10 Tips to Actually Read 100 Books in 2024</a> 之后最让我受益的是：不必总觉得非得把每本书读完不可。阅读应该是一种享受，而非像任务一样去完成每一本书。多读书是好事，能读完自然更佳，如果读完后还能写下自己的书评，那就更加完美了。</p>
+<p>接下来谈谈游戏。作为一个游戏玩家，我从不认为在游戏上花费的时间是浪费。相反，这是让我最能放松的事情。我期望自己能玩自己喜欢的游戏，并在完成后写下感想，这也是对每个游戏最大的尊重。</p>
+<p>写了这么多，不仅是为了打发自己突然不看短视频后的空虚，更多的是为自己立下flag，期盼新的变化，让我在回顾2024年时没有遗憾。</p>
+]]></description></item><item><title>Cocoon 完结感想</title><link>https://chaoruan.xyz/posts/cocoon-review/</link><pubDate>Wed, 03 Jan 2024 20:44:00 +1100</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/cocoon-review/</guid><description><![CDATA[<div class="featured-image">
+                <img src="/ox-hugo/cocoon-review-zh-cover.jpeg" referrerpolicy="no-referrer">
+            </div><p>新年期间，我玩了2024年的第一个游戏，名为《<a href="https://store.steampowered.com/app/1497440/COCOON/" target="_blank" rel="noopener noreffer ">Cocoon</a>》。之所以选择它，是因为它荣获了“最佳首作独立游戏”奖项，并且多次被 <a href="https://www.youtube.com/@SkillUp" target="_blank" rel="noopener noreffer ">SkillUp</a>  推荐，因此我利用元旦假期好好体验了一番。游戏并不长，而且节奏设计得非常好，让我一气呵成地玩到了结尾。</p>
+<p>作为独立游戏，无论是画面还是玩法，它都给我留下了深刻的印象。最大的特色之一就是游戏完全没有文字引导，尽管游戏机制相当复杂。游戏通过视觉元素和巧妙的设计逐渐揭示复杂的玩法，每完成一个阶段，我都有种与开发者进行了一次心灵交流的感觉。</p>
+<p>这个游戏没有太多剧情，主要是利用其独特的嵌套世界机制进行解谜和推进游戏进度。每个小世界都有自己独特的风格和机制，让我想起了电影《盗梦空间》，同时又有那种“一沙一世界”的感觉。解密的过程令人畅快淋漓，让人根本停不下来，同时游戏的音乐和音效都非常出色，画面细节和控制手感也都极佳。</p>
+<p>不过，游戏也有我不太喜欢的地方。主要就是这个游戏的Boss战节奏。Boss战其实并不多，大概只有四五场，虽然Boss的设计和机制我觉得都很不错，但是对于我这种手残玩家来说，有些Boss战显得有些冗长，让我感到有点挫败。几乎所有的Boss战都过于漫长，我还是更喜欢解密部分的节奏。</p>
+<p>总的来说，这款游戏还是让我印象深刻，各个方面都非常新颖，确实是一款值得推荐的独立游戏。</p>
+]]></description></item><item><title>2023 年终总结</title><link>https://chaoruan.xyz/posts/2023-end-of-year-summary/</link><pubDate>Mon, 01 Jan 2024 14:45:00 +1100</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/2023-end-of-year-summary/</guid><description><![CDATA[<div class="featured-image">
                 <img src="/ox-hugo/2023-end-of-year-summary-zh-cover.jpeg" referrerpolicy="no-referrer">
             </div><p>2023年结束了，在这一年的最后一天，写下这一年的简单总结吧。</p>
 <p>突然要写些总结还挺难的，还是从俗套的各个方面来写下吧。</p>
@@ -151,66 +185,4 @@
 <h2 id="健康">健康</h2>
 <p>相比还算好的工作和不错的生活，我觉得在健康这方面我做得不够好。工作忙成了我不锻炼的借口，也没有很好地控制饮食，体重一度达到了最高峰，同时我也生了两次不大不小的病。感觉自己忘记了健康的重要性。这也让我想到了，我需要在新的一年为自己制定一个更有意义的2024计划。</p>
 <h2 id="后记">后记</h2>
-<p>从2019年到现在，疫情似乎给时间加了速，时间匆匆流逝。往年我不会去写年终总结和新年计划，但今年开始了这个习惯，希望记录可以帮助我更好地回忆，也能让我更好地前进。</p>]]></description></item><item><title>炒饭周摘 2023-04-23</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-04-23/</link><pubDate>Sun, 30 Apr 2023 10:22:00 +1000</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-04-23/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/ox-hugo/weekly-summary-2023-04-23-cover.jpeg" referrerpolicy="no-referrer">
-            </div><p>封面是新入手的定制克苏鲁风格的键帽和航插数据线， 好喜欢</p>
-<h2 id="读了什么">读了什么</h2>
-<h3 id="大医-日出篇"><a href="https://book.douban.com/subject/36155568/" target="_blank" rel="noopener noreffer ">大医·日出篇</a></h3>
-<p>开始看马亲王的【大医】 第二部， 还是蛮喜欢第一部的， 拿到第二部后现在才抽出时间开始看，希望这周能看完。</p>
-<h3 id="一次做近视屈光手术-icl-晶体植入-的流水账-少数派"><a href="https://sspai.com/post/79450" target="_blank" rel="noopener noreffer ">一次做近视屈光手术（ICL 晶体植入）的流水账 - 少数派</a></h3>
-<p>我有时候一直在想， 自己要不要去做手术治好跟随我20多年的近视眼， 可一想到要在眼睛上动刀子，心理的恐惧就疯狂袭来。 想起疫情前有看到似乎有种新的视力校正手术，无痛五分钟做完， 不知道什么时候会看到。</p>
-<h2 id="看了什么">看了什么</h2>
-<h3 id="succession-s1"><a href="https://www.imdb.com/title/tt7660850/episodes?season=1" target="_blank" rel="noopener noreffer ">Succession S1</a></h3>
-<p>第一季看完了， 确实精彩， 当物质需求已经到达上限后，人最在乎的思惑只有精神需求。</p>
-<h3 id="ant-man-and-the-wasp-quantumania--2023"><a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a></h3>
-<p>效果很华丽的漫威烂片， 第四阶段的漫威宇宙真的没什么好看的， 幸亏没有跑到电影院花冤枉钱。 不过 <a href="https://www.imdb.com/name/nm0748620/?ref_=tt_cl_i_1" target="_blank" rel="noopener noreffer ">Paul Rudd</a> 是怎么做到一点都不老的？</p>
-<h3 id="i-played-tears-of-the-kingdom--spoiler-free-hands-on-impressions--youtube"><a href="https://www.youtube.com/watch?v=TESNhgSeTTw&amp;ab_channel=SkillUp" target="_blank" rel="noopener noreffer ">I played Tears of the Kingdom (spoiler-free hands-on impressions) - YouTube</a></h3>
-<p>真实等不及， 看得心痒痒， 真的一刻都不想等了</p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/TESNhgSeTTw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
-<h2 id="做了什么">做了什么</h2>
-<h3 id="yabai-and-skhd"><a href="https://github.com/koekeishiya/yabai" target="_blank" rel="noopener noreffer ">yabai</a> &amp; <a href="https://github.com/koekeishiya/skhd" target="_blank" rel="noopener noreffer ">skhd</a></h3>
-<p>我惊讶自己现在才发现 yabai 这么好用的窗口管理工具， 用了之后真的是爱不释手！ 解决了很多我以前的使用痛点。 而且也给我机会好好使用 Mac 的多桌面。 花了一个晚上把自己的工作和个人 MBP 都配置了， 用了一周后，我就知道我已经离不开它了</p>
-<h3 id="stow"><a href="https://www.gnu.org/software/stow/" target="_blank" rel="noopener noreffer ">Stow</a></h3>
-<p>我的 dotfiles 管理一直都有点随心所欲， 但是 yabai 和 skhd 让我意识到 多个系统的 dotfiles 的同步已经迫在眉睫， 我之前是自己写的 script 来同步的， 这次用上了 Stow， 同时把 emacs 的 config 也搬了过去。
-基本照抄了 <a href="https://www.youtube.com/@SystemCrafters" target="_blank" rel="noopener noreffer ">System Crafters</a> 的设置</p>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/90xMTKml9O0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
-<h3 id="sonos-era-100"><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></h3>
-<p>非常幸运的用七折的价钱买到了 Sonos 上个月才出的新的音响， 后来证实七折的打折码是员工失误造成， 但是对于在那一小时下单的交易， Sonos 还是很大方的发货了。 入手后真的很高兴， 家里的这一套家庭影像算是有了完全体, 用这一套看了 <a href="https://www.imdb.com/title/tt10954600/" target="_blank" rel="noopener noreffer ">Ant-Man and the Wasp: Quantumania (2023)</a>， 效果还是很不错的</p>
-<ul>
-<li><a href="https://www.sonos.com/en-au/shop/arc" target="_blank" rel="noopener noreffer ">Arc</a></li>
-<li><a href="https://www.sonos.com/en-au/shop/sub" target="_blank" rel="noopener noreffer ">Sub</a></li>
-<li><a href="https://www.sonos.com/en-au/shop/two-room-set-era-100-white" target="_blank" rel="noopener noreffer ">Sonos Era 100</a></li>
-</ul>]]></description></item><item><title>回归本心</title><link>https://chaoruan.xyz/posts/return-to-normal/</link><pubDate>Wed, 10 Jan 2024 16:21:00 +1100</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/return-to-normal/</guid><description><![CDATA[<p>在完成了<a href="https://chaoruan.xyz/zh-cn/posts/2023-end-of-year-summary/" target="_blank" rel="noopener noreffer ">2023年终总结</a>之后，我便不断地回顾我的2023年。我意识到，遗憾确实不少，对于那些未能做到或可以做得更好的事情，我有了更深刻的认识。我渴望在新的一年里生活得更充实、更高效，也更快乐。因此，我对改变自己在新一年的各个方面充满了动力。</p>
-<p>。我为这个计划设定了季度目标和年终目标，并为了更好地完成它们，我还设定了相应的奖励。我希望，在回顾2024年时，我的感受会比现在好一些。</p>
-<p>除了新年计划，我还希望能逐渐远离短视频和综艺节目。回想2023年，我在抖音和各种视频网站上的综艺节目中花费了大量时间。当时虽然沉迷其中感到快乐，但现在回想起来，却觉得毫无意义。我每天在抖音上花费两三个小时（来自iOS的Screen Time数据），为何不将这些时间用于更有意义的事情呢？</p>
-<p>我利用iOS的App Limit功能，为抖音和Twitter都设置了时间限制。我尝试过直接删除这些应用，但我意识到自己并不能与世隔绝。利用工具，回归本心显得更为重要。我也决定限制自己观看综艺节目的时间，只在周末观看，将休闲娱乐的时间重新投入到阅读中。</p>
-<p>说起来有些惭愧，这几年我读的书很少。并非是没有书可读，事实上我和太太这几年买了不少书，很多都是从淘宝海运到澳洲的。我们买书时总是兴致勃勃，但书一到手就被搁置在书架上。我希望自己能够重新投入到阅读中，尤其是读完这几年购买的书籍。看了<a href="https://www.youtube.com/watch?v=0iaU9VZXKUQ" target="_blank" rel="noopener noreffer ">10 Tips to Actually Read 100 Books in 2024</a> 之后最让我受益的是：不必总觉得非得把每本书读完不可。阅读应该是一种享受，而非像任务一样去完成每一本书。多读书是好事，能读完自然更佳，如果读完后还能写下自己的书评，那就更加完美了。</p>
-<p>接下来谈谈游戏。作为一个游戏玩家，我从不认为在游戏上花费的时间是浪费。相反，这是让我最能放松的事情。我期望自己能玩自己喜欢的游戏，并在完成后写下感想，这也是对每个游戏最大的尊重。</p>
-<p>写了这么多，不仅是为了打发自己突然不看短视频后的空虚，更多的是为自己立下flag，期盼新的变化，让我在回顾2024年时没有遗憾。</p>
-]]></description></item><item><title>炒饭周摘 2023-05-01</title><link>https://chaoruan.xyz/posts/weekly-summary-2023-05-01/</link><pubDate>Tue, 09 May 2023 10:45:00 +1000</pubDate><author>blog@chaoruan.dev (Chao Ruan)</author><guid>https://chaoruan.xyz/posts/weekly-summary-2023-05-01/</guid><description><![CDATA[<div class="featured-image">
-                <img src="/ox-hugo/weekly-summary-2023-05-01-cover.jpeg" referrerpolicy="no-referrer">
-            </div><p>封面是想催我们睡觉的小公主</p>
-<h2 id="读了什么">读了什么</h2>
-<h3 id="陌生之城的夜游"><a href="https://hsingko.pages.dev/post/2023/05/07/night-walk-in-a-foreign-city/" target="_blank" rel="noopener noreffer ">陌生之城的夜游</a></h3>
-<p>很喜欢这种简简单单的随笔， 文笔轻松带着淡淡的忧伤，这种阅读的感觉真的很舒服。</p>
-<h2 id="看了什么">看了什么</h2>
-<h3 id="chatgpt-prompt-engineering-for-developers"><a href="https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/" target="_blank" rel="noopener noreffer ">ChatGPT Prompt Engineering for Developers</a></h3>
-<p>吴教授这份学习指南出来一周了吧，一直准备想看看但是却总因为各种各样的借口没有去看。给自己立个flag，希望下周可以好好看看</p>
-<h3 id="游戏为什么会偷跑-厂商就没有办法吗-偷跑背后的原因"><a href="https://www.youtube.com/watch?v=3pXFGVGTo4g" target="_blank" rel="noopener noreffer ">游戏为什么会偷跑？厂商就没有办法吗？偷跑背后的原因</a></h3>
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/3pXFGVGTo4g?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
-<p>国王之泪的偷跑我是有担心的，但是没想到竟然提前十多天就被偷跑，而且更重要的是直接可以用模拟器跑起来，门坎大大降低，传播广，危害大， 我理解那些想去玩盗版的心情，但是我不能理解那些玩了盗版跑来四处炫耀剧透的人渣。</p>
-<h3 id="漫长的季节"><a href="https://movie.douban.com/subject/35588177/" target="_blank" rel="noopener noreffer ">漫长的季节</a></h3>
-<p>我并没有好好看辛爽导演的<a href="https://movie.douban.com/subject/33404425/" target="_blank" rel="noopener noreffer ">隐秘的角落</a>， 只知道非常好，太太看了之后赞不绝口，这周就果断追着看完了。 有些惊到了。 这部电视剧服道化到故事剧情， 都是近年少有的好剧，用喜剧讲悲剧，讲的这么真实，接地气， 才能真正打动每个看过的心灵。 虽然开头节奏慢，但是我和太太还是看得津津有味，全局也能看出为了过审的改编痕迹，但这些都不影响最后三集狂风骤雨的故事展现。我感叹现在还能看到这么好的中国电视剧。当浮一大白！</p>
-<h3 id="guardians-of-the-galaxy-vol-dot-3--2023--imdb"><a href="https://www.imdb.com/title/tt6791350/" target="_blank" rel="noopener noreffer ">Guardians of the Galaxy Vol. 3 (2023) - IMDb</a></h3>
-<p>我上周还在吐槽漫威宇宙第四阶段的疲软，这周日就看到了漫威久违的好电影。 滚导的审美一如既往的在线。声画都很棒，如果第四阶段每一部都有这样的水平该多好！ 这应该是最后一部银河护卫队了，不过也没有什么好遗憾的，都要和过去说再见，往前走，莫回头。</p>
-<h2 id="做了什么">做了什么</h2>
-<h3 id="这家伙很懒-这周什么也没做">这家伙很懒，这周什么也没做</h3>]]></description></item></channel></rss>
+<p>从2019年到现在，疫情似乎给时间加了速，时间匆匆流逝。往年我不会去写年终总结和新年计划，但今年开始了这个习惯，希望记录可以帮助我更好地回忆，也能让我更好地前进。</p>]]></description></item></channel></rss>
