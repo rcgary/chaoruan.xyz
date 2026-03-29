@@ -5,7 +5,6 @@ lastmod = 2023-05-09T10:45:24+10:00
 tags = ["weekly"]
 draft = false
 featuredImage = "/ox-hugo/weekly-summary-2023-05-01-cover.jpeg"
-featuredImagePreview = "/ox-hugo/weekly-summary-2023-05-01-preview.jpeg"
 +++
 
 The cover features the little princess urging us to go to sleep.

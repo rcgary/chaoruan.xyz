@@ -5,7 +5,6 @@ lastmod = 2023-04-30T10:25:51+10:00
 tags = ["weekly"]
 draft = false
 featuredImage = "/ox-hugo/weekly-summary-2023-04-23-cover.jpeg"
-featuredImagePreview = "/ox-hugo/weekly-summary-2023-04-23-preview.jpeg"
 +++
 
 封面是新入手的定制克苏鲁风格的键帽和航插数据线， 好喜欢

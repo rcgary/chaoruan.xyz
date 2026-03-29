@@ -4,7 +4,6 @@ date = 2023-03-19T14:59:00+11:00
 lastmod = 2023-04-08T11:26:33+10:00
 draft = false
 tags = ["travel", "japan", "food"]
-featuredImagePreview = "/ox-hugo/feasting-in-japan-cn-preview.jpeg"
 +++
 
 ## 🍽️ 准备就绪 {#️-准备就绪}

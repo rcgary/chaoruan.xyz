@@ -5,7 +5,6 @@ lastmod = 2024-12-31T19:02:25+11:00
 tags = ["life", "year-in-review"]
 draft = false
 featuredImage = "/ox-hugo/2024-end-of-year-summary-change-zh-cn-cover.jpeg"
-featuredImagePreview = "/ox-hugo/2024-end-of-year-summary-change-zh-cn-preview.jpeg"
 +++
 
 这一年真的过得很快。我有很多变化。像去年一样，今年我准备还是要写一个年终总结，但是因为整体的一年我的记录比较多，从生活的各个方面到健康、健身、游戏、娱乐、工作、学习等各个方面，感觉自己还是有很多地方可以总结的。所以这次的年终总结应该会分成不同的部分。

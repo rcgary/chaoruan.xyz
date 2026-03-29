@@ -5,7 +5,6 @@ lastmod = 2024-01-01T14:45:40+11:00
 tags = ["life", "year-in-review"]
 draft = false
 featuredImage = "/ox-hugo/2023-end-of-year-summary-zh-cover.jpeg"
-featuredImagePreview = "/ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg"
 +++
 
 2023年结束了，在这一年的最后一天，写下这一年的简单总结吧。

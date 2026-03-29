@@ -5,7 +5,6 @@ lastmod = 2024-12-19T18:49:59+11:00
 tags = ["gaming", "review"]
 draft = false
 featuredImage = "/ox-hugo/balatro-review-zh-cover.jpeg"
-featuredImagePreview = "/ox-hugo/balatro-review-zh-preview.jpeg"
 +++
 
 [Balatro](https://store.steampowered.com/app/2379780/Balatro/) 现在还没有官方的中文翻译，玩家里还是喜欢叫它「小丑牌」,虽然直白但是最能体现这个游戏最独特的地方。

@@ -5,7 +5,6 @@ lastmod = 2024-02-08T18:43:46+11:00
 tags = ["gaming", "review"]
 draft = false
 featuredImage = "/ox-hugo/ghost-trick-review-zh-cover.jpeg"
-featuredImagePreview = "/ox-hugo/ghost-trick-review-zh-preview.jpeg"
 +++
 
 第一次知道[「幽灵诡计」](https://store.steampowered.com/app/1967430/Ghost_Trick_Phantom_Detective/)是在机核的一期[节目](https://www.gcores.com/radios/176229)。在主持人的热情推荐，我节目没听完就买下了这款游戏。

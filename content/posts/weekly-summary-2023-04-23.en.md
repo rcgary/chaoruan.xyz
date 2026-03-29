@@ -5,7 +5,6 @@ lastmod = 2023-04-30T10:35:13+10:00
 tags = ["weekly"]
 draft = false
 featuredImage = "/ox-hugo/weekly-summary-2023-04-23-cover.jpeg"
-featuredImagePreview = "/ox-hugo/weekly-summary-2023-04-23-preview.jpeg"
 +++
 
 The cover features my newly custom Cthulhu-style keycaps and an aviator cable. Love it!

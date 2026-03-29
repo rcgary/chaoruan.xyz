@@ -5,7 +5,6 @@ lastmod = 2024-12-30T19:02:25+11:00
 tags = ["gaming", "year-in-review"]
 draft = false
 featuredImage = "/ox-hugo/2024-end-of-year-summary-game-zh-cn-cover.jpeg"
-featuredImagePreview = "/ox-hugo/2024-end-of-year-summary-game-zh-cn-preview.jpeg"
 +++
 
 今年一年，我玩了20多个游戏，跨越了主机平台如Switch、PS5，还有PC。虽然大家都说今年是游戏小年，但我玩到了近几年最喜欢的游戏，也尝试了很多新类别，甚至玩了不少手机游戏。写个游戏回顾吧，选出自己毋庸置疑的年度游戏，同时也聊聊今年我挺喜欢的几个游戏。

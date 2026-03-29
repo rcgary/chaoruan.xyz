@@ -5,7 +5,6 @@ lastmod = 2024-02-22T17:52:54+11:00
 tags = ["movies", "review"]
 draft = false
 featuredImage = "/ox-hugo/two-movie-reviews-cn-cover.jpeg"
-featuredImagePreview = "/ox-hugo/two-movie-reviews-cn-preview.jpg"
 +++
 
 这个周末得闲，分别在家看了 Apple TV 新出的游戏传记电影 [Tetris](https://www.imdb.com/title/tt12758060/)。 以及在影院看了 [John Wick: Chapter 4](https://www.imdb.com/title/tt10366206/)， 都挺喜欢的， 写上几笔影评，记录一下。 剧透警告！

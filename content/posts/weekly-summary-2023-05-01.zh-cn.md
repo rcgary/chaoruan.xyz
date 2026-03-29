@@ -5,7 +5,6 @@ lastmod = 2024-01-01T14:05:51+11:00
 tags = ["weekly"]
 draft = false
 featuredImage = "/ox-hugo/weekly-summary-2023-05-01-cover.jpeg"
-featuredImagePreview = "/ox-hugo/weekly-summary-2023-05-01-preview.jpeg"
 +++
 
 封面是想催我们睡觉的小公主

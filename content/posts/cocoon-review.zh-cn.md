@@ -5,7 +5,6 @@ lastmod = 2024-01-25T15:55:13+11:00
 tags = ["gaming", "review"]
 draft = false
 featuredImage = "/ox-hugo/cocoon-review-zh-cover.jpeg"
-featuredImagePreview = "/ox-hugo/cocoon-review-zh-preview.jpeg"
 +++
 
 新年期间，我玩了2024年的第一个游戏，名为《[Cocoon](https://store.steampowered.com/app/1497440/COCOON/)》。之所以选择它，是因为它荣获了“最佳首作独立游戏”奖项，并且多次被 [SkillUp](https://www.youtube.com/@SkillUp)  推荐，因此我利用元旦假期好好体验了一番。游戏并不长，而且节奏设计得非常好，让我一气呵成地玩到了结尾。

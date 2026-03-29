@@ -5,7 +5,6 @@ lastmod = 2024-07-16T09:20:34+10:00
 tags = ["life", "reflection"]
 draft = true
 featuredImage = "/ox-hugo/2023-end-of-year-summary-zh-cover.jpeg"
-featuredImagePreview = "/ox-hugo/2023-end-of-year-summary-zh-cover-preview.jpeg"
 +++
 
 本来我对 New Year's resolutions 这种东西我本来并不相信，确切的来说，并不相信能够有什么帮助，但是我觉得有一个计划，比一个目标更加靠谱，也可以让目标的东西能够更好的实现，回顾自己的2023，我觉得自己能够专注，高效的实现新年目标。我相信，超过四个的目标就无法第一时间记住，想起，就更别说实现了，所以我会把自己的新年目标设为三个，对应着我的三个方向，工作生活以及健康。我同时也会把自己的目标以季度的方式规划。也会给自己的做好奖励，每完成每个季度的目标，我都会得到一个奖励，如果四个季度都完成了，那么我还要给自己一个年终大奖，也算是一种激励的方式。这个的新年目标设定以及计划，Misty 也会参与，所以我们两个会共同设计目标和计划。
