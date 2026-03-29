@@ -5,7 +5,7 @@ theme = "LoveIt"
 defaultContentLanguage = "zh-cn"
 
 [params]
-  version = "0.3.X"
+  version = "0.3.1"
   defaultTheme = "auto"
 
   [params.header]
