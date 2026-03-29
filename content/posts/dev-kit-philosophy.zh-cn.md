@@ -1,3 +1,4 @@
+
 +++
 title = "我怎么配置每一台电脑"
 date = 2026-03-29T17:00:00+11:00
@@ -44,5 +45,3 @@ Caps Lock 一键两用：单击是 Escape，按住是 Hyper。macOS 上用 [Kara
 tmux 的会话通过 [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) 和 [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) 自动保存和恢复。撤销历史跨重启保持。[zoxide](https://github.com/ajeetdsouza/zoxide) 记得去过的目录。终端崩了，tmux 会话还在。机器重启了，一条命令从 git 把其他的东西拉回来。重要的东西不只活在内存里。
 
 ---
-
-Dotfiles 仓库在[这里](https://github.com/cubelink-org/dotfiles)，感兴趣可以看看。

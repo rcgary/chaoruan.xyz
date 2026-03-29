@@ -44,5 +44,3 @@ Install chezmoi, run init, answer a few prompts, and the platform installer hand
 Sessions auto-save and auto-restore via [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) and [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum). Undo history persists across restarts. [zoxide](https://github.com/ajeetdsouza/zoxide) remembers directories. If the terminal crashes, the tmux sessions are still there. If the machine reboots, one command rebuilds the rest from git. Nothing important lives only in memory.
 
 ---
-
-The dotfiles repo is [here](https://github.com/cubelink-org/dotfiles) if you want to look around.
