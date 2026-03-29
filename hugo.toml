@@ -1,0 +1,147 @@
+baseURL = 'https://chaoruan.xyz'
+
+theme = "LoveIt"
+
+defaultContentLanguage = "zh-cn"
+
+[params]
+  version = "0.3.X"
+  defaultTheme = "auto"
+
+  [params.header]
+    desktopMode = "fixed"
+    mobileMode = "auto"
+    [params.header.title]
+      name = "Chaos Talk"
+      typeit = false
+
+  [params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      subtitle = "Share my life experiences, tech insights, and random musings"
+      typeit = false
+      social = true
+    [params.home.posts]
+      enable = true
+      paginate = 6
+
+  [params.footer]
+    enable = true
+    hugo = true
+    copyright = true
+    author = true
+    since = 2022
+    license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+
+  [params.social]
+    GitHub = "rcgary"
+    Linkedin = "chao-ruan"
+    Twitter = "chaoruan"
+    Email = "blog@chaoruan.dev"
+    RSS = true
+
+  [params.page]
+    hiddenFromHomePage = false
+    fraction = true
+    fontawesome = true
+    rssFullText = true
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+    [params.page.comment]
+      enable = true
+      [params.page.comment.disqus]
+        enable = true
+        shortname = "chaosblog"
+
+  # TODO: Set up GA4 property and add measurement ID here
+  # [params.analytics]
+  #   enable = true
+  #   [params.analytics.google]
+  #     id = "G-XXXXXXXXXX"
+
+  [params.author]
+    name = "Chao Ruan"
+    email = "blog@chaoruan.dev"
+
+[languages]
+  [languages.en]
+    weight = 1
+    title = "Chaos Talk"
+    languageCode = "en"
+    languageName = "English"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      name = "Posts"
+      url = "/posts/"
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "tags"
+      name = "Tags"
+      url = "/tags/"
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "categories"
+      name = "Categories"
+      url = "/categories/"
+      weight = 3
+    [[languages.en.menu.main]]
+      identifier = "about"
+      name = "About"
+      url = "/about/"
+      weight = 4
+
+  [languages.zh-cn]
+    weight = 2
+    title = '炒碗软饭'
+    description = '分享我的生活经验、技术见解以及随性的思考'
+    languageCode = "zh-CN"
+    languageName = "简体中文"
+    hasCJKLanguage = true
+    [[languages.zh-cn.menu.main]]
+      identifier = "posts"
+      name = "文章"
+      url = "/posts/"
+      weight = 1
+    [[languages.zh-cn.menu.main]]
+      identifier = "tags"
+      name = "标签"
+      url = "/tags/"
+      weight = 2
+    [[languages.zh-cn.menu.main]]
+      identifier = "categories"
+      name = "分类"
+      url = "/categories/"
+      weight = 3
+    [[languages.zh-cn.menu.main]]
+      identifier = "about"
+      name = "关于"
+      url = "/about/"
+      weight = 4
+    [languages.zh-cn.params.home.profile]
+      subtitle = "分享我的生活经验、技术见解以及随性的思考"
+    [languages.zh-cn.params.header.title]
+      name = "炒碗软饭"
+    [languages.zh-cn.params.page]
+      rssFullText = true
+    [languages.zh-cn.params.page.share]
+      enable = true
+      Twitter = true
+    [languages.zh-cn.params.page.comment]
+      enable = true
+      [languages.zh-cn.params.page.comment.disqus]
+        enable = true
+        shortname = "chaosblog"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5
