@@ -1,40 +1,32 @@
 +++
 title = "About Me"
 date = 2023-02-19T15:04:00+11:00
-lastmod = 2023-02-19T15:31:34+11:00
+lastmod = 2026-03-29T17:08:00+11:00
 draft = false
-weight = 2005
 +++
 
-## 👋 Hi There {#hi-there}
+## About me
 
-I'm Chao, a software engineer with almost a decade of experience building iOS apps. I came to Melbourne in 2008 to study, and I've been living here ever since. I love the city's vibrant culture and fantastic coffee.
+Based in Melbourne. I've been writing software for over a decade, mostly backend these days. I live with a cat named Cinnamon and a dog named Leo.
 
+Gaming is my main hobby. I play everything — indie gems, AAA titles, whatever's good. No genre loyalty, no platform wars, though PC is home base. When something hooks me I'll disappear for days. I also go to the gym sometimes, mostly so I can sit and game without guilt.
 
-## 🏠 WFH {#wfh}
+I like tinkering with things — productivity tools, automation, smart home setups. If it can be automated, it will be. The time I spend tinkering probably exceeds the time I save, but that's beside the point.
 
- Since 2020, I've been working remotely, which has been an exciting and challenging experience. I'm good at improving productivity and collaborating with team members in different time zones. I'm good at productivity and
-[GTD](<https://en.wikipedia.org/wiki/Getting_Things_Done>), and
-collaborating with team members in different time zones.
+I've had this blog for a few years. I don't write often, but when I do it could be about anything — tech, games, travel, food, stray thoughts. There's a Chinese version too, which gets updated more frequently.
 
+## Tools
 
-## 🖥 Tech {#tech}
+- Editor: [Neovim](https://neovim.io/)
+- Notes: [Obsidian](https://obsidian.md/)
+- Terminal: [WezTerm](https://wezfurlong.org/wezterm/) + [tmux](https://github.com/tmux/tmux)
+- CLI favorites: fzf, ripgrep, bat, lazygit, yazi, zoxide
+- Theme: Catppuccin Mocha (on everything)
+- Font: Fira Code
+- Dotfiles: [chezmoi](https://www.chezmoi.io/) (one config, every machine)
 
-️I'm a tech enthusiast who loves exploring new frameworks and tools for
-building user-friendly apps. I stay up-to-date with the latest trends in the
-industry and love to experiment with new technologies.
+## Get in touch
 
+Find me on [Twitter](https://twitter.com/chaoruan) — DMs are open.
 
-## 🤝 Connect with me {#connect-with-me}
-
- I'm always looking to connect with other professionals, especially those
-interested in iOS development and the latest tech trends. If you'd like to
-chat, feel free to drop me a line at [here](<mailto:blog@chaoruan.dev>).
-
-
-## 🛠️ Tools I use {#️-tools-i-use}
-
--   [org-roam](<https://www.orgroam.com/>)
--   [Fantastical](<https://flexibits.com/fantastical>)
--   [Things 3](<https://culturedcode.com/things/>)
--   [Spark](<https://sparkmailapp.com/>)
+I also have a [YouTube channel](https://www.youtube.com/@big_chao) where I play games. Updates are sporadic, skill level is average, but I show up.
