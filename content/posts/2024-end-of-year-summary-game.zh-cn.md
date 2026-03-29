@@ -2,7 +2,7 @@
 title = "2024 年终总结之游戏"
 date = 2024-12-30T00:00:00+11:00
 lastmod = 2024-12-30T19:02:25+11:00
-tags = ["年终总结"]
+tags = ["gaming", "year-in-review"]
 draft = false
 weight = 2001
 featuredImage = "/ox-hugo/2024-end-of-year-summary-game-zh-cn-cover.jpeg"

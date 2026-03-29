@@ -2,7 +2,7 @@
 title = "Running Oh-My-Zsh inside Spacemacs"
 date = 2019-10-26T10:58:00+11:00
 lastmod = 2022-04-15T15:23:49+10:00
-tags = ["emacs", "zsh"]
+tags = ["dev", "emacs", "zsh"]
 categories = ["programming"]
 draft = false
 weight = 2002

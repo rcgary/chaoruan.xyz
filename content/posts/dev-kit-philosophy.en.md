@@ -1,7 +1,7 @@
 +++
 title = "How I set up every machine"
 date = 2026-03-29T17:00:00+11:00
-tags = ["dev", "tools"]
+tags = ["dev", "tools", "dotfiles"]
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 title = "Notes for SwiftUI and Combine Programming (1)"
 date = 2019-11-08T22:54:00+11:00
 lastmod = 2022-04-15T15:23:34+10:00
-tags = ["swift", "iOS", "swiftUI"]
+tags = ["dev", "swift", "ios"]
 categories = ["programming"]
 draft = false
 weight = 2001

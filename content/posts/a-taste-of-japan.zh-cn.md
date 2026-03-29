@@ -2,7 +2,7 @@
 title = "初识日本"
 date = 2023-03-01T21:49:00+11:00
 lastmod = 2023-04-24T08:37:26+10:00
-tags = ["旅游"]
+tags = ["travel", "japan"]
 draft = false
 weight = 2005
 featuredImagePreview = "/ox-hugo/a-taste-of-japan-cn-preview.jpeg"

@@ -2,7 +2,7 @@
 title = "回归本心"
 date = 2024-01-10T16:21:00+11:00
 lastmod = 2024-01-25T15:53:51+11:00
-tags = ["reflect"]
+tags = ["life", "reflection"]
 draft = false
 weight = 2002
 +++

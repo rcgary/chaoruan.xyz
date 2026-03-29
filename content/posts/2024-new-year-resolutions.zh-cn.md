@@ -2,7 +2,7 @@
 title = "2024 新年计划"
 date = 2024-01-01T00:00:00+11:00
 lastmod = 2024-07-16T09:20:34+10:00
-tags = ["reflect"]
+tags = ["life", "reflection"]
 draft = true
 weight = 2007
 featuredImage = "/ox-hugo/2023-end-of-year-summary-zh-cover.jpeg"

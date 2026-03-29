@@ -2,7 +2,7 @@
 +++
 title = "我怎么配置每一台电脑"
 date = 2026-03-29T17:00:00+11:00
-tags = ["开发", "工具"]
+tags = ["dev", "tools", "dotfiles"]
 draft = false
 +++
 

@@ -2,7 +2,7 @@
 title = "绿豆汤记"
 date = 2024-02-25T16:14:00+11:00
 lastmod = 2024-02-25T16:14:59+11:00
-tags = ["美食"]
+tags = ["food", "life"]
 draft = false
 weight = 2001
 featuredImagePreview = "/ox-hugo/mung-bean-soup-zh.jpeg"

@@ -2,7 +2,7 @@
 title = "ox-hugo Install Issue with Spacemacs"
 date = 2019-10-23T18:42:00+11:00
 lastmod = 2023-04-24T08:31:57+10:00
-tags = ["emacs", "org"]
+tags = ["dev", "emacs"]
 categories = ["programming"]
 draft = true
 weight = 2005
