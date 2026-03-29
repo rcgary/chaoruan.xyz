@@ -18,5 +18,4 @@
 <h2 id="survive-everything">Survive everything</h2>
 <p>Sessions auto-save and auto-restore via <a href="https://github.com/tmux-plugins/tmux-resurrect" target="_blank" rel="noopener noreffer ">tmux-resurrect</a> and <a href="https://github.com/tmux-plugins/tmux-continuum" target="_blank" rel="noopener noreffer ">tmux-continuum</a>. Undo history persists across restarts. <a href="https://github.com/ajeetdsouza/zoxide" target="_blank" rel="noopener noreffer ">zoxide</a> remembers directories. If the terminal crashes, the tmux sessions are still there. If the machine reboots, one command rebuilds the rest from git. Nothing important lives only in memory.</p>
 <hr>
-<p>The dotfiles repo is <a href="https://github.com/cubelink-org/dotfiles" target="_blank" rel="noopener noreffer ">here</a> if you want to look around.</p>
 ]]></description></item></channel></rss>

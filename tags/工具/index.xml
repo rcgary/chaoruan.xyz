@@ -18,5 +18,4 @@
 <h2 id="什么都不会丢">什么都不会丢</h2>
 <p>tmux 的会话通过 <a href="https://github.com/tmux-plugins/tmux-resurrect" target="_blank" rel="noopener noreffer ">tmux-resurrect</a> 和 <a href="https://github.com/tmux-plugins/tmux-continuum" target="_blank" rel="noopener noreffer ">tmux-continuum</a> 自动保存和恢复。撤销历史跨重启保持。<a href="https://github.com/ajeetdsouza/zoxide" target="_blank" rel="noopener noreffer ">zoxide</a> 记得去过的目录。终端崩了，tmux 会话还在。机器重启了，一条命令从 git 把其他的东西拉回来。重要的东西不只活在内存里。</p>
 <hr>
-<p>Dotfiles 仓库在<a href="https://github.com/cubelink-org/dotfiles" target="_blank" rel="noopener noreffer ">这里</a>，感兴趣可以看看。</p>
 ]]></description></item></channel></rss>
