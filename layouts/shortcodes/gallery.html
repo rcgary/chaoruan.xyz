@@ -1,0 +1,15 @@
+{{ $images := split (.Get "images") "," }}
+{{ $captions := split (.Get "captions") "," }}
+<div class="gallery" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:8px;margin:1.5em 0;">
+{{ range $i, $img := $images }}
+  {{ $img = trim $img " " }}
+  {{ $cap := "" }}
+  {{ if lt $i (len $captions) }}{{ $cap = trim (index $captions $i) " " }}{{ end }}
+  <figure style="margin:0;">
+    <a href="{{ $img }}" data-lightgallery="gallery">
+      <img src="{{ $img }}" loading="lazy" style="width:100%;height:auto;border-radius:4px;cursor:zoom-in;" alt="{{ $cap }}">
+    </a>
+    {{ if $cap }}<figcaption style="font-size:0.85em;color:#666;text-align:center;margin-top:4px;">{{ $cap }}</figcaption>{{ end }}
+  </figure>
+{{ end }}
+</div>
