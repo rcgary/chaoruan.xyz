@@ -32,7 +32,7 @@ We planned half a day. By 1 PM we'd only covered one floor. We rushed upstairs f
 
 What we did see was enough. Emperor Qianlong's collection is absurd — calligraphy and paintings spanning the Tang through Qing dynasties, ceramics from the Neolithic to the Republic era. Five or six pieces of [secret-color celadon](https://en.wikipedia.org/wiki/Secret_colour_porcelain). A pair of Chenghua [chicken cups](https://en.wikipedia.org/wiki/Chicken_cup) — the museum has ten of them. Song dynasty [Ru ware](https://en.wikipedia.org/wiki/Ru_ware), cloisonné, Tang sancai. Apart from Yuan blue-and-white, the entire arc of Chinese ceramics was there. Like raiding Qianlong's personal collection room.
 
-{{< gallery images="cloisonne-vessel.jpg,buddha-statue.jpg" captions="Cloisonné vessel,Buddhist sculpture" >}}
+{{< gallery images="cloisonne-vessel.jpg,jadeite-cabbage.jpg,buddha-statue.jpg" captions="Cloisonné vessel,Jadeite Cabbage (Southern Branch),Buddhist sculpture" >}}
 
 The piece that stopped me was a calligraphy scroll. Emperor Gaozong of Song — Zhao Gou — wrote a personal dispatch to General [Yue Fei](https://en.wikipedia.org/wiki/Yue_Fei), praising him, encouraging him, calling him indispensable. Zhao Gou was himself a master calligrapher, and you can see the influence of [Wang Xizhi's Orchid Pavilion Preface](https://en.wikipedia.org/wiki/Lantingji_Xu) in every stroke. Eight months after writing this, he had Yue Fei executed. The names on the scroll — Yue Fei, Wuzhu, Han Shizhong, Zhang Jun — I'd read about all of them since childhood. Standing that close to something nearly a thousand years old, I had trouble breathing. My eyes got hot.
 

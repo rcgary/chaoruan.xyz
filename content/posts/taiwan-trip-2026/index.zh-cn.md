@@ -32,7 +32,7 @@ categories = ["travel"]
 
 但看到的已经足够震撼。乾隆的收藏太厉害了——唐宋元明清的书画，从石器时代到民国的瓷器，[秘色瓷](https://zh.wikipedia.org/wiki/秘色瓷)摆出五六件，[成化斗彩鸡缸杯](https://zh.wikipedia.org/wiki/鸡缸杯)还是一对，查了下北院一共有十只。宋代[汝窑](https://zh.wikipedia.org/wiki/汝窑)、掐丝珐琅、景泰蓝、唐三彩，除了元青花，中国瓷器的脉络几乎看全了。端了乾隆的手办房，大概就是这种感觉。
 
-{{< gallery images="cloisonne-vessel.jpg,buddha-statue.jpg" captions="掐丝珐琅,故宫佛像" >}}
+{{< gallery images="cloisonne-vessel.jpg,jadeite-cabbage.jpg,buddha-statue.jpg" captions="掐丝珐琅,翡翠白菜（故宫南院）,故宫佛像" >}}
 
 最让我动容的是一件书法。赵构，宋高宗，亲笔所书的[赐岳飞批劄](https://zh.wikipedia.org/wiki/岳飛)。赵构本身是顶级书法家，这幅字里能看到他研习[兰亭序](https://zh.wikipedia.org/wiki/蘭亭集序)之后的笔法影响。但让人心绪难平的是背后的故事——文中对岳飞鼓励嘉勉，写下这篇批文八个月后，他就杀了岳飞。岳飞、金兀术、韩世忠、张浚，一个个名字就在眼前。站在那里，离这件近千年前的东西这么近，呼吸都急促起来，眼眶也有点热。
 
