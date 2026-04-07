@@ -23,7 +23,7 @@ draft = false
 - 常用命令行: fzf, ripgrep, bat, lazygit, yazi, zoxide
 - 主题: Catppuccin Mocha（全家桶）
 - 字体: Fira Code
-- 配置管理: [chezmoi](https://www.chezmoi.io/)（一套配置跑所有机器）
+- 配置管理: [chezmoi](https://www.chezmoi.io/)（一套配置跑所有机器）。详见: [我怎么配置每一台电脑](/zh-cn/posts/dev-kit-philosophy/)
 
 ## 联系我
 

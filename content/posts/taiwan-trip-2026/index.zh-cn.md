@@ -2,11 +2,13 @@
 title = "台湾十日记"
 date = 2026-04-03T12:00:00+11:00
 draft = false
-tags = ["travel", "taiwan", "food"]
+tags = ["travel", "taiwan", "food", "video"]
 categories = ["travel"]
 [params]
   featuredImage = "jiufen.jpg"
 +++
+
+{{< youtube fe3tfpY0fkc >}}
 
 一直想去台湾。说不清为什么拖了这么久，可能是因为太近了——文化上的近。同样的文字，同样的语言，连信仰都差不多，总觉得什么时候去都行。
 

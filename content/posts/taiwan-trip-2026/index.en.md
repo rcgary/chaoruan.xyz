@@ -2,13 +2,15 @@
 title = "Ten Days in Taiwan"
 date = 2026-04-03T12:00:00+11:00
 draft = false
-tags = ["travel", "taiwan", "food"]
+tags = ["travel", "taiwan", "food", "video"]
 categories = ["travel"]
 [params]
   featuredImage = "jiufen.jpg"
 +++
 
-I'd been meaning to go to Taiwan for years. Kept putting it off. Probably because it felt too close — culturally close. Same written language, same folk religions, same lunar calendar rhythms. It never felt urgent.
+{{< youtube fe3tfpY0fkc >}}
+
+I'd been meaning to go to Taiwan for years. Kept putting it off. Probably because it felt too close, culturally close. Same written language, same folk religions, same lunar calendar rhythms. It never felt urgent.
 
 This March we finally went. Ten days. Taipei to Chiayi to Tainan and back. My wife handled the restaurant bookmarks and attraction list; I handled the history research and logistics. We've been doing this long enough that the division of labor works without discussion.
 
@@ -34,7 +36,7 @@ What we did see was enough. Emperor Qianlong's collection is absurd — calligra
 
 {{< gallery images="cloisonne-vessel.jpg,jadeite-cabbage.jpg,buddha-statue.jpg" captions="Cloisonné vessel,Jadeite Cabbage (Southern Branch),Buddhist sculpture" >}}
 
-The piece that stopped me was a calligraphy scroll. Emperor Gaozong of Song — Zhao Gou — wrote a personal dispatch to General [Yue Fei](https://en.wikipedia.org/wiki/Yue_Fei), praising him, encouraging him, calling him indispensable. Zhao Gou was himself a master calligrapher, and you can see the influence of [Wang Xizhi's Orchid Pavilion Preface](https://en.wikipedia.org/wiki/Lantingji_Xu) in every stroke. Eight months after writing this, he had Yue Fei executed. The names on the scroll — Yue Fei, Wuzhu, Han Shizhong, Zhang Jun — I'd read about all of them since childhood. Standing that close to something nearly a thousand years old, I had trouble breathing. My eyes got hot.
+The piece that stopped me was a calligraphy scroll. Emperor Gaozong of Song, Zhao Gou, wrote a personal dispatch to General [Yue Fei](https://en.wikipedia.org/wiki/Yue_Fei), praising him, encouraging him, calling him indispensable. Zhao Gou was himself a master calligrapher, and you can see the influence of [Wang Xizhi's Orchid Pavilion Preface](https://en.wikipedia.org/wiki/Lantingji_Xu) in every stroke. Eight months after writing this, he had Yue Fei executed. The names on the scroll, Yue Fei, Wuzhu, Han Shizhong, Zhang Jun, I'd read about all of them since childhood. Standing that close to something nearly a thousand years old, I had trouble breathing. My eyes got hot.
 
 {{< gallery images="yue-fei-scroll.jpg,yue-fei-detail.jpg" captions="Imperial dispatch to Yue Fei,Detail — 'To Yue Fei'" >}}
 
@@ -52,9 +54,9 @@ We caught a prayer ceremony at [Longshan Temple](https://maps.google.com/?q=龍�
 
 Ximending was smaller than I expected. What surprised me was the density of Japanese tourists — we bought our bubble tea surrounded by them. Browsed a four-story Pop Mart flagship and the [Red House](https://maps.google.com/?q=西門紅樓+台北).
 
-[Chiang Kai-shek Memorial Hall](https://maps.google.com/?q=中正紀念堂+台北) is worth the visit. The gate reads "Liberty Square" — renamed from "Great Centrality and Perfect Uprightness" in 2007 — but the building inside is still called Chiang Kai-shek Memorial Hall. Liberty and Chiang facing each other. Make of that what you will. The architecture mimics the Temple of Heaven in Beijing. I read his final testament, still calling for retaking the mainland to the very end. I bowed anyway. The lower level has a small exhibit of his personal effects — documents, letters, uniforms — which my wife and I found absorbing. Taiwan gives equal space to the [White Terror](https://en.wikipedia.org/wiki/White_Terror_(Taiwan)) and the [Lei Zhen incident](https://en.wikipedia.org/wiki/Free_China_Journal). A terminal plays his recorded speeches — fewer than ten of them. The rest of the memorial has nothing to do with politics: craft markets, art exhibitions, very Japanese aesthetics. The hourly guard-changing ceremony has become performative — there's no actual guard post anymore. The market ring around the memorial was the best part.
+[Chiang Kai-shek Memorial Hall](https://maps.google.com/?q=中正紀念堂+台北) is worth the visit. The gate reads "Liberty Square," renamed from "Great Centrality and Perfect Uprightness" in 2007, but the building inside is still called Chiang Kai-shek Memorial Hall. Liberty and Chiang facing each other. Make of that what you will. The architecture mimics the Temple of Heaven in Beijing. I read his final testament, still calling for retaking the mainland to the very end. I bowed anyway. The lower level has a small exhibit of his personal effects: documents, letters, uniforms. My wife and I found it absorbing. Taiwan gives equal space to the [White Terror](https://en.wikipedia.org/wiki/White_Terror_(Taiwan)) and the [Lei Zhen incident](https://en.wikipedia.org/wiki/Free_China_Journal). A terminal plays his recorded speeches — fewer than ten of them. The rest of the memorial has nothing to do with politics: craft markets, art exhibitions, very Japanese aesthetics. The hourly guard-changing ceremony has become pure performance. There's no actual guard post anymore. The market ring around the memorial was the best part.
 
-[Songshan Cultural Park](https://maps.google.com/?q=松山文創園區+台北) is a converted cigarette factory. We browsed the Eslite mall first. The 24-hour bookstore is real — I picked up Chiang Kai-shek's 1936 diary, because anyone who journals daily gets curious about other people's journals. The warehouse flea market inside the park was packed on a Friday afternoon. Artfully arranged vintage items and cart coffee. Tasteful, but nothing I wanted to buy. My wife felt the same. We couldn't explain it. Good aesthetics, interesting objects, zero purchase desire. This kept happening at Tainan's [Hayashi Department Store](https://maps.google.com/?q=林百貨+台南), the Anping old street, and [Yongkang Street](https://maps.google.com/?q=永康街+台北). Taiwan's creative scene puts in genuine effort. Something about the aesthetic just doesn't land for us.
+[Songshan Cultural Park](https://maps.google.com/?q=松山文創園區+台北) is a converted cigarette factory. We browsed the Eslite mall first. The 24-hour bookstore is real. I picked up Chiang Kai-shek's 1936 diary, because anyone who journals daily gets curious about other people's journals. The warehouse flea market inside the park was packed on a Friday afternoon. Artfully arranged vintage items and cart coffee. Tasteful, but nothing I wanted to buy. My wife felt the same. We couldn't explain it. Good aesthetics, interesting objects, zero purchase desire. This kept happening at Tainan's [Hayashi Department Store](https://maps.google.com/?q=林百貨+台南), the Anping old street, and [Yongkang Street](https://maps.google.com/?q=永康街+台北). Taiwan's creative scene puts in genuine effort. Something about the aesthetic just doesn't land for us.
 
 The one purchase I don't regret: a hand-carved seal. Found the shop on day one, ordered a horn stamp with my name in ancient seal script. Picked it up when we got back to Taipei. NT$3,000. Worth every cent.
 
@@ -106,7 +108,7 @@ Danshui first. My wife wanted to see Jay Chou's alma mater and the filming locat
 
 {{< image src="misty-beitou.jpg" caption="Secret filming spot" >}}
 
-Beitou for hot springs at [Marshal Zen Garden](https://maps.google.com/?q=少帥禪園+北投). The place has layers: first a rest station for kamikaze pilots during the Japanese occupation, then a residence where [Zhang Xueliang](https://en.wikipedia.org/wiki/Zhang_Xueliang) was held for over a decade. The sulfur smell is strong, the water milky white. My first time in this kind of spring. Private bath, a cold plunge pool next to it. The sensation of jumping between scalding and freezing is extraordinary — re-entering the hot water feels like a thousand tiny needles, then pure relief. Afterward we walked the garden. The view over Beitou toward Danshui is beautiful. Zhang Xueliang probably didn't enjoy it.
+Beitou for hot springs at [Marshal Zen Garden](https://maps.google.com/?q=少帥禪園+北投). The place has layers: first a rest station for kamikaze pilots during the Japanese occupation, then a residence where [Zhang Xueliang](https://en.wikipedia.org/wiki/Zhang_Xueliang) was held for over a decade. The sulfur smell is strong, the water milky white. My first time in this kind of spring. Private bath, a cold plunge pool next to it. The sensation of jumping between scalding and freezing is hard to describe. Re-entering the hot water feels like a thousand tiny needles, then pure relief. Afterward we walked the garden. The view over Beitou toward Danshui is something. Zhang Xueliang probably didn't enjoy it.
 
 Beef noodle soup had been on my mind since we arrived. Nearly a week in and still hadn't had any. Went to [Tian Xia San Jue](https://maps.google.com/?q=天下三絕牛肉麵+台北), a place that shows up on every list. It was fine. Nothing that made me stop chewing. Maybe my palate had gotten too demanding.
 
@@ -154,9 +156,9 @@ What I miss most: the intestine at Mianxian Chuanqi, the pepper buns at Raohe, a
 
 ## 🛬 After
 
-Taiwan felt different from every other country I've visited. There was no thrill of encountering an alien culture. Instead, a strange déjà vu. The shape of the streets, the smell of the temples, the night market chaos, the layered scent of the air. All familiar, yet constantly reminding me this isn't the mainland.
+Taiwan felt different from every other place I've visited. No thrill of encountering an alien culture. Instead, a strange déjà vu. The shape of the streets, the smell of the temples, the night market chaos, the air itself. All familiar, but constantly reminding me this isn't the mainland.
 
-What stayed with me most wasn't the scenery. It was the layered history. Thousand-year-old calligraphy in the Palace Museum. Imperial plaques in the Confucius Temple spanning from Kangxi to the current president. The contradictions inside Chiang Kai-shek Memorial Hall. Chikan Tower built on Dutch, then Qing, then Japanese, then ROC foundations. Every corner tells you this land has been through too much. And the Taiwanese keep living on top of all of it — praying, night-marketing, queueing, riding scooters, opening their shops at 2 PM.
+What stayed with me most wasn't the scenery. It was the history piled on top of itself. Thousand-year-old calligraphy in the Palace Museum. Imperial plaques in the Confucius Temple from Kangxi to the current president. The contradictions inside Chiang Kai-shek Memorial Hall. Chikan Tower built on Dutch, then Qing, then Japanese, then ROC foundations. Every corner has been through too much. And the Taiwanese keep living on top of all of it, praying, night-marketing, queueing, riding scooters, opening their shops at 2 PM.
 
 Ten days. About 180,000 steps. Two Palace Museums, one hot spring, one sky lantern. Chiayi was rough but the night market was loud. Tainan was so relaxed it made me sleepy. Taipei never stopped raining.
 

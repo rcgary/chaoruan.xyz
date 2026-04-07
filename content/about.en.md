@@ -23,7 +23,7 @@ I've had this blog for a few years. I don't write often, but when I do it could 
 - CLI favorites: fzf, ripgrep, bat, lazygit, yazi, zoxide
 - Theme: Catppuccin Mocha (on everything)
 - Font: Fira Code
-- Dotfiles: [chezmoi](https://www.chezmoi.io/) (one config, every machine)
+- Dotfiles: [chezmoi](https://www.chezmoi.io/) (one config, every machine). More on this: [How I set up every machine](/en/posts/dev-kit-philosophy/)
 
 ## Get in touch
 
